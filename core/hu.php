@@ -5,7 +5,7 @@ $LANG = array();
 
 // Category: Special
 $LANG["special_form_tools"] = "Form Tools";
-$LANG["special_language"] = "English";
+$LANG["special_language"] = "Hungarian";
 $LANG["special_language_locale"] = "Hungarian";
 $LANG["special_text_direction"] = "ltr";
 
