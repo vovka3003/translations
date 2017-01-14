@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Tá do r-phost a sheoladh go rathúil.";
 $LANG["phrase_upgrade_problem_link"] = "Tabhair cuairt ar an leathanach seo href=&quot;{\$link}&quot;&gt; &lt;a &lt;/ a&gt; uasghrádú maidir theip.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Aoine";
+$LANG["date_Friday"] = "Dé hAoine";
+$LANG["date_Mon"] = "Luan";
+$LANG["date_Monday"] = "Dé luain";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sath";
+$LANG["date_Saturday"] = "Dé Sathairn";
+$LANG["date_Sun"] = "Grian";
+$LANG["date_Sunday"] = "Dé domhnaigh";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Déardaoin";
+$LANG["date_Tue"] = "Máirt";
+$LANG["date_Tuesday"] = "Dé máirt";
+$LANG["date_Wed"] = "Céad";
+$LANG["date_Wednesday"] = "Dé Céadaoin";
+$LANG["date_am"] = "rn";
+$LANG["date_month_April"] = "Aibreán";
+$LANG["date_month_August"] = "Lúnasa";
+$LANG["date_month_December"] = "Nollaig";
+$LANG["date_month_February"] = "Feabhra";
+$LANG["date_month_January"] = "Eanáir";
+$LANG["date_month_July"] = "Iúil";
+$LANG["date_month_June"] = "Meitheamh";
+$LANG["date_month_March"] = "Márta";
+$LANG["date_month_May"] = "Seans";
+$LANG["date_month_November"] = "Samhain";
+$LANG["date_month_October"] = "Deireadh Fómhair";
+$LANG["date_month_September"] = "Meán Fómhair";
+$LANG["date_month_short_Apr"] = "Aibreán";
+$LANG["date_month_short_Aug"] = "Lúnasa";
+$LANG["date_month_short_Dec"] = "Nollaig";
+$LANG["date_month_short_Feb"] = "Feabhra";
+$LANG["date_month_short_Jan"] = "Ean";
+$LANG["date_month_short_Jul"] = "Iúil";
+$LANG["date_month_short_Jun"] = "Meitheamh";
+$LANG["date_month_short_Mar"] = "Már";
+$LANG["date_month_short_May"] = "Seans";
+$LANG["date_month_short_Nov"] = "Samhain";
+$LANG["date_month_short_Oct"] = "Deireadh Fómhair";
+$LANG["date_month_short_Sep"] = "Meán Fómhair";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Tá brón orainn, tá an fhoirm seo a bhí faoi mhíchumas.";
 $LANG["processing_form_incomplete"] = "Tá brón orm, ní an fhoirm seo le fáil a shocrú go hiomlán ó laistigh Foirm Uirlisí. Is é an chúis is dócha a bheidh an fhadhb seo a bhaint tú an form_tools_initialize_form &quot;&quot; réimse foirme i bhfolach, ach ní raibh fad iomlán na céimeanna ar an &quot;Add Foirm&quot; phróiseas. <br><br> Le do thoil, logáil isteach agus cumraíocht an fhoirm athbhreithnithe.";

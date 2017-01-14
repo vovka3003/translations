@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Sõnum on edukalt saadetud.";
 $LANG["phrase_upgrade_problem_link"] = "&lt;a Href=&quot;{\$link}&quot;&gt; külastada seda lehekülge &lt;/ a&gt; kohta ei uuendamine.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "R";
+$LANG["date_Friday"] = "Reede";
+$LANG["date_Mon"] = "E";
+$LANG["date_Monday"] = "Esmaspäev";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "La";
+$LANG["date_Saturday"] = "Laupäev";
+$LANG["date_Sun"] = "Päike";
+$LANG["date_Sunday"] = "Pühapäev";
+$LANG["date_Thu"] = "N";
+$LANG["date_Thursday"] = "Neljapäev";
+$LANG["date_Tue"] = "T";
+$LANG["date_Tuesday"] = "Teisipäev";
+$LANG["date_Wed"] = "K";
+$LANG["date_Wednesday"] = "Kolmapäev";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Aprill";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "Detsember";
+$LANG["date_month_February"] = "Veebruar";
+$LANG["date_month_January"] = "Jaanuar";
+$LANG["date_month_July"] = "Juuli";
+$LANG["date_month_June"] = "Juuni";
+$LANG["date_month_March"] = "Märts";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktoober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Aprill";
+$LANG["date_month_short_Aug"] = "August";
+$LANG["date_month_short_Dec"] = "Detsember";
+$LANG["date_month_short_Feb"] = "Veebruar";
+$LANG["date_month_short_Jan"] = "Jaan";
+$LANG["date_month_short_Jul"] = "Juuli";
+$LANG["date_month_short_Jun"] = "Juuni";
+$LANG["date_month_short_Mar"] = "Märts";
+$LANG["date_month_short_May"] = "Mai";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Oktoober";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Vabandame, see vorm on blokeeritud.";
 $LANG["processing_form_incomplete"] = "Vabandame, see vorm ei näi olevat täielikult loodud seest vorm tööriistad. Kõige tõenäolisem põhjus see probleem on, et eemaldatud &quot;form_tools_initialize_form&quot; peidetud vormi väli, kuid ei lõpetanud kõik etapid &quot;Lisa Vorm&quot; protsessi. <br><br> Logi sisse ja vormi läbivaatamine konfiguratsioon.";

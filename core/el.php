@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Email σας εστάλη επιτυχώς.";
 $LANG["phrase_upgrade_problem_link"] = "Παρακαλούμε href=&quot;{\$link}&quot;&gt; &lt;a επισκεφτείτε αυτή τη σελίδα &lt;/ a&gt; σχετικά απέτυχε αναβαθμίσεις.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Παρ";
+$LANG["date_Friday"] = "Παρασκευή";
+$LANG["date_Mon"] = "Δευτ.";
+$LANG["date_Monday"] = "Δευτέρα";
+$LANG["date_PM"] = "Μμ";
+$LANG["date_Sat"] = "Σάβ";
+$LANG["date_Saturday"] = "Σάββατο";
+$LANG["date_Sun"] = "Ήλιος";
+$LANG["date_Sunday"] = "Κυριακή";
+$LANG["date_Thu"] = "Πέμ";
+$LANG["date_Thursday"] = "Πέμπτη";
+$LANG["date_Tue"] = "Τρ";
+$LANG["date_Tuesday"] = "Τρίτη";
+$LANG["date_Wed"] = "Τετ";
+$LANG["date_Wednesday"] = "Τετάρτη";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Απρίλιος";
+$LANG["date_month_August"] = "Αύγουστος";
+$LANG["date_month_December"] = "Δεκέμβριος";
+$LANG["date_month_February"] = "Φεβρουάριος";
+$LANG["date_month_January"] = "Ιανουάριος";
+$LANG["date_month_July"] = "Ιούλιος";
+$LANG["date_month_June"] = "Ιούνιος";
+$LANG["date_month_March"] = "Μάρτιος";
+$LANG["date_month_May"] = "Μπορώ";
+$LANG["date_month_November"] = "Νοέμβριος";
+$LANG["date_month_October"] = "Οκτώβριος";
+$LANG["date_month_September"] = "Σεπτέμβριος";
+$LANG["date_month_short_Apr"] = "Απρίλιος";
+$LANG["date_month_short_Aug"] = "Αύγουστος";
+$LANG["date_month_short_Dec"] = "Δεκέμβριος";
+$LANG["date_month_short_Feb"] = "Φεβρουάριος";
+$LANG["date_month_short_Jan"] = "Ιαν";
+$LANG["date_month_short_Jul"] = "Ιούλιος";
+$LANG["date_month_short_Jun"] = "Ιούνιος";
+$LANG["date_month_short_Mar"] = "Μαρ";
+$LANG["date_month_short_May"] = "Μπορώ";
+$LANG["date_month_short_Nov"] = "Νοέμβριος";
+$LANG["date_month_short_Oct"] = "Οκτώβριος";
+$LANG["date_month_short_Sep"] = "Σεπτέμβριος";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Λυπούμαστε, αυτή η φόρμα έχει απενεργοποιηθεί.";
 $LANG["processing_form_incomplete"] = "Λυπούμαστε, αυτή η μορφή δεν φαίνεται να τεθούν πλήρως μέσα από το έντυπο εργαλεία. Η πιο πιθανή αιτία αυτού του προβλήματος είναι ότι θα καταργηθεί η &quot;form_tools_initialize_form&quot; κρυφό πεδίο φόρμας, αλλά δεν είχε ολοκληρώσει όλα τα βήματα του &quot;Προσθήκη Μορφή&quot; διαδικασία. <br><br> Παρακαλώ συνδεθείτε και να επανεξετάσει τη διαμόρφωση φόρμα.";

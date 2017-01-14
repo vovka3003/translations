@@ -1216,6 +1216,54 @@ $LANG["notify_your_email_sent"] = "Seu email foi enviado com sucesso.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Sex";
+$LANG["date_Friday"] = "Sexta";
+$LANG["date_Mon"] = "Seg";
+$LANG["date_Monday"] = "Segunda";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Sab";
+$LANG["date_Saturday"] = "Sábado";
+$LANG["date_Sun"] = "Dom";
+$LANG["date_Sunday"] = "Domingo";
+$LANG["date_Thu"] = "Qui";
+$LANG["date_Thursday"] = "Quinta";
+$LANG["date_Tue"] = "Ter";
+$LANG["date_Tuesday"] = "Terça";
+$LANG["date_Wed"] = "Qua";
+$LANG["date_Wednesday"] = "Quarta";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Abril";
+$LANG["date_month_August"] = "Agosto";
+$LANG["date_month_December"] = "Dezembro";
+$LANG["date_month_February"] = "Fevereiro";
+$LANG["date_month_January"] = "Janeiro";
+$LANG["date_month_July"] = "Julho";
+$LANG["date_month_June"] = "Junho";
+$LANG["date_month_March"] = "Março";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_November"] = "Novembro";
+$LANG["date_month_October"] = "Outubro";
+$LANG["date_month_September"] = "Setembro";
+$LANG["date_month_short_Apr"] = "Abr";
+$LANG["date_month_short_Aug"] = "Ago";
+$LANG["date_month_short_Dec"] = "Dez";
+$LANG["date_month_short_Feb"] = "Fev";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "May";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Out";
+$LANG["date_month_short_Sep"] = "Set";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Este formulário foi desativado.";
 $LANG["processing_form_incomplete"] = "Sorry, this form does not appear to be fully set up from within Form Tools. The most likely cause of this problem is that you removed the \"form_tools_initialize_form\" hidden form field, but didn't complete all the steps of the \"Add Form\" process.<br><br>Please log in and review the form configuration.";

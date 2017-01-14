@@ -1210,6 +1210,51 @@ $LANG["notify_your_email_sent"] = "البريد الإلكتروني الخاص 
 $LANG["phrase_upgrade_problem_link"] = "يرجى href=&quot;{\$link}&quot;&gt; &lt;aزيارة هذه الصفحة &lt;/ أ&gt; ترقيات بشأن فشل.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "ص";
+$LANG["date_Fri"] = "الجمعة";
+$LANG["date_Friday"] = "جمعة";
+$LANG["date_Mon"] = "الاثنين";
+$LANG["date_Monday"] = "الاثنين";
+$LANG["date_PM"] = "م";
+$LANG["date_Sat"] = "جلس";
+$LANG["date_Saturday"] = "السبت";
+$LANG["date_Sun"] = "شمس";
+$LANG["date_Sunday"] = "الأحد";
+$LANG["date_Thu"] = "خميس";
+$LANG["date_Thursday"] = "الخميس";
+$LANG["date_Tue"] = "ثلاثاء";
+$LANG["date_Tuesday"] = "الثلاثاء";
+$LANG["date_Wed"] = "الأربعاء";
+$LANG["date_Wednesday"] = "الأربعاء";
+$LANG["date_am"] = "صباحا";
+$LANG["date_month_April"] = "أبريل";
+$LANG["date_month_August"] = "أغسطس";
+$LANG["date_month_December"] = "ديسمبر";
+$LANG["date_month_February"] = "فبراير";
+$LANG["date_month_January"] = "يناير";
+$LANG["date_month_July"] = "يوليو";
+$LANG["date_month_June"] = "يونيو";
+$LANG["date_month_March"] = "المسيرة";
+$LANG["date_month_May"] = "ربما";
+$LANG["date_month_November"] = "نوفمبر";
+$LANG["date_month_October"] = "أكتوبر";
+$LANG["date_month_September"] = "سبتمبر";
+$LANG["date_month_short_Apr"] = "أبريل";
+$LANG["date_month_short_Aug"] = "أغسطس";
+$LANG["date_month_short_Dec"] = "ديسمبر";
+$LANG["date_month_short_Feb"] = "فبراير";
+$LANG["date_month_short_Jan"] = "يناير";
+$LANG["date_month_short_Jul"] = "يوليو";
+$LANG["date_month_short_Jun"] = "يونيو";
+$LANG["date_month_short_Mar"] = "مارس";
+$LANG["date_month_short_May"] = "ربما";
+$LANG["date_month_short_Nov"] = "نوفمبر";
+$LANG["date_month_short_Oct"] = "أكتوبر";
+$LANG["date_month_short_Sep"] = "سبتمبر";
+$LANG["date_pm"] = "بعد الظهر";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "آسف ، وهذا النموذج قد تم تعطيل.";
 $LANG["processing_form_incomplete"] = "آسف ، وهذا النموذج لا يبدو أن يكون كاملا من خلال انشاء نموذج أدوات. السبب الاكثر ترجيحا لهذه المشكلة هو أن قمت بإزالة form_tools_initialize_form &quot;&quot; مخبأة حقل النموذج ، ولكنها لم تكمل جميع الخطوات من &quot;إضافة نموذج&quot; عملية. <br><br> يرجى تسجيل الدخول وإعادة النظر في تكوين النموذج.";
@@ -1219,5 +1264,3 @@ $LANG["processing_no_form_id"] = "process.php يتطلب شكلا معرف لل�
 $LANG["processing_no_form_url_for_recaptcha"] = "شكل أدوات غير قادر على تحديد مكان لإعادة توجيه عندما تفشل لإدخال كلمة التحقق بشكل صحيح. يرجى تمر في حقل مخفي مع <b>form_tools_form_url</b> اسم يحتوي على رابط للصورة.";
 $LANG["processing_no_post_vars"] = "process.php لا يتلقى أية بيانات. ملاحظة : هذا النص لا يمكن تحميلها مباشرة في المتصفح. <br /> تأكد من شكل ويرسل عبر البريد.";
 $LANG["processing_no_redirect_url"] = "تقديم ومعالجتها بشكل صحيح ، ولكن لم تكن قد قمت بتحديد عنوان إعادة توجيه لهذا الشكل! تحرير النموذج الخاص بك في شكل أدوات واجهة المستخدم وإضافة رابط توجيه.";
-
-?>

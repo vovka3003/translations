@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Eich e-bost wedi ei anfon yn llwyddiannus.";
 $LANG["phrase_upgrade_problem_link"] = "Os gwelwch yn dda href=&quot;{\$link}&quot;&gt; &lt;a ymweld â&#39;r dudalen hon &lt;/ a&gt; uwchraddio o ran methu.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AC";
+$LANG["date_Fri"] = "Gwe";
+$LANG["date_Friday"] = "Dydd Gwener";
+$LANG["date_Mon"] = "Llun";
+$LANG["date_Monday"] = "Dydd Llun";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sad";
+$LANG["date_Saturday"] = "Dydd Sadwrn";
+$LANG["date_Sun"] = "Sul";
+$LANG["date_Sunday"] = "Dydd Sul";
+$LANG["date_Thu"] = "Iau";
+$LANG["date_Thursday"] = "Dydd Iau";
+$LANG["date_Tue"] = "Maw";
+$LANG["date_Tuesday"] = "Dydd Mawrth";
+$LANG["date_Wed"] = "Mer";
+$LANG["date_Wednesday"] = "Dydd Mercher";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Ebrill";
+$LANG["date_month_August"] = "Awst";
+$LANG["date_month_December"] = "Rhagfyr";
+$LANG["date_month_February"] = "Chwefror";
+$LANG["date_month_January"] = "Ionawr";
+$LANG["date_month_July"] = "Gorffennaf";
+$LANG["date_month_June"] = "Mehefin";
+$LANG["date_month_March"] = "Mawrth";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_November"] = "Tachwedd";
+$LANG["date_month_October"] = "Hydref";
+$LANG["date_month_September"] = "Medi";
+$LANG["date_month_short_Apr"] = "Ebrill";
+$LANG["date_month_short_Aug"] = "Awst";
+$LANG["date_month_short_Dec"] = "Rhagfyr";
+$LANG["date_month_short_Feb"] = "Chwefror";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Gorffennaf";
+$LANG["date_month_short_Jun"] = "Mehefin";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "May";
+$LANG["date_month_short_Nov"] = "Tachwedd";
+$LANG["date_month_short_Oct"] = "Hydref";
+$LANG["date_month_short_Sep"] = "Medi";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Mae&#39;n ddrwg gennym, y ffurflen hon wedi bod yn anabl.";
 $LANG["processing_form_incomplete"] = "Mae&#39;n ddrwg gennym, nid y ffurflen hon yn ymddangos yn llawn yn cael ei sefydlu i fyny o fewn Ffurflen Offer. Achos mwyaf tebygol y broblem hon yw eich bod yn symud y form_tools_initialize_form &quot;maes ffurflen cudd, ond nid oedd gwblhau&#39;r holl gamau o&#39;r&quot; Ychwanegu Ffurflen &quot;broses. <br><br> Os gwelwch yn dda mewngofnodwch ac adolygu&#39;r cyfluniad y ffurflen.";

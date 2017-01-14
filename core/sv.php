@@ -1213,6 +1213,51 @@ $LANG["notify_your_email_sent"] = "Ditt e-brev har skickats iväg som det skulle
 $LANG["phrase_upgrade_problem_link"] = "Gå till sidan om <a href=\"{\$link}\"> misslyckade uppgraderingar</ a>.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "fm";
+$LANG["date_Fri"] = "Fre";
+$LANG["date_Friday"] = "Fredag";
+$LANG["date_Mon"] = "Mån";
+$LANG["date_Monday"] = "Måndag";
+$LANG["date_PM"] = "em";
+$LANG["date_Sat"] = "Lör";
+$LANG["date_Saturday"] = "Lördag";
+$LANG["date_Sun"] = "Sön";
+$LANG["date_Sunday"] = "Söndag";
+$LANG["date_Thu"] = "Tor";
+$LANG["date_Thursday"] = "Torsdag";
+$LANG["date_Tue"] = "Tis";
+$LANG["date_Tuesday"] = "Tisdag";
+$LANG["date_Wed"] = "Ons";
+$LANG["date_Wednesday"] = "Onsdag";
+$LANG["date_am"] = "är";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Augusti";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "Februari";
+$LANG["date_month_January"] = "Januari";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Mars";
+$LANG["date_month_May"] = "Maj";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dec";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Maj";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Okt";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "f.m.";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Tyvärr, detta formulär har stängts av.";
 $LANG["processing_form_incomplete"] = "Tyvärr så verkar inte detta formulär vara helt och hållet inställt inifrån Form Tools. Troligtvis beror detta på att du tagit bort det gömda formulärfältet \"form_tools_initialize_form\" från webbsidans formulärkod, men utan att fullfölja alla stegen i processen \"Lägg till formulär\". <br /><br />Logga in igen och granska formulärets konfiguration.";

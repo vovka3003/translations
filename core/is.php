@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Netfang þitt hefur verið send.";
 $LANG["phrase_upgrade_problem_link"] = "Vinsamlegast &lt;a href=&quot;{\$link}&quot;&gt; heimsækja þessa síðu &lt;/ a&gt; um mistókst uppfærslu.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Fös";
+$LANG["date_Friday"] = "Föstudagur";
+$LANG["date_Mon"] = "Mán";
+$LANG["date_Monday"] = "Mánudagur";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Lau";
+$LANG["date_Saturday"] = "Laugardagur";
+$LANG["date_Sun"] = "Sól";
+$LANG["date_Sunday"] = "Sunnudagur";
+$LANG["date_Thu"] = "Fim";
+$LANG["date_Thursday"] = "Fimmtudagur";
+$LANG["date_Tue"] = "Þri";
+$LANG["date_Tuesday"] = "Þriðjudagur";
+$LANG["date_Wed"] = "Mið";
+$LANG["date_Wednesday"] = "Miðvikudagur";
+$LANG["date_am"] = "er";
+$LANG["date_month_April"] = "Apríl";
+$LANG["date_month_August"] = "Ágúst";
+$LANG["date_month_December"] = "Desember";
+$LANG["date_month_February"] = "Febrúar";
+$LANG["date_month_January"] = "Janúar";
+$LANG["date_month_July"] = "Júlí";
+$LANG["date_month_June"] = "Júní";
+$LANG["date_month_March"] = "Mars";
+$LANG["date_month_May"] = "Mega";
+$LANG["date_month_November"] = "Nóvember";
+$LANG["date_month_October"] = "Október";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apríl";
+$LANG["date_month_short_Aug"] = "Ágúst";
+$LANG["date_month_short_Dec"] = "Desember";
+$LANG["date_month_short_Feb"] = "Febrúar";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Júlí";
+$LANG["date_month_short_Jun"] = "Júní";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Mega";
+$LANG["date_month_short_Nov"] = "Nóvember";
+$LANG["date_month_short_Oct"] = "Október";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Því miður hefur þessi mynd verið gerð óvirk.";
 $LANG["processing_form_incomplete"] = "Því miður, þessi mynd virðist ekki vera að fullu komið á fót innan Form Tools. Líklegasta orsök af this vandamál er að þú fjarlægja the &quot;form_tools_initialize_form&quot; falinn mynd sviði, en ekki að ljúka öllum skrefum á &quot;Bæta við Form&quot; aðferð. <br><br> Skráðu þig inn og skoða mynd stillingar.";

@@ -1210,6 +1210,51 @@ $LANG["notify_your_email_sent"] = "あなたのメールが正常に送信され
 $LANG["phrase_upgrade_problem_link"] = "&lt;aのhref=&quot;{\$link}&quot;&gt;はこのページ&lt;/ a&gt;に関する失敗したアップグレードをご覧ください。";
 
 
+// Category: Dates
+$LANG["date_AM"] = "午前";
+$LANG["date_Fri"] = "金";
+$LANG["date_Friday"] = "金曜日";
+$LANG["date_Mon"] = "月";
+$LANG["date_Monday"] = "月曜日";
+$LANG["date_PM"] = "午後";
+$LANG["date_Sat"] = "土";
+$LANG["date_Saturday"] = "土曜日";
+$LANG["date_Sun"] = "太陽";
+$LANG["date_Sunday"] = "日曜日";
+$LANG["date_Thu"] = "木";
+$LANG["date_Thursday"] = "木曜日";
+$LANG["date_Tue"] = "火曜";
+$LANG["date_Tuesday"] = "火曜日";
+$LANG["date_Wed"] = "水";
+$LANG["date_Wednesday"] = "水曜日";
+$LANG["date_am"] = "午前";
+$LANG["date_month_April"] = "4月";
+$LANG["date_month_August"] = "8月";
+$LANG["date_month_December"] = "12月";
+$LANG["date_month_February"] = "2月";
+$LANG["date_month_January"] = "1月";
+$LANG["date_month_July"] = "7月";
+$LANG["date_month_June"] = "6月";
+$LANG["date_month_March"] = "2007年3月";
+$LANG["date_month_May"] = "〜かもしれない";
+$LANG["date_month_November"] = "11月";
+$LANG["date_month_October"] = "10月";
+$LANG["date_month_September"] = "9月";
+$LANG["date_month_short_Apr"] = "4月";
+$LANG["date_month_short_Aug"] = "8月";
+$LANG["date_month_short_Dec"] = "12月";
+$LANG["date_month_short_Feb"] = "2月";
+$LANG["date_month_short_Jan"] = "09年01月";
+$LANG["date_month_short_Jul"] = "7月";
+$LANG["date_month_short_Jun"] = "6月";
+$LANG["date_month_short_Mar"] = "03";
+$LANG["date_month_short_May"] = "〜かもしれない";
+$LANG["date_month_short_Nov"] = "11月";
+$LANG["date_month_short_Oct"] = "10月";
+$LANG["date_month_short_Sep"] = "9月";
+$LANG["date_pm"] = "午後";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "申し訳ありませんが、このフォームを無効にされています。";
 $LANG["processing_form_incomplete"] = "申し訳ありませんが、このフォームは表示されません完全にフォームツールの中から設定されています。この問題の最も可能性が高い原因は、あなたの&quot;form_tools_initialize_form&quot;非表示のフォームフィールドが削除がされている&quot;&quot;プロセスフォームの追加]のすべてのステップを完了していない。 <br><br>ログインしてからフォームの構成を確認します。";

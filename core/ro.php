@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Dvs. de email a fost trimis cu succes.";
 $LANG["phrase_upgrade_problem_link"] = "Va rugam sa href=&quot;{\$link}&quot;&gt; &lt;a vizita această pagină &lt;/ a&gt; cu privire la upgrade-uri nu a reuşit.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Fri";
+$LANG["date_Friday"] = "Vineri";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Luni";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "Sî";
+$LANG["date_Saturday"] = "Sâmbătă";
+$LANG["date_Sun"] = "Soare";
+$LANG["date_Sunday"] = "Duminică";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Joi";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Marţi";
+$LANG["date_Wed"] = "Mi";
+$LANG["date_Wednesday"] = "Miercuri";
+$LANG["date_am"] = "AM";
+$LANG["date_month_April"] = "Apr";
+$LANG["date_month_August"] = "Aug";
+$LANG["date_month_December"] = "Dec";
+$LANG["date_month_February"] = "Feb";
+$LANG["date_month_January"] = "Ian";
+$LANG["date_month_July"] = "Iul";
+$LANG["date_month_June"] = "Iun";
+$LANG["date_month_March"] = "March";
+$LANG["date_month_May"] = "Se putea";
+$LANG["date_month_November"] = "Nov";
+$LANG["date_month_October"] = "Oct";
+$LANG["date_month_September"] = "Sept";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dec";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Iul";
+$LANG["date_month_short_Jun"] = "Iun";
+$LANG["date_month_short_Mar"] = "Apr";
+$LANG["date_month_short_May"] = "Se putea";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Oct";
+$LANG["date_month_short_Sep"] = "Sept";
+$LANG["date_pm"] = "AM";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Ne pare rău, această formă a fost dezactivat.";
 $LANG["processing_form_incomplete"] = "Ne pare rău, acest formular nu pare a fi pe deplin constituit din interiorul Formular de Instrumente. Cauza cea mai probabilă a acestei probleme este că aţi îndepărtat form_tools_initialize_form &quot;câmpul&quot; ascunse forma, dar nu au completat toate etapele de &quot;Adaugă formular&quot; proces. <br><br> Va rugam logati-şi revizuirea formularul de configurare.";

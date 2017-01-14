@@ -1210,6 +1210,51 @@ $LANG["notify_your_email_sent"] = "Your email has been successfully sent.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Fri";
+$LANG["date_Friday"] = "Friday";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Monday";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Saturday";
+$LANG["date_Sun"] = "Sun";
+$LANG["date_Sunday"] = "Sunday";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Thursday";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Tuesday";
+$LANG["date_Wed"] = "Wed";
+$LANG["date_Wednesday"] = "Wednesday";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "February";
+$LANG["date_month_January"] = "January";
+$LANG["date_month_July"] = "July";
+$LANG["date_month_June"] = "June";
+$LANG["date_month_March"] = "March";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "October";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dec";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "May";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Oct";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Sorry, this form has been disabled.";
 $LANG["processing_form_incomplete"] = "Sorry, this form does not appear to be fully set up from within Form Tools. The most likely cause of this problem is that you removed the \"form_tools_initialize_form\" hidden form field, but didn't complete all the steps of the \"Add Form\" process.<br><br>Please log in and review the form configuration.";

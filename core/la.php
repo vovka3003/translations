@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Jūsu e-pasta adrese ir veiksmīgi nosūtīts
 $LANG["phrase_upgrade_problem_link"] = "Lūdzu, &lt;a href=&quot;{\$link}&quot;&gt; apmeklēt šo lapu &lt;/ a&gt; par neizdevās modernizācijai.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Fri";
+$LANG["date_Friday"] = "Piektdiena";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Pirmdiena";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Sestdiena";
+$LANG["date_Sun"] = "Saule";
+$LANG["date_Sunday"] = "Svētdiena";
+$LANG["date_Thu"] = "Ce";
+$LANG["date_Thursday"] = "Ceturtdiena";
+$LANG["date_Tue"] = "Ot";
+$LANG["date_Tuesday"] = "Otrdiena";
+$LANG["date_Wed"] = "Tr";
+$LANG["date_Wednesday"] = "Trešdiena";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Aprīlis";
+$LANG["date_month_August"] = "Augusts";
+$LANG["date_month_December"] = "Decembris";
+$LANG["date_month_February"] = "Februāris";
+$LANG["date_month_January"] = "Janvāris";
+$LANG["date_month_July"] = "Jūlijs";
+$LANG["date_month_June"] = "Jūnijs";
+$LANG["date_month_March"] = "Marts";
+$LANG["date_month_May"] = "Drīkst";
+$LANG["date_month_November"] = "Novembris";
+$LANG["date_month_October"] = "Oktobris";
+$LANG["date_month_September"] = "Septembris";
+$LANG["date_month_short_Apr"] = "Aprīlis";
+$LANG["date_month_short_Aug"] = "Augusts";
+$LANG["date_month_short_Dec"] = "Decembris";
+$LANG["date_month_short_Feb"] = "Februāris";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jūlijs";
+$LANG["date_month_short_Jun"] = "Jūnijs";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Drīkst";
+$LANG["date_month_short_Nov"] = "Novembris";
+$LANG["date_month_short_Oct"] = "Oktobris";
+$LANG["date_month_short_Sep"] = "Septembris";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Atvainojiet, šī veidlapa ir atspējota.";
 $LANG["processing_form_incomplete"] = "Atvainojiet, šo veidlapu nešķiet pilnībā izveidot no iekšpuses Form Tools. Visdrīzāk iemesls šī problēma ir tā, ka tu noņem &quot;form_tools_initialize_form&quot; slēptās formas laukā, bet nebija pilnīgi visu posmiem &quot;Pievienot Forma&quot; procesu. <br><br> Lūdzu, piesakieties un pārskata veidlapu konfigurāciju.";

@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "אייער בליצפּאָסט איז געו
 $LANG["phrase_upgrade_problem_link"] = "ביטע &lt;אַ הרעפ=&quot;{\$לינק}&quot;&gt; באַזוכן דעם בלאַט &lt;/ אַ&gt; וועגן ניט אַנדערש אַפּגריידז.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "בין";
+$LANG["date_Fri"] = "פרי";
+$LANG["date_Friday"] = "פרייטיק";
+$LANG["date_Mon"] = "מאָן";
+$LANG["date_Monday"] = "מאנטאג";
+$LANG["date_PM"] = "פּם";
+$LANG["date_Sat"] = "סאַט";
+$LANG["date_Saturday"] = "שבת";
+$LANG["date_Sun"] = "זון";
+$LANG["date_Sunday"] = "זונטיק";
+$LANG["date_Thu"] = "טהו";
+$LANG["date_Thursday"] = "דאנערשטיק";
+$LANG["date_Tue"] = "טו";
+$LANG["date_Tuesday"] = "דינסטאג";
+$LANG["date_Wed"] = "וועד";
+$LANG["date_Wednesday"] = "מיטוואך";
+$LANG["date_am"] = "בין";
+$LANG["date_month_April"] = "אפריל";
+$LANG["date_month_August"] = "אויגוסט";
+$LANG["date_month_December"] = "דעצעמבער";
+$LANG["date_month_February"] = "פעברואר";
+$LANG["date_month_January"] = "יאנואר";
+$LANG["date_month_July"] = "יולי";
+$LANG["date_month_June"] = "יוני";
+$LANG["date_month_March"] = "מאַרץ";
+$LANG["date_month_May"] = "מיי";
+$LANG["date_month_November"] = "נאוועמבער";
+$LANG["date_month_October"] = "אקטאבער";
+$LANG["date_month_September"] = "סעפטעמבער";
+$LANG["date_month_short_Apr"] = "אפריל";
+$LANG["date_month_short_Aug"] = "אויגוסט";
+$LANG["date_month_short_Dec"] = "דעצעמבער";
+$LANG["date_month_short_Feb"] = "פעברואר";
+$LANG["date_month_short_Jan"] = "יאַן";
+$LANG["date_month_short_Jul"] = "יולי";
+$LANG["date_month_short_Jun"] = "יוני";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "מיי";
+$LANG["date_month_short_Nov"] = "נאוועמבער";
+$LANG["date_month_short_Oct"] = "אקטאבער";
+$LANG["date_month_short_Sep"] = "סעפטעמבער";
+$LANG["date_pm"] = "פּם";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "אנטשולדיגט, &quot;די פאָרעם איז געווארן אויסגעלאָשן.";
 $LANG["processing_form_incomplete"] = "אנטשולדיגט, דער פאָרעם קען נישט באַווייזן צו זיין גאָר שטעלן זיך פֿון אונטער פאָרם מכשירים. די מערסט מסתּמא גרונט פון די פּראָבלעם איז אַז איר אראפגענומען די &quot;פאָרמ_טאָאָלס_יניטיאַליזע_פאָרם&quot; למד פאָרמע פעלד, אָבער האָט נישט גאַנץ אַלע די סטעפּס פון די &quot;לייג פאָרם&quot; פּראָצעס. <br><br> ביטע אַרייַנלאָגירן אין און פּאַראַד די פאָרעם קאַנפיגיעריישאַן.";

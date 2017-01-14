@@ -1215,6 +1215,54 @@ $LANG["notify_your_email_sent"] = "Twój e-mail został  wysłany.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "przed południem";
+$LANG["date_AM"] = "przed południem";
+$LANG["date_Fri"] = "Pt";
+$LANG["date_Friday"] = "Piątek";
+$LANG["date_Mon"] = "Pon";
+$LANG["date_Monday"] = "Poniedziałek";
+$LANG["date_PM"] = "po południu";
+$LANG["date_PM"] = "po południu";
+$LANG["date_Sat"] = "So";
+$LANG["date_Saturday"] = "Sobota";
+$LANG["date_Sun"] = "Nd";
+$LANG["date_Sunday"] = "Niedziela";
+$LANG["date_Thu"] = "Czw";
+$LANG["date_Thursday"] = "Czwartek";
+$LANG["date_Tue"] = "Wt";
+$LANG["date_Tuesday"] = "Wtorek";
+$LANG["date_Wed"] = "Śr";
+$LANG["date_Wednesday"] = "Środa";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Kwiecień";
+$LANG["date_month_August"] = "Sierpień";
+$LANG["date_month_December"] = "Grudzień";
+$LANG["date_month_February"] = "Luty";
+$LANG["date_month_January"] = "Styczeń";
+$LANG["date_month_July"] = "Lipiec";
+$LANG["date_month_June"] = "Czerwiec";
+$LANG["date_month_March"] = "Marzec";
+$LANG["date_month_May"] = "Maj";
+$LANG["date_month_May"] = "Maj";
+$LANG["date_month_November"] = "Listopad";
+$LANG["date_month_October"] = "Październik";
+$LANG["date_month_September"] = "Wrzesień";
+$LANG["date_month_short_Apr"] = "Kwiecień";
+$LANG["date_month_short_Aug"] = "Sierpień";
+$LANG["date_month_short_Dec"] = "Grudzień";
+$LANG["date_month_short_Feb"] = "Luty";
+$LANG["date_month_short_Jan"] = "Styczeń";
+$LANG["date_month_short_Jul"] = "Lipiec";
+$LANG["date_month_short_Jun"] = "Czerwiec";
+$LANG["date_month_short_Mar"] = "Marzec";
+$LANG["date_month_short_May"] = "Może";
+$LANG["date_month_short_Nov"] = "Listopad";
+$LANG["date_month_short_Oct"] = "Październik";
+$LANG["date_month_short_Sep"] = "Wrzesień";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Przepraszamy, ten formularz został zablokowany.";
 $LANG["processing_form_incomplete"] = "Niestety, ta forma nie wydaje się być w pełni ustanowiona w formularzu Narzędzia. Najbardziej prawdopodobną przyczyną tego problemu jest to, że usunięto &quot;form_tools_initialize_form&quot; ukryte pole formularza, ale nie wykonać wszystkie kroki w &quot;Dodaj formularz&quot; procesu. <br><br> Zaloguj się i przegląd konfiguracji postaci.";

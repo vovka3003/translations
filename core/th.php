@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "อีเมล ของ คุณ ถูก
 $LANG["phrase_upgrade_problem_link"] = "กรุณา href=&quot;{\$link}&quot;&gt; &lt;a ไปที่หน้า &lt;/ a&gt; เกี่ยวกับการอัพเกรดล้มเหลวในการนี​​้";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "ศ.";
+$LANG["date_Friday"] = "วัน ศุกร์";
+$LANG["date_Mon"] = "จันทร์";
+$LANG["date_Monday"] = "วัน จันทร์";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "นั่ง";
+$LANG["date_Saturday"] = "เสาร์";
+$LANG["date_Sun"] = "ดวง อาทิตย์";
+$LANG["date_Sunday"] = "วัน อาทิตย์";
+$LANG["date_Thu"] = "พฤ.";
+$LANG["date_Thursday"] = "วัน พฤหัสบดี";
+$LANG["date_Tue"] = "อ.";
+$LANG["date_Tuesday"] = "วัน อังคาร";
+$LANG["date_Wed"] = "แต่งงาน";
+$LANG["date_Wednesday"] = "พุธ";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "เมษายน";
+$LANG["date_month_August"] = "สิงหาคม";
+$LANG["date_month_December"] = "ธันวาคม";
+$LANG["date_month_February"] = "กุมภาพันธ์";
+$LANG["date_month_January"] = "มกราคม";
+$LANG["date_month_July"] = "กรกฎาคม";
+$LANG["date_month_June"] = "มิถุนายน";
+$LANG["date_month_March"] = "เดือน มีนาคม";
+$LANG["date_month_May"] = "อาจ";
+$LANG["date_month_November"] = "พฤศจิกายน";
+$LANG["date_month_October"] = "ตุลาคม";
+$LANG["date_month_September"] = "กันยายน";
+$LANG["date_month_short_Apr"] = "เมษายน";
+$LANG["date_month_short_Aug"] = "สิงหาคม";
+$LANG["date_month_short_Dec"] = "ธันวาคม";
+$LANG["date_month_short_Feb"] = "กุมภาพันธ์";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "กรกฎาคม";
+$LANG["date_month_short_Jun"] = "มิถุนายน";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "อาจ";
+$LANG["date_month_short_Nov"] = "พฤศจิกายน";
+$LANG["date_month_short_Oct"] = "ตุลาคม";
+$LANG["date_month_short_Sep"] = "กันยายน";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "ขออภัย รูป นี้ ถูก ปิด.";
 $LANG["processing_form_incomplete"] = "ขออภัย รูป นี้ ไม่ ปรากฏ ที่ จะ ตั้ง เต็มที่ จาก ภายใน Form Tools. สาเหตุ ส่วน ใหญ่ ของ ปัญหา นี้ คือ คุณ ลบ form_tools_initialize_form &quot;&quot; ช่อง แบบ ฟอร์ม ที่ ซ่อน ไว้ แต่ ไม่ ได้ ทำ ตาม ขั้น ตอน ทั้งหมด ของ &quot;เพิ่ม แบบ กระบวนการ&quot;. <br><br> กรุณา เข้า สู่ ระบบ และ ตรวจ สอบ การ กำหนด ค่า แบบ ฟอร์ม.";

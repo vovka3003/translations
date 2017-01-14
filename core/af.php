@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Jou e-posadres is suksesvol gestuur.";
 $LANG["phrase_upgrade_problem_link"] = "&lt;a Href=&quot;{\$link}&quot;&gt; na hierdie bladsy &lt;/ a&gt; met betrekking tot misluk opgraderings.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Vr";
+$LANG["date_Friday"] = "Vrydag";
+$LANG["date_Mon"] = "Ma";
+$LANG["date_Monday"] = "Maandag";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Za";
+$LANG["date_Saturday"] = "Saterdag";
+$LANG["date_Sun"] = "Son";
+$LANG["date_Sunday"] = "Sondag";
+$LANG["date_Thu"] = "Do";
+$LANG["date_Thursday"] = "Donderdag";
+$LANG["date_Tue"] = "Di";
+$LANG["date_Tuesday"] = "Dinsdag";
+$LANG["date_Wed"] = "Wo";
+$LANG["date_Wednesday"] = "Woensdag";
+$LANG["date_am"] = "uur";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Augustus";
+$LANG["date_month_December"] = "Desember";
+$LANG["date_month_February"] = "Februarie";
+$LANG["date_month_January"] = "Januarie";
+$LANG["date_month_July"] = "Julie";
+$LANG["date_month_June"] = "Junie";
+$LANG["date_month_March"] = "Maart";
+$LANG["date_month_May"] = "Mag";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "April";
+$LANG["date_month_short_Aug"] = "Augustus";
+$LANG["date_month_short_Dec"] = "Desember";
+$LANG["date_month_short_Feb"] = "Februarie";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Julie";
+$LANG["date_month_short_Jun"] = "Junie";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Mag";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Oktober";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Jammer, het hierdie vorm afgeskakel.";
 $LANG["processing_form_incomplete"] = "Jammer, nie hierdie vorm nie blyk te wees ten volle ingestel van binne Vorm Tools. Die mees waarskynlike oorsaak van die probleem is dat jy die &quot;form_tools_initialize_form&quot; verborge vorm veld te verwyder, maar het al die stappe van die &quot;Voeg Vorm&quot; proses te voltooi nie. <br><br> Log in en oorsig van die vorm opset.";

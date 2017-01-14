@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Ваше повідомлення успіш�
 $LANG["phrase_upgrade_problem_link"] = "Будь ласка, &lt;a href=&quot;{\$link}&quot;&gt; відвідайте цю сторінку &lt;/&gt; у відношенні не вдалося модернізації.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Пт";
+$LANG["date_Friday"] = "П&#39;ятниця";
+$LANG["date_Mon"] = "Пн";
+$LANG["date_Monday"] = "Понеділок";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Сб";
+$LANG["date_Saturday"] = "Субота";
+$LANG["date_Sun"] = "Сонце";
+$LANG["date_Sunday"] = "Неділя";
+$LANG["date_Thu"] = "Чт";
+$LANG["date_Thursday"] = "Четвер";
+$LANG["date_Tue"] = "Вт";
+$LANG["date_Tuesday"] = "Вівторок";
+$LANG["date_Wed"] = "Ср";
+$LANG["date_Wednesday"] = "Середа";
+$LANG["date_am"] = "м.";
+$LANG["date_month_April"] = "Квітень";
+$LANG["date_month_August"] = "Серпень";
+$LANG["date_month_December"] = "Грудень";
+$LANG["date_month_February"] = "Лютий";
+$LANG["date_month_January"] = "Січень";
+$LANG["date_month_July"] = "Липень";
+$LANG["date_month_June"] = "Червень";
+$LANG["date_month_March"] = "Березень";
+$LANG["date_month_May"] = "Травень";
+$LANG["date_month_November"] = "Листопад";
+$LANG["date_month_October"] = "Жовтень";
+$LANG["date_month_September"] = "Вересень";
+$LANG["date_month_short_Apr"] = "Квітень";
+$LANG["date_month_short_Aug"] = "Серпень";
+$LANG["date_month_short_Dec"] = "Грудень";
+$LANG["date_month_short_Feb"] = "Лютий";
+$LANG["date_month_short_Jan"] = "Січень";
+$LANG["date_month_short_Jul"] = "Липень";
+$LANG["date_month_short_Jun"] = "Червень";
+$LANG["date_month_short_Mar"] = "Березень";
+$LANG["date_month_short_May"] = "Травень";
+$LANG["date_month_short_Nov"] = "Листопад";
+$LANG["date_month_short_Oct"] = "Жовтень";
+$LANG["date_month_short_Sep"] = "Вересень";
+$LANG["date_pm"] = "м.";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "На жаль, ця форма була відключена.";
 $LANG["processing_form_incomplete"] = "На жаль, ця форма як видається, не в повній мірі створена в рамках Інсрументи. Найбільш імовірною причиною цієї проблеми є те, що ви видалили &quot;form_tools_initialize_form&quot; приховані поля форми, але не виконаєте всі кроки &quot;Додати форму&quot; процесу. <br><br> Будь ласка, увійдіть і переглянути форми конфігурації.";

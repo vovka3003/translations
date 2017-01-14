@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Ваша паведамленне паспя�
 $LANG["phrase_upgrade_problem_link"] = "Калі ласка, &lt;a href=&quot;{\$link}&quot;&gt; наведаеце гэтую старонку &lt;/&gt; у дачыненні да іх не атрымалася абнаўлення.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Сб";
+$LANG["date_Friday"] = "Пятніца";
+$LANG["date_Mon"] = "Чц";
+$LANG["date_Monday"] = "Панядзелак";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Сб";
+$LANG["date_Saturday"] = "Субота";
+$LANG["date_Sun"] = "Сонца";
+$LANG["date_Sunday"] = "Нядзеля";
+$LANG["date_Thu"] = "Чц";
+$LANG["date_Thursday"] = "Чацвер";
+$LANG["date_Tue"] = "Сб";
+$LANG["date_Tuesday"] = "Аўторак";
+$LANG["date_Wed"] = "Чц";
+$LANG["date_Wednesday"] = "Серада";
+$LANG["date_am"] = "м.";
+$LANG["date_month_April"] = "Красавік";
+$LANG["date_month_August"] = "Жнівень";
+$LANG["date_month_December"] = "Снежань";
+$LANG["date_month_February"] = "Люты";
+$LANG["date_month_January"] = "Студзень";
+$LANG["date_month_July"] = "Ліпень";
+$LANG["date_month_June"] = "Чэрвень";
+$LANG["date_month_March"] = "Сакавік";
+$LANG["date_month_May"] = "Мочь";
+$LANG["date_month_November"] = "Лістапад";
+$LANG["date_month_October"] = "Кастрычнік";
+$LANG["date_month_September"] = "Верасень";
+$LANG["date_month_short_Apr"] = "Красавік";
+$LANG["date_month_short_Aug"] = "Жнівень";
+$LANG["date_month_short_Dec"] = "Снежань";
+$LANG["date_month_short_Feb"] = "Люты";
+$LANG["date_month_short_Jan"] = "Студзень";
+$LANG["date_month_short_Jul"] = "Ліпень";
+$LANG["date_month_short_Jun"] = "Чэрвень";
+$LANG["date_month_short_Mar"] = "Сакавік";
+$LANG["date_month_short_May"] = "Мочь";
+$LANG["date_month_short_Nov"] = "Лістапад";
+$LANG["date_month_short_Oct"] = "Кастрычнік";
+$LANG["date_month_short_Sep"] = "Верасень";
+$LANG["date_pm"] = "м.";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "На жаль, гэтая форма была адключаная.";
 $LANG["processing_form_incomplete"] = "На жаль, гэтая форма як уяўляецца, не ў поўнай меры створана ў рамках Инсрументы. Найбольш верагоднай прычынай гэтай праблемы з&#39;яўляецца тое, што вы выдалілі &quot;form_tools_initialize_form&quot; скрытыя палі формы, але не выканаеце ўсё крокі &quot;Дадаць форму&quot; працэсу. <br><br> Калі ласка, увайдзіце і перагледзець формы канфігурацыі.";

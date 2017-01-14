@@ -1216,6 +1216,54 @@ $LANG["notify_your_email_sent"] = "Uw email is succesvol verzonden";
 $LANG["phrase_upgrade_problem_link"] = "Gelieve &lt;a href=&quot;{\$link}&quot;&gt; naar deze pagina &lt;/ a&gt; over mislukte upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "vm";
+$LANG["date_AM"] = "vm";
+$LANG["date_Fri"] = "Vr";
+$LANG["date_Friday"] = "Vrijdag";
+$LANG["date_Mon"] = "Ma";
+$LANG["date_Monday"] = "Maandag";
+$LANG["date_PM"] = "nm";
+$LANG["date_PM"] = "nm";
+$LANG["date_Sat"] = "Za";
+$LANG["date_Saturday"] = "Zaterdag";
+$LANG["date_Sun"] = "Zo";
+$LANG["date_Sunday"] = "Zondag";
+$LANG["date_Thu"] = "Do";
+$LANG["date_Thursday"] = "Donderdag";
+$LANG["date_Tue"] = "Di";
+$LANG["date_Tuesday"] = "Dinsdag";
+$LANG["date_Wed"] = "Wo";
+$LANG["date_Wednesday"] = "Woensdag";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Augustus";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "Februari";
+$LANG["date_month_January"] = "Januari";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Maart";
+$LANG["date_month_May"] = "Mei";
+$LANG["date_month_May"] = "Mei";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dec";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mrt";
+$LANG["date_month_short_May"] = "Kan";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Okt";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Sorry, dit formulier is uitgeschakeld.";
 $LANG["processing_form_incomplete"] = "Sorry, dit formulier niet volledig schijnt te worden opgezet vanuit Form Tools. De meest waarschijnlijke oorzaak van dit probleem is dat u hebt verwijderd van de &quot;form_tools_initialize_form&quot; verborgen formulier veld, maar niet alle stappen van de &quot;Add Formulier&quot; proces. <br><br> Log in en bekijk de vorm configuratie.";

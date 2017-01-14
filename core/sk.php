@@ -1213,6 +1213,51 @@ $LANG["notify_your_email_sent"] = "Váš e-mail bol úspešne odoslaný.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Pá.";
+$LANG["date_Friday"] = "Piatok";
+$LANG["date_Mon"] = "Po.";
+$LANG["date_Monday"] = "Pondelok";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "So.";
+$LANG["date_Saturday"] = "Sobota";
+$LANG["date_Sun"] = "Slnko";
+$LANG["date_Sunday"] = "Nedeľa";
+$LANG["date_Thu"] = "Št.";
+$LANG["date_Thursday"] = "Štvrtok";
+$LANG["date_Tue"] = "Út.";
+$LANG["date_Tuesday"] = "Utorok";
+$LANG["date_Wed"] = "St";
+$LANG["date_Wednesday"] = "Streda";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Apríl";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "Február";
+$LANG["date_month_January"] = "Január";
+$LANG["date_month_July"] = "Júl";
+$LANG["date_month_June"] = "Jún";
+$LANG["date_month_March"] = "Marec";
+$LANG["date_month_May"] = "Môže";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Október";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apríl";
+$LANG["date_month_short_Aug"] = "August";
+$LANG["date_month_short_Dec"] = "December";
+$LANG["date_month_short_Feb"] = "Február";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Júl";
+$LANG["date_month_short_Jun"] = "Jún";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Môže";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Október";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Ospravedlňujeme sa, ale tento formulár je zakázaný.";
 $LANG["processing_form_incomplete"] = "Ospravedlňujeme sa, tento formulár sa nezdá byť správne nastavený v Nástrojoch formulára. Najpravdepodobnejšou príčinou tohto problému je, že ste odobrali \"form_tools_initialize_form\" skryté pole formulára, ale nedokončili všetky kroky procesu \"Pridanie formulára\". <br><br> Prosím prihláste sa, a skontrolujte konfiguráciu formulára.";

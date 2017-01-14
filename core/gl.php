@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "O seu correo electrónico foi enviado con éx
 $LANG["phrase_upgrade_problem_link"] = "Por favor, href =  &quot;{ \$ ligazón} &quot;&gt; &lt;a visitar esta páxina &lt;/ a&gt; upgrades en relación fallou.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Ven";
+$LANG["date_Friday"] = "Venres";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Luns";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "Sáb";
+$LANG["date_Saturday"] = "Sábado";
+$LANG["date_Sun"] = "Sol";
+$LANG["date_Sunday"] = "Domingo";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Xoves";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Martes";
+$LANG["date_Wed"] = "Mér";
+$LANG["date_Wednesday"] = "Mércores";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Abril";
+$LANG["date_month_August"] = "Agosto";
+$LANG["date_month_December"] = "Decembro";
+$LANG["date_month_February"] = "Febreiro";
+$LANG["date_month_January"] = "Xaneiro";
+$LANG["date_month_July"] = "Xullo";
+$LANG["date_month_June"] = "Xuño";
+$LANG["date_month_March"] = "Marzo";
+$LANG["date_month_May"] = "Poder";
+$LANG["date_month_November"] = "Novembro";
+$LANG["date_month_October"] = "Outubro";
+$LANG["date_month_September"] = "Setembro";
+$LANG["date_month_short_Apr"] = "Abril";
+$LANG["date_month_short_Aug"] = "Agosto";
+$LANG["date_month_short_Dec"] = "Decembro";
+$LANG["date_month_short_Feb"] = "Febreiro";
+$LANG["date_month_short_Jan"] = "Xan";
+$LANG["date_month_short_Jul"] = "Xullo";
+$LANG["date_month_short_Jun"] = "Xuño";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Poder";
+$LANG["date_month_short_Nov"] = "Novembro";
+$LANG["date_month_short_Oct"] = "Outubro";
+$LANG["date_month_short_Sep"] = "Setembro";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Sentímolo, este formulario foi deshabilitada.";
 $LANG["processing_form_incomplete"] = "Sentímolo, esta forma non parece ser creada a partir do Formulario de ferramentas. A causa máis probable deste problema é que eliminou os form_tools_initialize_form &quot;campo de formulario oculto, pero non completaron todos os pasos do&quot; Add Form &quot;do proceso. <br><br> Por favor, faga o login e revisar a configuración do formulario.";

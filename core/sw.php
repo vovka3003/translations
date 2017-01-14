@@ -1210,6 +1210,51 @@ $LANG["notify_your_email_sent"] = "Your email has been sucessfully sent.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Mon";
+$LANG["date_Friday"] = "Ijumaa";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Jumatatu";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Jumamosi";
+$LANG["date_Sun"] = "Jua";
+$LANG["date_Sunday"] = "Jumapili";
+$LANG["date_Thu"] = "Fri";
+$LANG["date_Thursday"] = "Alhamisi";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Jumanne";
+$LANG["date_Wed"] = "Fri";
+$LANG["date_Wednesday"] = "Jumatano";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Aprili";
+$LANG["date_month_August"] = "Agosti";
+$LANG["date_month_December"] = "Desemba";
+$LANG["date_month_February"] = "Februari";
+$LANG["date_month_January"] = "Januari";
+$LANG["date_month_July"] = "Julai";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Machi";
+$LANG["date_month_May"] = "Mei";
+$LANG["date_month_November"] = "Novemba";
+$LANG["date_month_October"] = "Oktoba";
+$LANG["date_month_September"] = "Septemba";
+$LANG["date_month_short_Apr"] = "Aprili";
+$LANG["date_month_short_Aug"] = "Agosti";
+$LANG["date_month_short_Dec"] = "Desemba";
+$LANG["date_month_short_Feb"] = "Februari";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Julai";
+$LANG["date_month_short_Jun"] = "Juni";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Mei";
+$LANG["date_month_short_Nov"] = "Novemba";
+$LANG["date_month_short_Oct"] = "Oktoba";
+$LANG["date_month_short_Sep"] = "Septemba";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Sorry, fomu hii imekuwa walemavu.";
 $LANG["processing_form_incomplete"] = "Sorry, fomu hii haionekani kikamilifu kuanzisha kutoka ndani Fomu Tools. Kusababisha uwezekano zaidi wa tatizo hili ni kuwa wewe kuondolewa ya &quot;form_tools_initialize_form&quot; fomu yaliyofichika uwanja, lakini hakuwa kukamilisha hatua zote za &quot;Add Fomu&quot; mchakato. <br><br> Please log in na mapitio ya fomu Configuration.";

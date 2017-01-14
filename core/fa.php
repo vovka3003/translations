@@ -1211,6 +1211,51 @@ $LANG["notify_your_email_sent"] = "ایمیل شما با موفقیت ارسا�
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "هستم";
+$LANG["date_Fri"] = "جستجوی پیشرفته";
+$LANG["date_Friday"] = "جمعه";
+$LANG["date_Mon"] = "جستجوی پیشرفته";
+$LANG["date_Monday"] = "دوشنبه";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "جستجوی پیشرفته";
+$LANG["date_Saturday"] = "شنبه";
+$LANG["date_Sun"] = "جستجوی پیشرفته";
+$LANG["date_Sunday"] = "یکشنبه";
+$LANG["date_Thu"] = "جستجوی پیشرفته";
+$LANG["date_Thursday"] = "پنجشنبه";
+$LANG["date_Tue"] = "جستجوی پیشرفته";
+$LANG["date_Tuesday"] = "سه";
+$LANG["date_Wed"] = "جستجوی پیشرفته";
+$LANG["date_Wednesday"] = "چهارشنبه";
+$LANG["date_am"] = "هستم";
+$LANG["date_month_April"] = "یدلایمخیرات آوریل";
+$LANG["date_month_August"] = "یدلایمخیرات اوت";
+$LANG["date_month_December"] = "یدلایمخیرات دسامبر";
+$LANG["date_month_February"] = "یدلایمخیرات فوریه";
+$LANG["date_month_January"] = "یدلایمخیرات ژانویه";
+$LANG["date_month_July"] = "یدلایمخیرات ژوئیه";
+$LANG["date_month_June"] = "یدلایمخیرات ژوئن";
+$LANG["date_month_March"] = "مارس";
+$LANG["date_month_May"] = "مه";
+$LANG["date_month_November"] = "یدلایمخیرات نوامبر";
+$LANG["date_month_October"] = "یدلایمخیرات اکتبر";
+$LANG["date_month_September"] = "یدلایمخیرات سپتامبر";
+$LANG["date_month_short_Apr"] = "یدلایمخیرات آوریل";
+$LANG["date_month_short_Aug"] = "یدلایمخیرات اوت";
+$LANG["date_month_short_Dec"] = "یدلایمخیرات دسامبر";
+$LANG["date_month_short_Feb"] = "یدلایمخیرات فوریه";
+$LANG["date_month_short_Jan"] = "ژان";
+$LANG["date_month_short_Jul"] = "یدلایمخیرات ژوئیه";
+$LANG["date_month_short_Jun"] = "یدلایمخیرات ژوئن";
+$LANG["date_month_short_Mar"] = "مارس";
+$LANG["date_month_short_May"] = "مه";
+$LANG["date_month_short_Nov"] = "یدلایمخیرات نوامبر";
+$LANG["date_month_short_Oct"] = "یدلایمخیرات اکتبر";
+$LANG["date_month_short_Sep"] = "یدلایمخیرات سپتامبر";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "با عرض پوزش ، این فرم را غیرفعال شده است.";
 $LANG["processing_form_incomplete"] = "با عرض پوزش ، این فرم را ندارد ، نمایش داده نمی شود تا به طور کامل از درون فرم ابزار تنظیم. به احتمال زیاد علت این مشکل این است که شما آن را برداشته form_tools_initialize_form &quot;&quot; زمینه فرم پنهان ، اما تمام مراحل &quot;افزودن فرم&quot; فرایند را انجام دهد. <br><br> لطفا وارد شوید و فرم بررسی پیکربندی.";

@@ -1212,6 +1212,51 @@ $LANG["notify_your_email_sent"] = "Vaša e-mail je uspješno poslan.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Pet";
+$LANG["date_Friday"] = "Petak";
+$LANG["date_Mon"] = "Pon";
+$LANG["date_Monday"] = "Ponedjeljak";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sub";
+$LANG["date_Saturday"] = "Subota";
+$LANG["date_Sun"] = "Sunce";
+$LANG["date_Sunday"] = "Nedjelja";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Četvrtak";
+$LANG["date_Tue"] = "Uto";
+$LANG["date_Tuesday"] = "Utorak";
+$LANG["date_Wed"] = "Wed";
+$LANG["date_Wednesday"] = "Srijeda";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Travanj";
+$LANG["date_month_August"] = "Kolovoz";
+$LANG["date_month_December"] = "Prosinac";
+$LANG["date_month_February"] = "Veljača";
+$LANG["date_month_January"] = "Siječanj";
+$LANG["date_month_July"] = "Srpanj";
+$LANG["date_month_June"] = "Lipanj";
+$LANG["date_month_March"] = "Ožujak";
+$LANG["date_month_May"] = "Svibanj";
+$LANG["date_month_November"] = "Studeni";
+$LANG["date_month_October"] = "Listopad";
+$LANG["date_month_September"] = "Rujan";
+$LANG["date_month_short_Apr"] = "Travanj";
+$LANG["date_month_short_Aug"] = "Kolovoz";
+$LANG["date_month_short_Dec"] = "Prosinac";
+$LANG["date_month_short_Feb"] = "Veljača";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Srpanj";
+$LANG["date_month_short_Jun"] = "Lipanj";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Svibanj";
+$LANG["date_month_short_Nov"] = "Studeni";
+$LANG["date_month_short_Oct"] = "Listopad";
+$LANG["date_month_short_Sep"] = "Rujan";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Nažalost, ovaj obrazac je onemogućen.";
 $LANG["processing_form_incomplete"] = "Nažalost, ovaj oblik ne pojavljuje se u potpunosti postaviti u roku od Obrazac Alati. Najvjerojatniji uzrok ovog problema je u tome što ste uklonili &quot;form_tools_initialize_form&quot; skriveno polje obrasca, ali nije potpuna sve korake &quot;Dodaj Form&quot; proces. <br><br> Molimo Vas prijavite u obrascu i pregled konfiguracije.";

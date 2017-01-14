@@ -1214,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "La spedizione del messaggio email ha avuto su
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Ven";
+$LANG["date_Friday"] = "Venerdì";
+$LANG["date_Mon"] = "Lun";
+$LANG["date_Monday"] = "Lunedì";
+$LANG["date_PM"] = "PM";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sab";
+$LANG["date_Saturday"] = "Sabato";
+$LANG["date_Sun"] = "Dom";
+$LANG["date_Sunday"] = "Domenica";
+$LANG["date_Thu"] = "Gio";
+$LANG["date_Thursday"] = "Giovedì";
+$LANG["date_Tue"] = "Mar";
+$LANG["date_Tuesday"] = "Martedì";
+$LANG["date_Wed"] = "Mer";
+$LANG["date_Wednesday"] = "Mercoledì";
+$LANG["date_am"] = "AM";
+$LANG["date_month_April"] = "Aprile";
+$LANG["date_month_August"] = "Agosto";
+$LANG["date_month_December"] = "Dicembre";
+$LANG["date_month_February"] = "Febbraio";
+$LANG["date_month_January"] = "Gennaio";
+$LANG["date_month_July"] = "Luglio";
+$LANG["date_month_June"] = "Giugno";
+$LANG["date_month_March"] = "Marzo";
+$LANG["date_month_May"] = "Mag";
+$LANG["date_month_May"] = "Mag";
+$LANG["date_month_November"] = "Novembre";
+$LANG["date_month_October"] = "Ottobre";
+$LANG["date_month_September"] = "Settembre";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Ago";
+$LANG["date_month_short_Dec"] = "Dic";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Gen";
+$LANG["date_month_short_Jul"] = "Lug";
+$LANG["date_month_short_Jun"] = "Giu";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Maggio";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Ott";
+$LANG["date_month_short_Sep"] = "Set";
+$LANG["date_pm"] = "PM";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Spiacenti, questo modulo è stato disabilitato.";
 $LANG["processing_form_incomplete"] = "Spiacenti, ma questo modulo non sembra essere stato pienamente configurato da Form Tools. La causa più probabile del problema è che avete cancellato il campo nascosto \"form_tools_initialize_form\", ma non avete completato tutti i passi del procedimento di \"Aggiunta modulo\".<br><br>Connettetevi e ricontrollate la configurazione del modulo.";

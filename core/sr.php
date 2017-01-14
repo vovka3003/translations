@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Ваш емаил је успешно пос�
 $LANG["phrase_upgrade_problem_link"] = "Молим вас &lt;а хреф=&quot;{\$линк}&quot;&gt; посетите ову страницу &lt;/ а&gt; у вези није надоградње.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "ПМ";
+$LANG["date_Fri"] = "Пет";
+$LANG["date_Friday"] = "Петак";
+$LANG["date_Mon"] = "Пон";
+$LANG["date_Monday"] = "Понедељак";
+$LANG["date_PM"] = "АМ";
+$LANG["date_Sat"] = "Суб";
+$LANG["date_Saturday"] = "Субота";
+$LANG["date_Sun"] = "Сунце";
+$LANG["date_Sunday"] = "Недеља";
+$LANG["date_Thu"] = "Чет";
+$LANG["date_Thursday"] = "Четвртак";
+$LANG["date_Tue"] = "Уто";
+$LANG["date_Tuesday"] = "Уторак";
+$LANG["date_Wed"] = "Сре";
+$LANG["date_Wednesday"] = "Среда";
+$LANG["date_am"] = "пм";
+$LANG["date_month_April"] = "Април";
+$LANG["date_month_August"] = "Август";
+$LANG["date_month_December"] = "Децембар";
+$LANG["date_month_February"] = "Фебруар";
+$LANG["date_month_January"] = "Јануар";
+$LANG["date_month_July"] = "Јул";
+$LANG["date_month_June"] = "Јун";
+$LANG["date_month_March"] = "Март";
+$LANG["date_month_May"] = "Може";
+$LANG["date_month_November"] = "Новембар";
+$LANG["date_month_October"] = "Октобар";
+$LANG["date_month_September"] = "Септембар";
+$LANG["date_month_short_Apr"] = "Апр";
+$LANG["date_month_short_Aug"] = "Авг";
+$LANG["date_month_short_Dec"] = "Дец";
+$LANG["date_month_short_Feb"] = "Феб";
+$LANG["date_month_short_Jan"] = "Јан";
+$LANG["date_month_short_Jul"] = "Јул";
+$LANG["date_month_short_Jun"] = "Јун";
+$LANG["date_month_short_Mar"] = "Мар";
+$LANG["date_month_short_May"] = "Може";
+$LANG["date_month_short_Nov"] = "Нов";
+$LANG["date_month_short_Oct"] = "Окт";
+$LANG["date_month_short_Sep"] = "Сеп";
+$LANG["date_pm"] = "ам";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Нажалост, овај облик је онемогућен.";
 $LANG["processing_form_incomplete"] = "Нажалост, овај облик не изгледа да се у потпуности подесити из Формулар Алатке. Највероватнији узрок овог проблема је да сте уклонили &quot;форм_тоолс_инитиализе_форм&quot; скривена поља форми, али није потпуна све кораке &quot;Додај Форма&quot; процес. <br><br> Молимо Вас да се пријавите и преглед конфигурација форму.";

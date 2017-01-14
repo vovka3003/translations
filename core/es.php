@@ -291,8 +291,7 @@ $LANG["phrase_add_submission_button"] = "Añadir botón de envío";
 $LANG["phrase_add_view_rightarrow"] = "Añadir Ver »";
 $LANG["phrase_adding_multi_page_form"] = "Agregando un formulario multi-página con el API";
 $LANG["phrase_adding_single_page_form"] = "Agregando un formulario de página única con el API";
-$LANG["phrase_admin_menu"] = "Menú de Administrador
-Menú de Administrador";
+$LANG["phrase_admin_menu"] = "Menú de Administrador";
 $LANG["phrase_admin_only"] = "Sólo Administrador";
 $LANG["phrase_admin_panel"] = "Panel de Administrador";
 $LANG["phrase_administrator_theme"] = "Tema de Administrador";
@@ -325,8 +324,7 @@ $LANG["phrase_available_swatches_c"] = "Muestras disponibles:";
 $LANG["phrase_available_tabs"] = "Disponible aquí";
 $LANG["phrase_available_views"] = "Vistas Disponibles";
 $LANG["phrase_awaiting_form_submission"] = "Esperando registro de formulario";
-$LANG["phrase_back_to_field_list"] = " 	
-&laquo; regresar a lista de campos";
+$LANG["phrase_back_to_field_list"] = "&laquo; regresar a lista de campos";
 $LANG["phrase_back_to_search_results"] = "volver a resultados de búsqueda";
 $LANG["phrase_base_view_on"] = "Base Ver en el ...";
 $LANG["phrase_change_login_info"] = "Cambiar infomación de inicio de sesión";
@@ -514,8 +512,7 @@ $LANG["phrase_login_as_user"] = "Inicie una sesión como este usuario";
 $LANG["phrase_login_info"] = "Información de Inicio de Sesión";
 $LANG["phrase_login_page"] = "Página de Inicio de Sesión";
 $LANG["phrase_login_panel_c"] = "Panel de Inicio de Sesión:";
-$LANG["phrase_login_panel_leftarrows"] = " 	
-&laquo; Panel de Inicio de Sesión";
+$LANG["phrase_login_panel_leftarrows"] = "&laquo; Panel de Inicio de Sesión";
 $LANG["phrase_login_password"] = "Contraseña de Inicio de Sesión";
 $LANG["phrase_login_username"] = "Nombre de Usuario para Inicio de Sesión";
 $LANG["phrase_logo_link_url"] = "Logo Link URL";
@@ -1215,6 +1212,54 @@ $LANG["notify_view_missing_columns_admin_fix"] = "<a href=\"{\$LINK}\">Haga clic
 $LANG["notify_view_updated"] = "La vista ha sido actualizado.";
 $LANG["notify_your_email_sent"] = "El E-mail ha sido enviado con éxito.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
+
+
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Vie";
+$LANG["date_Friday"] = "Viernes";
+$LANG["date_Mon"] = "Lun";
+$LANG["date_Monday"] = "Lunes";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Sab";
+$LANG["date_Saturday"] = "Sábado";
+$LANG["date_Sun"] = "Dom";
+$LANG["date_Sunday"] = "Domingo";
+$LANG["date_Thu"] = "Jue";
+$LANG["date_Thursday"] = "Jueves";
+$LANG["date_Tue"] = "Mar";
+$LANG["date_Tuesday"] = "Martes";
+$LANG["date_Wed"] = "Mie";
+$LANG["date_Wednesday"] = "Miércoles";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Abril";
+$LANG["date_month_August"] = "Agosto";
+$LANG["date_month_December"] = "Diciembre";
+$LANG["date_month_February"] = "Febrero";
+$LANG["date_month_January"] = "Enero";
+$LANG["date_month_July"] = "Julio";
+$LANG["date_month_June"] = "Junio";
+$LANG["date_month_March"] = "Marzo";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_November"] = "Noviembre";
+$LANG["date_month_October"] = "Octubre";
+$LANG["date_month_September"] = "Septiemb";
+$LANG["date_month_short_Apr"] = "Abr";
+$LANG["date_month_short_Aug"] = "Ago";
+$LANG["date_month_short_Dec"] = "Dic";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Ene";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Mayo";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Oct";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
 
 
 // Category: Processing

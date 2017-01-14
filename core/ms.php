@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Email anda telah berjaya dihantar.";
 $LANG["phrase_upgrade_problem_link"] = "Sila href=&quot;{\$link}&quot;&gt; &lt;a melawat halaman ini &lt;/ a&gt; mengenai peningkatan gagal.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Kam";
+$LANG["date_Friday"] = "Jumaat";
+$LANG["date_Mon"] = "Thu";
+$LANG["date_Monday"] = "Isnin";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "Thu";
+$LANG["date_Saturday"] = "Sabtu";
+$LANG["date_Sun"] = "Matahari";
+$LANG["date_Sunday"] = "Minggu";
+$LANG["date_Thu"] = "Mon";
+$LANG["date_Thursday"] = "Rabu";
+$LANG["date_Tue"] = "Thu";
+$LANG["date_Tuesday"] = "Selasa";
+$LANG["date_Wed"] = "Thu";
+$LANG["date_Wednesday"] = "Rabu";
+$LANG["date_am"] = "pm";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Ogos";
+$LANG["date_month_December"] = "Disember";
+$LANG["date_month_February"] = "Februari";
+$LANG["date_month_January"] = "Januari";
+$LANG["date_month_July"] = "Julai";
+$LANG["date_month_June"] = "Jun";
+$LANG["date_month_March"] = "Mac";
+$LANG["date_month_May"] = "Boleh";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "April";
+$LANG["date_month_short_Aug"] = "Ogos";
+$LANG["date_month_short_Dec"] = "Disember";
+$LANG["date_month_short_Feb"] = "Februari";
+$LANG["date_month_short_Jan"] = "Feb";
+$LANG["date_month_short_Jul"] = "Julai";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Feb";
+$LANG["date_month_short_May"] = "Boleh";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Oktober";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Maaf, borang ini telah dimatikan.";
 $LANG["processing_form_incomplete"] = "Maaf, borang ini tampaknya tidak sepenuhnya ditentukan dari dalam Borang Tools. Yang paling mungkin penyebab masalah ini ialah bahawa anda menghapuskan &quot;form_tools_initialize_form&quot; gelanggang borang tersembunyi, tetapi tidak menyelesaikan semua langkah daripada &quot;Tambah Borang&quot; muat. <br><br> Sila log masuk dan meninjau bentuk tatarajah.";

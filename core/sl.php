@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Email je uspešno poslan.";
 $LANG["phrase_upgrade_problem_link"] = "Prosimo, &lt;a href=&quot;{\$link}&quot;&gt; obisk te strani &lt;/ a&gt; glede nadgradnje ni uspel.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "pet";
+$LANG["date_Friday"] = "petek";
+$LANG["date_Mon"] = "pon";
+$LANG["date_Monday"] = "ponedeljek";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "sob";
+$LANG["date_Saturday"] = "sobota";
+$LANG["date_Sun"] = "ned";
+$LANG["date_Sunday"] = "nedelja";
+$LANG["date_Thu"] = "čet";
+$LANG["date_Thursday"] = "četrtek";
+$LANG["date_Tue"] = "tor";
+$LANG["date_Tuesday"] = "torek";
+$LANG["date_Wed"] = "sre";
+$LANG["date_Wednesday"] = "sreda";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "april";
+$LANG["date_month_August"] = "avgust";
+$LANG["date_month_December"] = "december";
+$LANG["date_month_February"] = "februar";
+$LANG["date_month_January"] = "januar";
+$LANG["date_month_July"] = "julij";
+$LANG["date_month_June"] = "junij";
+$LANG["date_month_March"] = "marec";
+$LANG["date_month_May"] = "maj";
+$LANG["date_month_November"] = "november";
+$LANG["date_month_October"] = "oktober";
+$LANG["date_month_September"] = "september";
+$LANG["date_month_short_Apr"] = "apr";
+$LANG["date_month_short_Aug"] = "avg";
+$LANG["date_month_short_Dec"] = "dec";
+$LANG["date_month_short_Feb"] = "feb";
+$LANG["date_month_short_Jan"] = "jan";
+$LANG["date_month_short_Jul"] = "jul";
+$LANG["date_month_short_Jun"] = "jun";
+$LANG["date_month_short_Mar"] = "mar";
+$LANG["date_month_short_May"] = "maj";
+$LANG["date_month_short_Nov"] = "nov";
+$LANG["date_month_short_Oct"] = "okt";
+$LANG["date_month_short_Sep"] = "sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Oprostite, ta obrazec je onemogočen.";
 $LANG["processing_form_incomplete"] = "Oprostite, ta obrazec ne zdi, da je treba v celoti vzpostaviti od znotraj Form Tools. Najverjetnejši vzrok za ta problem je, da ste odstranili &quot;form_tools_initialize_form&quot; skrito polje obrazca, vendar ni popolno vse korake &quot;Add Obrazec&quot; proces. <br><br> Prijavite se in pregleda obrazec konfiguracijo.";

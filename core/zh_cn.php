@@ -1214,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "您的电邮已经成功发送。";
 $LANG["phrase_upgrade_problem_link"] = "请点击<a href=\"{\$link}\">访问此页面</a>阅读关于升级失败的信息.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "上午";
+$LANG["date_AM"] = "上午";
+$LANG["date_Fri"] = "星期五";
+$LANG["date_Friday"] = "星期五";
+$LANG["date_Mon"] = "星期一";
+$LANG["date_Monday"] = "星期一";
+$LANG["date_PM"] = "下午";
+$LANG["date_PM"] = "下午";
+$LANG["date_Sat"] = "星期六";
+$LANG["date_Saturday"] = "星期六";
+$LANG["date_Sun"] = "星期日";
+$LANG["date_Sunday"] = "星期日";
+$LANG["date_Thu"] = "星期四";
+$LANG["date_Thursday"] = "星期四";
+$LANG["date_Tue"] = "星期二";
+$LANG["date_Tuesday"] = "星期二";
+$LANG["date_Wed"] = "星期三";
+$LANG["date_Wednesday"] = "星期三";
+$LANG["date_am"] = "上午";
+$LANG["date_month_April"] = "四月";
+$LANG["date_month_August"] = "八月";
+$LANG["date_month_December"] = "十二月";
+$LANG["date_month_February"] = "二月";
+$LANG["date_month_January"] = "一月";
+$LANG["date_month_July"] = "七月";
+$LANG["date_month_June"] = "六月";
+$LANG["date_month_March"] = "三月";
+$LANG["date_month_May"] = "五月";
+$LANG["date_month_May"] = "五月";
+$LANG["date_month_November"] = "十一月";
+$LANG["date_month_October"] = "十月";
+$LANG["date_month_September"] = "九月";
+$LANG["date_month_short_Apr"] = "星期五";
+$LANG["date_month_short_Aug"] = "八月";
+$LANG["date_month_short_Dec"] = "十二月";
+$LANG["date_month_short_Feb"] = "二月";
+$LANG["date_month_short_Jan"] = "一月";
+$LANG["date_month_short_Jul"] = "七月";
+$LANG["date_month_short_Jun"] = "六月";
+$LANG["date_month_short_Mar"] = "三月";
+$LANG["date_month_short_May"] = "可能";
+$LANG["date_month_short_Nov"] = "十一月";
+$LANG["date_month_short_Oct"] = "十月";
+$LANG["date_month_short_Sep"] = "九月";
+$LANG["date_pm"] = "下午";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "对不起，此表格已被停用。";
 $LANG["processing_form_incomplete"] = "很抱歉，这似乎并未完全从内部设立表格工具。这个问题的最可能的原因是你删除了“form_tools_initialize_form”隐藏的表单字段，但没有完成所有的“添加窗体”进程的步骤。 <br><br>请登录并审查的形式配置。";

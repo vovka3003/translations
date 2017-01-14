@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Email của bạn đã được gửi thành 
 $LANG["phrase_upgrade_problem_link"] = "Xin vui lòng &lt;a href=&quot;{\$link}&quot;&gt; truy cập trang này &lt;/ a&gt; về không nâng cấp.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Thứ Sáu";
+$LANG["date_Friday"] = "Thứ sáu";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Thứ hai";
+$LANG["date_PM"] = "AM";
+$LANG["date_Sat"] = "Thứ bảy";
+$LANG["date_Saturday"] = "Thứ Bảy";
+$LANG["date_Sun"] = "Mặt trời";
+$LANG["date_Sunday"] = "Chủ nhật";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Thứ năm";
+$LANG["date_Tue"] = "Thứ ba";
+$LANG["date_Tuesday"] = "Thứ ba";
+$LANG["date_Wed"] = "Thứ tư";
+$LANG["date_Wednesday"] = "Thứ tư";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Tháng Tư";
+$LANG["date_month_August"] = "Tháng Tám";
+$LANG["date_month_December"] = "Tháng Mười Hai";
+$LANG["date_month_February"] = "Tháng Hai";
+$LANG["date_month_January"] = "Tháng Một";
+$LANG["date_month_July"] = "Tháng Bảy";
+$LANG["date_month_June"] = "Tháng Sáu";
+$LANG["date_month_March"] = "Tháng ba";
+$LANG["date_month_May"] = "Có thể";
+$LANG["date_month_November"] = "Tháng Mười Một";
+$LANG["date_month_October"] = "Tháng Mười";
+$LANG["date_month_September"] = "Tháng Chín";
+$LANG["date_month_short_Apr"] = "Tháng Tư";
+$LANG["date_month_short_Aug"] = "Tháng Tám";
+$LANG["date_month_short_Dec"] = "Tháng Mười Hai";
+$LANG["date_month_short_Feb"] = "Tháng Hai";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Tháng Bảy";
+$LANG["date_month_short_Jun"] = "Tháng Sáu";
+$LANG["date_month_short_Mar"] = "Tháng Ba";
+$LANG["date_month_short_May"] = "Có thể";
+$LANG["date_month_short_Nov"] = "Tháng Mười Một";
+$LANG["date_month_short_Oct"] = "Tháng Mười";
+$LANG["date_month_short_Sep"] = "Tháng Chín";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Xin lỗi, hình thức này đã bị vô hiệu.";
 $LANG["processing_form_incomplete"] = "Xin lỗi, mẫu đơn này không xuất hiện được đầy đủ các thiết lập từ trong Mẫu Công cụ. Rất có thể là nguyên nhân của vấn đề này là bạn gỡ bỏ các form_tools_initialize_form &quot;&quot; trường mẫu ẩn, nhưng đã không hoàn thành tất cả các bước của &quot;Thêm Mẫu&quot; quá trình. <br><br> Hãy đăng nhập và xem xét các cấu hình mẫu.";

@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Ang iyong email ay matagumpay na naipadala na
 $LANG["phrase_upgrade_problem_link"] = "Mangyaring &lt;a href=&quot;{\$link}&quot;&gt; bisitahin ang pahinang ito &lt;/ a&gt; tungkol sa nabigo upgrade.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Fri";
+$LANG["date_Friday"] = "Biyernes";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Lunes";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Sabado";
+$LANG["date_Sun"] = "Araw";
+$LANG["date_Sunday"] = "Linggo";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Huwebes";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Martes";
+$LANG["date_Wed"] = "Wed";
+$LANG["date_Wednesday"] = "Miyerkules";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Abril";
+$LANG["date_month_August"] = "Agosto";
+$LANG["date_month_December"] = "Disyembre";
+$LANG["date_month_February"] = "Pebrero";
+$LANG["date_month_January"] = "Enero";
+$LANG["date_month_July"] = "Hulyo";
+$LANG["date_month_June"] = "Hunyo";
+$LANG["date_month_March"] = "March";
+$LANG["date_month_May"] = "Maaaring";
+$LANG["date_month_November"] = "Nobyembre";
+$LANG["date_month_October"] = "Oktubre";
+$LANG["date_month_September"] = "Septiyembre";
+$LANG["date_month_short_Apr"] = "Abril";
+$LANG["date_month_short_Aug"] = "Agosto";
+$LANG["date_month_short_Dec"] = "Disyembre";
+$LANG["date_month_short_Feb"] = "Pebrero";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Hulyo";
+$LANG["date_month_short_Jun"] = "Hunyo";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Maaaring";
+$LANG["date_month_short_Nov"] = "Nobyembre";
+$LANG["date_month_short_Oct"] = "Oktubre";
+$LANG["date_month_short_Sep"] = "Septiyembre";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Paumanhin, ang form na ito ay hindi pinagana.";
 $LANG["processing_form_incomplete"] = "Paumanhin, ang form na ito ay hindi lilitaw upang maging ganap na-set up mula sa loob ng Form Tools. Ang pinaka-malamang na sanhi ng problemang ito ay na tinanggal na ang &quot;form_tools_initialize_form&quot; nakatagong form na larangan, ngunit hindi kumpleto ang lahat ng hakbang ng &quot;Magdagdag ng Form&quot; na proseso. <br><br> Mangyaring mag-log in at repasuhin ang mga form ng pagsasaayos.";

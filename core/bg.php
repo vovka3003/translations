@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Вашият имейл бе изпратен
 $LANG["phrase_upgrade_problem_link"] = "Моля, href=&quot;{\$link}&quot;&gt; &lt;a посетете тази страница &lt;/ A&gt; по отношение не успя ъпгрейди.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Пт";
+$LANG["date_Friday"] = "Петък";
+$LANG["date_Mon"] = "Пн";
+$LANG["date_Monday"] = "Понеделник";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Сб";
+$LANG["date_Saturday"] = "Събота";
+$LANG["date_Sun"] = "Слънце";
+$LANG["date_Sunday"] = "Неделя";
+$LANG["date_Thu"] = "Чт";
+$LANG["date_Thursday"] = "Четвъртък";
+$LANG["date_Tue"] = "Вт";
+$LANG["date_Tuesday"] = "Вторник";
+$LANG["date_Wed"] = "Ср";
+$LANG["date_Wednesday"] = "Сряда";
+$LANG["date_am"] = "ч.";
+$LANG["date_month_April"] = "Април";
+$LANG["date_month_August"] = "Август";
+$LANG["date_month_December"] = "Декември";
+$LANG["date_month_February"] = "Февруари";
+$LANG["date_month_January"] = "Януари";
+$LANG["date_month_July"] = "Юли";
+$LANG["date_month_June"] = "Юни";
+$LANG["date_month_March"] = "Март";
+$LANG["date_month_May"] = "Мога";
+$LANG["date_month_November"] = "Ноември";
+$LANG["date_month_October"] = "Октомври";
+$LANG["date_month_September"] = "Септември";
+$LANG["date_month_short_Apr"] = "Април";
+$LANG["date_month_short_Aug"] = "Август";
+$LANG["date_month_short_Dec"] = "Декември";
+$LANG["date_month_short_Feb"] = "Февруари";
+$LANG["date_month_short_Jan"] = "Ян";
+$LANG["date_month_short_Jul"] = "Юли";
+$LANG["date_month_short_Jun"] = "Юни";
+$LANG["date_month_short_Mar"] = "Март";
+$LANG["date_month_short_May"] = "Мога";
+$LANG["date_month_short_Nov"] = "Ноември";
+$LANG["date_month_short_Oct"] = "Октомври";
+$LANG["date_month_short_Sep"] = "Септември";
+$LANG["date_pm"] = "ч.";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "За съжаление, тази форма е била прекратена.";
 $LANG["processing_form_incomplete"] = "Съжаляваме, но тази форма не изглежда да е изцяло създаден в рамките Форма Инструменти. Най-вероятната причина за този проблем е, че сте отстранили от &quot;form_tools_initialize_form&quot; скрито поле форма, но не преминат всички стъпки от &quot;Добавяне на форма&quot; процес. <br><br> Моля, влезте и преглед на конфигурацията форма.";

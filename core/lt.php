@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Jūsų pranešimas sėkmingai išsiųsta.";
 $LANG["phrase_upgrade_problem_link"] = "&lt;a Href=&quot;{\$link}&quot;&gt; aplankykite šį puslapį &lt;/ a&gt; apie nepavyko atnaujinimus.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Pn";
+$LANG["date_Friday"] = "Penktadienis";
+$LANG["date_Mon"] = "Pr";
+$LANG["date_Monday"] = "Pirmadienis";
+$LANG["date_PM"] = "MM";
+$LANG["date_Sat"] = "Š";
+$LANG["date_Saturday"] = "Šeštadienis";
+$LANG["date_Sun"] = "Saulė";
+$LANG["date_Sunday"] = "Sekmadienis";
+$LANG["date_Thu"] = "Kt";
+$LANG["date_Thursday"] = "Ketvirtadienis";
+$LANG["date_Tue"] = "An";
+$LANG["date_Tuesday"] = "Antradienis";
+$LANG["date_Wed"] = "Tr";
+$LANG["date_Wednesday"] = "Trečiadienis";
+$LANG["date_am"] = "AM";
+$LANG["date_month_April"] = "Balandis";
+$LANG["date_month_August"] = "Rugpjūtis";
+$LANG["date_month_December"] = "Gruodis";
+$LANG["date_month_February"] = "Vasaris";
+$LANG["date_month_January"] = "Sausis";
+$LANG["date_month_July"] = "Liepa";
+$LANG["date_month_June"] = "Birželis";
+$LANG["date_month_March"] = "Kovas";
+$LANG["date_month_May"] = "Gali";
+$LANG["date_month_November"] = "Lapkritis";
+$LANG["date_month_October"] = "Spalis";
+$LANG["date_month_September"] = "Rugsėjis";
+$LANG["date_month_short_Apr"] = "Balandis";
+$LANG["date_month_short_Aug"] = "Rugpjūtis";
+$LANG["date_month_short_Dec"] = "Gruodis";
+$LANG["date_month_short_Feb"] = "Vasaris";
+$LANG["date_month_short_Jan"] = "Sau";
+$LANG["date_month_short_Jul"] = "Liepa";
+$LANG["date_month_short_Jun"] = "Birželis";
+$LANG["date_month_short_Mar"] = "Kov";
+$LANG["date_month_short_May"] = "Gali";
+$LANG["date_month_short_Nov"] = "Lapkritis";
+$LANG["date_month_short_Oct"] = "Spalis";
+$LANG["date_month_short_Sep"] = "Rugsėjis";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Atsiprašome, ši forma yra išjungta.";
 $LANG["processing_form_incomplete"] = "Atsiprašome, šios formos, jei nėra iki galo sukurta iš vidaus forma Priemonės. Labiausiai tikėtina priežastis, kad ši problema yra ta, kad nuimti &quot;form_tools_initialize_form&quot; paslėptos formos lauką, bet nepavyko užbaigti visi &quot;Pridėti Forma&quot; proceso etapai. <br><br> Prašome prisijungti ir peržiūrėti formą konfigūracijos.";

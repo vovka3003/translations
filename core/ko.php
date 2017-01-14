@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "귀하의 이메일을 성공적으로 전송
 $LANG["phrase_upgrade_problem_link"] = "&lt;a의 href=&quot;{\$link}&quot;&gt;이 페이지 &lt;/ a&gt;에 대한 실패 업그레이 드를 참조하십시오.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "오전";
+$LANG["date_Fri"] = "금";
+$LANG["date_Friday"] = "금요일";
+$LANG["date_Mon"] = "월";
+$LANG["date_Monday"] = "월요일";
+$LANG["date_PM"] = "오후";
+$LANG["date_Sat"] = "토";
+$LANG["date_Saturday"] = "토요일";
+$LANG["date_Sun"] = "해";
+$LANG["date_Sunday"] = "일요일";
+$LANG["date_Thu"] = "목";
+$LANG["date_Thursday"] = "목요일";
+$LANG["date_Tue"] = "화";
+$LANG["date_Tuesday"] = "화요일";
+$LANG["date_Wed"] = "수요일";
+$LANG["date_Wednesday"] = "수요일";
+$LANG["date_am"] = "오전";
+$LANG["date_month_April"] = "4월";
+$LANG["date_month_August"] = "8월";
+$LANG["date_month_December"] = "12월";
+$LANG["date_month_February"] = "2월";
+$LANG["date_month_January"] = "1월";
+$LANG["date_month_July"] = "7월";
+$LANG["date_month_June"] = "6월";
+$LANG["date_month_March"] = "월";
+$LANG["date_month_May"] = "일 수있다";
+$LANG["date_month_November"] = "11월";
+$LANG["date_month_October"] = "10월";
+$LANG["date_month_September"] = "9월";
+$LANG["date_month_short_Apr"] = "4월";
+$LANG["date_month_short_Aug"] = "8월";
+$LANG["date_month_short_Dec"] = "12월";
+$LANG["date_month_short_Feb"] = "2월";
+$LANG["date_month_short_Jan"] = "월";
+$LANG["date_month_short_Jul"] = "7월";
+$LANG["date_month_short_Jun"] = "6월";
+$LANG["date_month_short_Mar"] = "월";
+$LANG["date_month_short_May"] = "일 수있다";
+$LANG["date_month_short_Nov"] = "11월";
+$LANG["date_month_short_Oct"] = "10월";
+$LANG["date_month_short_Sep"] = "9월";
+$LANG["date_pm"] = "오후";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "죄송합니다,이 양식을 비활성화되었습니다.";
 $LANG["processing_form_incomplete"] = "죄송합니다,이 양식에 표시되지 않습니다 완전 양식 도구 내에서 설정할 수있습니다. 이 문제의 가장 큰 원인은 당신이 &quot;form_tools_initialize_form&quot;숨겨진 양식 필드를 제거하지만 &quot;&quot;양식을 추가 프로세스의 모든 단계를 완료하지 않았습니다. <br><br> 로그 인한 후 양식을 구성을 검토합니다.";

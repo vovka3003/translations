@@ -1214,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "E-postanız başarı ile gönderildi.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Cum";
+$LANG["date_Friday"] = "Cuma";
+$LANG["date_Mon"] = "Pzt";
+$LANG["date_Monday"] = "Pazartesi";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Cts";
+$LANG["date_Saturday"] = "Cumartesi";
+$LANG["date_Sun"] = "Pzr";
+$LANG["date_Sunday"] = "Pazar";
+$LANG["date_Thu"] = "Prş";
+$LANG["date_Thursday"] = "Perşembe";
+$LANG["date_Tue"] = "Salı";
+$LANG["date_Tuesday"] = "Salı";
+$LANG["date_Wed"] = "Çrş";
+$LANG["date_Wednesday"] = "Çarşamba";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Nisan";
+$LANG["date_month_August"] = "Ağustos";
+$LANG["date_month_December"] = "Aralık";
+$LANG["date_month_February"] = "Şubat";
+$LANG["date_month_January"] = "Ocak";
+$LANG["date_month_July"] = "Temmuz";
+$LANG["date_month_June"] = "Haziran";
+$LANG["date_month_March"] = "Mart";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_May"] = "May";
+$LANG["date_month_November"] = "Kasım";
+$LANG["date_month_October"] = "Ekim";
+$LANG["date_month_September"] = "Eylül";
+$LANG["date_month_short_Apr"] = "Nis";
+$LANG["date_month_short_Aug"] = "Ağu";
+$LANG["date_month_short_Dec"] = "Ara";
+$LANG["date_month_short_Feb"] = "Şub";
+$LANG["date_month_short_Jan"] = "Oca";
+$LANG["date_month_short_Jul"] = "Tem";
+$LANG["date_month_short_Jun"] = "Haz";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Yapabilir";
+$LANG["date_month_short_Nov"] = "Kas";
+$LANG["date_month_short_Oct"] = "Eki";
+$LANG["date_month_short_Sep"] = "Eyl";
+$LANG["date_pm"] = "am";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Üzgünüz, bu form kapatılmıştır.";
 $LANG["processing_form_incomplete"] = "Üzgünüz, bu formu görünmüyor tamamen Formu Araçlar içinden ayarlamak gerekir. Bu sorunun en olası nedeni, size &quot;form_tools_initialize_form&quot; gizli form alanı kaldırıldı, ancak &quot;süreci Formu ekle tüm adımları tamamlanamadı. <br><br> Lütfen giriş yapın ve formu yapılandırma inceleyin.";

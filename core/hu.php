@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Az e-mail sikeresen elküldve.";
 $LANG["phrase_upgrade_problem_link"] = "Kérjük &lt;a href=&quot;{\$link}&quot;&gt; fel ezt az oldalt &lt;/ a&gt; kapcsolatban nem sikerült frissítéseket.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "De";
+$LANG["date_Fri"] = "P";
+$LANG["date_Friday"] = "Péntek";
+$LANG["date_Mon"] = "H";
+$LANG["date_Monday"] = "Hétfő";
+$LANG["date_PM"] = "Du";
+$LANG["date_Sat"] = "Szo";
+$LANG["date_Saturday"] = "Szombat";
+$LANG["date_Sun"] = "V";
+$LANG["date_Sunday"] = "Vasárnap";
+$LANG["date_Thu"] = "Cs";
+$LANG["date_Thursday"] = "Csütörtök";
+$LANG["date_Tue"] = "K";
+$LANG["date_Tuesday"] = "Kedd";
+$LANG["date_Wed"] = "Sze";
+$LANG["date_Wednesday"] = "Szerda";
+$LANG["date_am"] = "de";
+$LANG["date_month_April"] = "Április";
+$LANG["date_month_August"] = "Augusztus";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "Február";
+$LANG["date_month_January"] = "Január";
+$LANG["date_month_July"] = "Július";
+$LANG["date_month_June"] = "Június";
+$LANG["date_month_March"] = "Március";
+$LANG["date_month_May"] = "Május";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Október";
+$LANG["date_month_September"] = "Szeptember";
+$LANG["date_month_short_Apr"] = "Április";
+$LANG["date_month_short_Aug"] = "Augusztus";
+$LANG["date_month_short_Dec"] = "December";
+$LANG["date_month_short_Feb"] = "Február";
+$LANG["date_month_short_Jan"] = "Január";
+$LANG["date_month_short_Jul"] = "Július";
+$LANG["date_month_short_Jun"] = "Június";
+$LANG["date_month_short_Mar"] = "Március";
+$LANG["date_month_short_May"] = "Május";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Október";
+$LANG["date_month_short_Sep"] = "Szeptember";
+$LANG["date_pm"] = "du";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Sajnáljuk, ez a forma van tiltva.";
 $LANG["processing_form_incomplete"] = "Sajnáljuk, ez a forma nem tűnik teljesen létrehozni belül Forma eszközök. A legvalószínűbb oka a probléma, hogy eltávolította a &quot;form_tools_initialize_form&quot; rejtett űrlapmező, de nem teljes minden lépést az &quot;Add Form&quot; folyamat. <br><br> Kérjük, jelentkezzen be és felülvizsgálata formájában konfiguráció.";

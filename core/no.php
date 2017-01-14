@@ -1214,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "E-posten er sendt.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Fre";
+$LANG["date_Friday"] = "Fredag";
+$LANG["date_Mon"] = "Man";
+$LANG["date_Monday"] = "Mandag";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Lør";
+$LANG["date_Saturday"] = "Lørdag";
+$LANG["date_Sun"] = "Søn";
+$LANG["date_Sunday"] = "Søndag";
+$LANG["date_Thu"] = "Tor";
+$LANG["date_Thursday"] = "Torsdag";
+$LANG["date_Tue"] = "Tir";
+$LANG["date_Tuesday"] = "Tirsdag";
+$LANG["date_Wed"] = "Ons";
+$LANG["date_Wednesday"] = "Onsdag";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "Desember";
+$LANG["date_month_February"] = "Februar";
+$LANG["date_month_January"] = "Januar";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Mars";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Des";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Kan";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Okt";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Beklager, dette skjemaet her blitt deaktivert.";
 $LANG["processing_form_incomplete"] = "Beklager, denne form ikke synes å være helt stille opp innenfra Form Tools. Den mest sannsynlige årsaken til dette problemet er at du har fjernet &quot;form_tools_initialize_form&quot; skjult skjema feltet, men ikke fullført alle trinnene i &quot;Add Form&quot;-prosessen. <br><br> Vennligst logg inn og vurdere form konfigurasjonen.";

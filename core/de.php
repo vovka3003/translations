@@ -31,8 +31,7 @@ $LANG["word_aquamarine"] = "Aquamarin";
 $LANG["word_asc"] = "aufsteigend";
 $LANG["word_author"] = "Autor";
 $LANG["word_author_c"] = "Autor:";
-$LANG["word_back_leftarrow"] = "	
-&laquo; zur&uuml;ck";
+$LANG["word_back_leftarrow"] = "&laquo; zur&uuml;ck";
 $LANG["word_basic"] = "Basic";
 $LANG["word_bcc_c"] = "Bcc:";
 $LANG["word_before"] = "Vor";
@@ -1217,6 +1216,54 @@ $LANG["notify_view_missing_columns_admin_fix"] = "<a href=\"{\$LINK}\">Klicken S
 $LANG["notify_view_updated"] = "Das Profil wurde aktualisiert.";
 $LANG["notify_your_email_sent"] = "Ihre E-Mail wurde erfolgreich versendet.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
+
+
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Fr";
+$LANG["date_Friday"] = "Freitag";
+$LANG["date_Mon"] = "Mo";
+$LANG["date_Monday"] = "Montag";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Sa";
+$LANG["date_Saturday"] = "Samstag";
+$LANG["date_Sun"] = "So";
+$LANG["date_Sunday"] = "Sonntag";
+$LANG["date_Thu"] = "Do";
+$LANG["date_Thursday"] = "Donnerstag";
+$LANG["date_Tue"] = "Die";
+$LANG["date_Tuesday"] = "Dienstag";
+$LANG["date_Wed"] = "Mi";
+$LANG["date_Wednesday"] = "Mittwoch";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "Dezember";
+$LANG["date_month_February"] = "Februar";
+$LANG["date_month_January"] = "Januar";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "März";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dez";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mär";
+$LANG["date_month_short_May"] = "Dürfen";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Okt";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
 
 
 // Category: Processing

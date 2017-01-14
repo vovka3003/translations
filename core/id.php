@@ -1213,6 +1213,51 @@ $LANG["notify_your_email_sent"] = "Email Anda telah berhasil dikirim.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Jum";
+$LANG["date_Friday"] = "Jumat";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "Senin";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Sabtu";
+$LANG["date_Sun"] = "Matahari";
+$LANG["date_Sunday"] = "Minggu";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Kamis";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "Selasa";
+$LANG["date_Wed"] = "Wed";
+$LANG["date_Wednesday"] = "Rabu";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Agustus";
+$LANG["date_month_December"] = "Desember";
+$LANG["date_month_February"] = "Februari";
+$LANG["date_month_January"] = "Januari";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Maret";
+$LANG["date_month_May"] = "Boleh";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "April";
+$LANG["date_month_short_Aug"] = "Agustus";
+$LANG["date_month_short_Dec"] = "Desember";
+$LANG["date_month_short_Feb"] = "Februari";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Juli";
+$LANG["date_month_short_Jun"] = "Juni";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Boleh";
+$LANG["date_month_short_Nov"] = "November";
+$LANG["date_month_short_Oct"] = "Oktober";
+$LANG["date_month_short_Sep"] = "September";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Maaf, formulir ini telah dinonaktifkan.";
 $LANG["processing_form_incomplete"] = "Maaf, formulir ini tampaknya tidak sepenuhnya ditetapkan dari dalam Formulir Tools. Yang paling mungkin penyebab masalah ini adalah bahwa Anda menghapus &quot;form_tools_initialize_form&quot; lapangan formulir tersembunyi, tetapi tidak menyelesaikan semua langkah dari &quot;Tambah Formulir&quot; proses. <br><br> Silakan login dan meninjau bentuk konfigurasi.";

@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "El teu mail ha estat enviat amb èxit.";
 $LANG["phrase_upgrade_problem_link"] = "Si us plau, href =  &quot;{ \$ enllaç} &quot;&gt; &lt;a visitar aquesta pàgina &lt;/ a&gt; millores pel que fa a fallat.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "PM";
+$LANG["date_Fri"] = "Dv";
+$LANG["date_Friday"] = "Divendres";
+$LANG["date_Mon"] = "Dl.";
+$LANG["date_Monday"] = "Dilluns";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Ds";
+$LANG["date_Saturday"] = "Dissabte";
+$LANG["date_Sun"] = "Sol";
+$LANG["date_Sunday"] = "Diumenge";
+$LANG["date_Thu"] = "Dj";
+$LANG["date_Thursday"] = "Dijous";
+$LANG["date_Tue"] = "Mar";
+$LANG["date_Tuesday"] = "Dimarts";
+$LANG["date_Wed"] = "Dc";
+$LANG["date_Wednesday"] = "Dimecres";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Abril";
+$LANG["date_month_August"] = "Agost";
+$LANG["date_month_December"] = "Desembre";
+$LANG["date_month_February"] = "Febrer";
+$LANG["date_month_January"] = "Gener";
+$LANG["date_month_July"] = "Juliol";
+$LANG["date_month_June"] = "Juny";
+$LANG["date_month_March"] = "Març";
+$LANG["date_month_May"] = "Maig";
+$LANG["date_month_November"] = "Novembre";
+$LANG["date_month_October"] = "Octubre";
+$LANG["date_month_September"] = "Setembre";
+$LANG["date_month_short_Apr"] = "Abril";
+$LANG["date_month_short_Aug"] = "Agost";
+$LANG["date_month_short_Dec"] = "Desembre";
+$LANG["date_month_short_Feb"] = "Febrer";
+$LANG["date_month_short_Jan"] = "Gen";
+$LANG["date_month_short_Jul"] = "Juliol";
+$LANG["date_month_short_Jun"] = "Juny";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Maig";
+$LANG["date_month_short_Nov"] = "Novembre";
+$LANG["date_month_short_Oct"] = "Octubre";
+$LANG["date_month_short_Sep"] = "Setembre";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Ho sentim, aquest formulari ha estat desactivat.";
 $LANG["processing_form_incomplete"] = "Ho sentim, aquesta forma no sembla ser totalment creades des del formulari d&#39;Eines. La causa més probable d&#39;aquest problema és que ha eliminat la &quot;form_tools_initialize_form&quot; camp de formulari ocult, però no completar tots els passos de la &quot;Afegir formulari&quot; procés. <br><br> Inicia sessió i revisar la configuració de la forma.";

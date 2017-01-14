@@ -1210,6 +1210,54 @@ $LANG["notify_your_email_sent"] = "您的電子郵件已成功發送。";
 $LANG["phrase_upgrade_problem_link"] = "請 &lt;a href=&quot;{\$link}&quot;&gt;訪問此頁 &lt;/ A&gt;有關升級失敗。";
 
 
+// Category: Dates
+$LANG["date_AM"] = "上午";
+$LANG["date_AM"] = "上午";
+$LANG["date_Fri"] = "星期五";
+$LANG["date_Friday"] = "星期五";
+$LANG["date_Mon"] = "星期一";
+$LANG["date_Monday"] = "星期一";
+$LANG["date_PM"] = "下午";
+$LANG["date_PM"] = "下午";
+$LANG["date_Sat"] = "星期六";
+$LANG["date_Saturday"] = "星期六";
+$LANG["date_Sun"] = "星期日";
+$LANG["date_Sunday"] = "星期日";
+$LANG["date_Thu"] = "星期四";
+$LANG["date_Thursday"] = "星期四";
+$LANG["date_Tue"] = "星期二";
+$LANG["date_Tuesday"] = "星期二";
+$LANG["date_Wed"] = "星期三";
+$LANG["date_Wednesday"] = "星期三";
+$LANG["date_am"] = "上午";
+$LANG["date_month_April"] = "四月";
+$LANG["date_month_August"] = "八月";
+$LANG["date_month_December"] = "十二月";
+$LANG["date_month_February"] = "二月";
+$LANG["date_month_January"] = "一月";
+$LANG["date_month_July"] = "七月";
+$LANG["date_month_June"] = "六月";
+$LANG["date_month_March"] = "三月";
+$LANG["date_month_May"] = "五月";
+$LANG["date_month_May"] = "五月";
+$LANG["date_month_November"] = "十一月";
+$LANG["date_month_October"] = "十月";
+$LANG["date_month_September"] = "九月";
+$LANG["date_month_short_Apr"] = "四月";
+$LANG["date_month_short_Aug"] = "八月";
+$LANG["date_month_short_Dec"] = "十二月";
+$LANG["date_month_short_Feb"] = "二月";
+$LANG["date_month_short_Jan"] = "一月";
+$LANG["date_month_short_Jul"] = "七月";
+$LANG["date_month_short_Jun"] = "六月";
+$LANG["date_month_short_Mar"] = "三月";
+$LANG["date_month_short_May"] = "可能";
+$LANG["date_month_short_Nov"] = "十一月";
+$LANG["date_month_short_Oct"] = "十月";
+$LANG["date_month_short_Sep"] = "九月";
+$LANG["date_pm"] = "下午";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "對不起，這種形式已被禁用。";
 $LANG["processing_form_incomplete"] = "很抱歉，這似乎並未完全從內部設立表格工具。最可能的原因此問題是，你刪除了“form_tools_initialize_form”隱藏的表單字段，但沒有完成所有的步驟“添加表”的過程。 <br><br>請登錄並審查的形式配置。";

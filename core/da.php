@@ -1214,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "Din email blev sendt.";
 $LANG["phrase_upgrade_problem_link"] = "&lt;a Href=&quot;{\$link}&quot;&gt; besøge denne side &lt;/ a&gt; om mislykkedes opgraderinger.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Fre";
+$LANG["date_Friday"] = "Fredag";
+$LANG["date_Mon"] = "Man";
+$LANG["date_Monday"] = "Mandag";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Lør";
+$LANG["date_Saturday"] = "Lørdag";
+$LANG["date_Sun"] = "Søn";
+$LANG["date_Sunday"] = "Søndag";
+$LANG["date_Thu"] = "Tor";
+$LANG["date_Thursday"] = "Torsdag";
+$LANG["date_Tue"] = "Tir";
+$LANG["date_Tuesday"] = "Tirsdag";
+$LANG["date_Wed"] = "Ons";
+$LANG["date_Wednesday"] = "Onsdag";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "August";
+$LANG["date_month_December"] = "December";
+$LANG["date_month_February"] = "Februar";
+$LANG["date_month_January"] = "Januar";
+$LANG["date_month_July"] = "Juli";
+$LANG["date_month_June"] = "Juni";
+$LANG["date_month_March"] = "Marts";
+$LANG["date_month_May"] = "Maj";
+$LANG["date_month_May"] = "Maj";
+$LANG["date_month_November"] = "November";
+$LANG["date_month_October"] = "Oktober";
+$LANG["date_month_September"] = "September";
+$LANG["date_month_short_Apr"] = "Apr";
+$LANG["date_month_short_Aug"] = "Aug";
+$LANG["date_month_short_Dec"] = "Dec";
+$LANG["date_month_short_Feb"] = "Feb";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Jul";
+$LANG["date_month_short_Jun"] = "Jun";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Må";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Okt";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Beklager, denne formular er blevet deaktiveret.";
 $LANG["processing_form_incomplete"] = "Beklager, men denne form ikke synes at være fuldt oprettes indefra Form Tools. Den mest sandsynlige årsag til dette problem er, at du har fjernet den &quot;form_tools_initialize_form&quot; skjult felt, men ikke fuldføre alle trinnene i &quot;Tilføj Form&quot;-processen. <br><br> Skal du logge ind og revidere den form konfiguration.";

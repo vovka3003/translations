@@ -858,8 +858,7 @@ $LANG["text_install_intro"] = "Bienvenue sur le script d&#39;installation Outils
 $LANG["text_install_system_check"] = "Cette page s&#39;exécute quelques tests sur votre système afin de s&#39;assurer qu&#39;il est capable d&#39;exécuter des outils de formulaire.";
 $LANG["text_internal_form_desc"] = "Formes internes existent seulement dans Outils Formulaire - pas ailleurs sur votre site. Seuls les comptes de formulaire utilisateur Outils auront accès au formulaire. Sélectionnez cette option si vous n&#39;avez pas un formulaire existant.";
 $LANG["text_internal_form_intro"] = "Utilisez le formulaire ci-dessous pour créer une nouvelle forme interne. Tous les paramètres, y compris le nombre et le contenu des champs de formulaire peut être être modifiée et configurée ultérieurement.";
-$LANG["text_js_required"] = "Afin de vous connecter et d'utiliser Form Tools, vous devez avoir javascript activé dans votre navigateur. Merci de l'activer maintenant, et cliquez Actualiser dans votre navigateur.
-";
+$LANG["text_js_required"] = "Afin de vous connecter et d'utiliser Form Tools, vous devez avoir javascript activé dans votre navigateur. Merci de l'activer maintenant, et cliquez Actualiser dans votre navigateur.";
 $LANG["text_last_modified_date_explanation_c"] = "La dernière fois que cet argument a été modifié. Pour les nouvelles présentations, c&#39;est la même chose que:";
 $LANG["text_limit_email_content_desc"] = "Cette option ne fonctionne que pour le HTML et le contenu du texte généré avec boucles Smarty.";
 $LANG["text_list_views_with_filters"] = "(listes seulement des vues avec un ou plusieurs filtres à définir)";
@@ -894,14 +893,7 @@ $LANG["text_test_email"] = "Utilisez le formulaire ci-dessous pour voir ou vous 
 $LANG["text_test_email_templates_no_submissions"] = "Pour évaluer vos modèles d'Email, vous devez d'abord effectuer au moins une soumission de formulaire.";
 $LANG["text_theme_page_intro"] = "Cette page liste l&#39;ensemble de vos thèmes. Cliquez sur une vignette pour voir un exemple plus de styles du thème. Le &quot;permis&quot; case à cocher détermine si oui ou non ce thème mai être choisis par les clients. Pour naviguer dans tous les thèmes disponibles, visitez le <a href=\"http://themes.formtools.org\" target=\"_blank\">site Web Form Tools.</a>";
 $LANG["text_tutorial_adding_first_form"] = "Tutoriel: L&#39;ajout de votre première forme!";
-$LANG["text_unique_submission_id"] = "L'ID de l'unique soumission.
-La soumission unique ID.
-La soumission unique ID.
-La soumission unique ID.
-La soumission unique ID.
- La soumission unique ID.
- La soumission unique ID.
-L'ID de soumission unique.";
+$LANG["text_unique_submission_id"] = "L'ID de l'unique soumission.";
 $LANG["text_unused_option_list"] = "Cette liste d&#39;option n&#39;est pas utilisée par tout les champs du formulaire.";
 $LANG["text_upgraded"] = "Votre installation a été amélioré de <b>{\$version}</b>";
 $LANG["text_used_option_list"] = "Cette liste d&#39;options est utilisée par les champs suivants.";
@@ -1222,6 +1214,54 @@ $LANG["notify_your_email_sent"] = "Votre email a bien été envoyé.";
 $LANG["phrase_upgrade_problem_link"] = "Please &lt;a href=&quot;{\$link}&quot;&gt;visit this page&lt;/a&gt; regarding failed upgrades.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "am";
+$LANG["date_AM"] = "am";
+$LANG["date_Fri"] = "Ven";
+$LANG["date_Friday"] = "Vendredi";
+$LANG["date_Mon"] = "Lun";
+$LANG["date_Monday"] = "Lundi";
+$LANG["date_PM"] = "pm";
+$LANG["date_PM"] = "pm";
+$LANG["date_Sat"] = "Sam";
+$LANG["date_Saturday"] = "Samedi";
+$LANG["date_Sun"] = "Dim";
+$LANG["date_Sunday"] = "Dimanche";
+$LANG["date_Thu"] = "Jeu";
+$LANG["date_Thursday"] = "Jeudi";
+$LANG["date_Tue"] = "Mar";
+$LANG["date_Tuesday"] = "Mardi";
+$LANG["date_Wed"] = "Mer";
+$LANG["date_Wednesday"] = "Mercredi";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Avril";
+$LANG["date_month_August"] = "Août";
+$LANG["date_month_December"] = "Décembre";
+$LANG["date_month_February"] = "Février";
+$LANG["date_month_January"] = "Janvier";
+$LANG["date_month_July"] = "Juillet";
+$LANG["date_month_June"] = "Juin";
+$LANG["date_month_March"] = "Mars";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_May"] = "Mai";
+$LANG["date_month_November"] = "Novembre";
+$LANG["date_month_October"] = "Octobre";
+$LANG["date_month_September"] = "Septembre";
+$LANG["date_month_short_Apr"] = "Avr";
+$LANG["date_month_short_Aug"] = "Aou";
+$LANG["date_month_short_Dec"] = "Décembre";
+$LANG["date_month_short_Feb"] = "Fev";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Juil";
+$LANG["date_month_short_Jun"] = "Juin";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Mai";
+$LANG["date_month_short_Nov"] = "Nov";
+$LANG["date_month_short_Oct"] = "Oct";
+$LANG["date_month_short_Sep"] = "Sep";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Désolé, ce formulaire a été désactivé.";
 $LANG["processing_form_incomplete"] = "Désolé, cette formule ne semble pas être entièrement créée à partir de formulaire Outils. La cause la plus probable de ce problème est que vous avez retiré le form_tools_initialize_form &quot;&quot; champ de formulaire cachés, mais n&#39;a pas terminé toutes les étapes de la &quot;Ajouter un formulaire&quot; process. <br><br> S&#39;il vous plaît vous connecter et d&#39;examiner la configuration du formulaire.";
@@ -1232,4 +1272,3 @@ $LANG["processing_no_form_url_for_recaptcha"] = "Constituent des outils n&#39;es
 $LANG["processing_no_post_vars"] = "process.php is not receiving any data. Note: this script cannot be loaded directly in your browser.<br />Make sure your form is sending via POST.";
 $LANG["processing_no_redirect_url"] = "The submission was processed correctly, but you haven't specified a redirect URL for this form! Edit your form in the Form Tools UI and add the redirect URL.";
 
-?>

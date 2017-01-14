@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Вашата e-mail е успешно пра�
 $LANG["phrase_upgrade_problem_link"] = "Ве молиме &lt;a href=&quot;{\$link}&quot;&gt; посетите оваа страница &lt;/ a&gt; во врска со не надградува.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Пет";
+$LANG["date_Friday"] = "Петок";
+$LANG["date_Mon"] = "Пон";
+$LANG["date_Monday"] = "Понеделник";
+$LANG["date_PM"] = "Сочувана";
+$LANG["date_Sat"] = "Саб";
+$LANG["date_Saturday"] = "Сабота";
+$LANG["date_Sun"] = "Сонце";
+$LANG["date_Sunday"] = "Недела";
+$LANG["date_Thu"] = "Чет";
+$LANG["date_Thursday"] = "Четврток";
+$LANG["date_Tue"] = "Вто";
+$LANG["date_Tuesday"] = "Вторник";
+$LANG["date_Wed"] = "Сре";
+$LANG["date_Wednesday"] = "Среда";
+$LANG["date_am"] = "сум";
+$LANG["date_month_April"] = "Април";
+$LANG["date_month_August"] = "Август";
+$LANG["date_month_December"] = "Декември";
+$LANG["date_month_February"] = "Февруари";
+$LANG["date_month_January"] = "Јануари";
+$LANG["date_month_July"] = "Јули";
+$LANG["date_month_June"] = "Јуни";
+$LANG["date_month_March"] = "Март";
+$LANG["date_month_May"] = "Може";
+$LANG["date_month_November"] = "Ноември";
+$LANG["date_month_October"] = "Октомври";
+$LANG["date_month_September"] = "Септември";
+$LANG["date_month_short_Apr"] = "Април";
+$LANG["date_month_short_Aug"] = "Август";
+$LANG["date_month_short_Dec"] = "Декември";
+$LANG["date_month_short_Feb"] = "Февруари";
+$LANG["date_month_short_Jan"] = "Јан";
+$LANG["date_month_short_Jul"] = "Јули";
+$LANG["date_month_short_Jun"] = "Јуни";
+$LANG["date_month_short_Mar"] = "Март";
+$LANG["date_month_short_May"] = "Може";
+$LANG["date_month_short_Nov"] = "Ноември";
+$LANG["date_month_short_Oct"] = "Октомври";
+$LANG["date_month_short_Sep"] = "Септември";
+$LANG["date_pm"] = "Сочувана";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "За жал, овој формулар е оневозможено.";
 $LANG["processing_form_incomplete"] = "За жал, овој образец не се појавува целосно да се воспостави во рок од Form Tools. Најверојатно причина за овој проблем е во тоа што сте отстранети од &quot;form_tools_initialize_form&quot; скриена форма поле, но не комплетно сите чекори на &quot;Додади Образец&quot; процес. <br><br> Ве молиме да се логирате и преглед форма конфигурација.";

@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Sähköpostiosoitteesi on onnistuneesti lähe
 $LANG["phrase_upgrade_problem_link"] = "&lt;a Href=&quot;{\$link}&quot;&gt; vierailla tällä sivulla &lt;/ a&gt; suhteen epäonnistunut päivityksiä.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Pe";
+$LANG["date_Friday"] = "Perjantai";
+$LANG["date_Mon"] = "Ma";
+$LANG["date_Monday"] = "Maanantai";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "La";
+$LANG["date_Saturday"] = "Lauantai";
+$LANG["date_Sun"] = "Su";
+$LANG["date_Sunday"] = "Sunnuntai";
+$LANG["date_Thu"] = "To";
+$LANG["date_Thursday"] = "Torstai";
+$LANG["date_Tue"] = "Ti";
+$LANG["date_Tuesday"] = "Tiistai";
+$LANG["date_Wed"] = "Ke";
+$LANG["date_Wednesday"] = "Keskiviikko";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "Huhtikuu";
+$LANG["date_month_August"] = "Elokuu";
+$LANG["date_month_December"] = "Lokakuu";
+$LANG["date_month_February"] = "Helmikuu";
+$LANG["date_month_January"] = "Tammikuu";
+$LANG["date_month_July"] = "Heinäkuu";
+$LANG["date_month_June"] = "Kesäkuu";
+$LANG["date_month_March"] = "Maaliskuu";
+$LANG["date_month_May"] = "Toukokuu";
+$LANG["date_month_November"] = "Marraskuu";
+$LANG["date_month_October"] = "Lokakuu";
+$LANG["date_month_September"] = "Syyskuu";
+$LANG["date_month_short_Apr"] = "Huhtikuu";
+$LANG["date_month_short_Aug"] = "Elokuu";
+$LANG["date_month_short_Dec"] = "Joulukuu";
+$LANG["date_month_short_Feb"] = "Helmikuu";
+$LANG["date_month_short_Jan"] = "Tam";
+$LANG["date_month_short_Jul"] = "Heinäkuu";
+$LANG["date_month_short_Jun"] = "Kesäkuu";
+$LANG["date_month_short_Mar"] = "Maalis";
+$LANG["date_month_short_May"] = "Toukokuu";
+$LANG["date_month_short_Nov"] = "Marraskuu";
+$LANG["date_month_short_Oct"] = "Lokakuu";
+$LANG["date_month_short_Sep"] = "Syyskuu";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Anteeksi, tämä lomake on poistettu käytöstä.";
 $LANG["processing_form_incomplete"] = "Anteeksi, tämä muoto ei näytä olevan täysin perustaa käsin muoto Tools. Todennäköisin syy tähän ongelmaan on, että olet poistanut &quot;form_tools_initialize_form&quot; piilotetun lomakkeen kentän, mutta ei suorittaa kaikki vaiheet &quot;Lisää muoto&quot; prosessi. <br><br> Kirjaudu sisään ja tarkistaa lomakkeen kokoonpano.";

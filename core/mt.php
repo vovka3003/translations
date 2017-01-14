@@ -1209,6 +1209,51 @@ $LANG["notify_your_email_sent"] = "Your email kienet intbagħtet b&#39;suċċess
 $LANG["phrase_upgrade_problem_link"] = "Jekk jogħġbok href=&quot;{\$link}&quot;&gt; &lt;a żur din il-paġna &lt;/ a&gt; promozzjonijiet rigward fallew.";
 
 
+// Category: Dates
+$LANG["date_AM"] = "AM";
+$LANG["date_Fri"] = "Fri";
+$LANG["date_Friday"] = "Il-ġimgħa";
+$LANG["date_Mon"] = "Mon";
+$LANG["date_Monday"] = "It-tnejn";
+$LANG["date_PM"] = "PM";
+$LANG["date_Sat"] = "Sat";
+$LANG["date_Saturday"] = "Is-Sibt";
+$LANG["date_Sun"] = "Xemx";
+$LANG["date_Sunday"] = "Il-ħadd";
+$LANG["date_Thu"] = "Thu";
+$LANG["date_Thursday"] = "Il-ħamis";
+$LANG["date_Tue"] = "Tue";
+$LANG["date_Tuesday"] = "It-tlieta";
+$LANG["date_Wed"] = "Wed";
+$LANG["date_Wednesday"] = "L-Erbgħa";
+$LANG["date_am"] = "am";
+$LANG["date_month_April"] = "April";
+$LANG["date_month_August"] = "Awissu";
+$LANG["date_month_December"] = "Diċembru";
+$LANG["date_month_February"] = "Frar";
+$LANG["date_month_January"] = "Jannar";
+$LANG["date_month_July"] = "Lulju";
+$LANG["date_month_June"] = "Ġunju";
+$LANG["date_month_March"] = "Marzu";
+$LANG["date_month_May"] = "Jista &#39;";
+$LANG["date_month_November"] = "Novembru";
+$LANG["date_month_October"] = "Ottubru";
+$LANG["date_month_September"] = "Settembru";
+$LANG["date_month_short_Apr"] = "April";
+$LANG["date_month_short_Aug"] = "Awissu";
+$LANG["date_month_short_Dec"] = "Diċembru";
+$LANG["date_month_short_Feb"] = "Frar";
+$LANG["date_month_short_Jan"] = "Jan";
+$LANG["date_month_short_Jul"] = "Lulju";
+$LANG["date_month_short_Jun"] = "Ġunju";
+$LANG["date_month_short_Mar"] = "Mar";
+$LANG["date_month_short_May"] = "Jista &#39;";
+$LANG["date_month_short_Nov"] = "Novembru";
+$LANG["date_month_short_Oct"] = "Ottubru";
+$LANG["date_month_short_Sep"] = "Settembru";
+$LANG["date_pm"] = "pm";
+
+
 // Category: Processing
 $LANG["processing_form_disabled"] = "Jiddispjacini, din il-formola ġiet b&#39;diżabilità.";
 $LANG["processing_form_incomplete"] = "Jiddispjacini, din il-formola ma jidhirx li jkunu kompletament stabbiliti minn ġewwa Formola Tools. Il-kawża l-aktar probabbli ta &#39;din il-problema hija li tkun neħħejt l-form_tools_initialize_form &quot;qasam forma moħbija, iżda ma lestewx l-passi kollha tal-&quot; Żid Formola &quot;proċess. <br><br> Jekk jogħġbok login u tirrevedi l-konfigurazzjoni formola.";
