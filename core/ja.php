@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "任意のアカウントに割�
 $LANG["phrase_forms_page_default_message"] = "フォームのページのデフォルトのメッセージ";
 $LANG["phrase_ft_installation"] = "フォームツールのインストールスクリプト";
 $LANG["phrase_full_width"] = "フル幅";
-$LANG["phrase_get_more"] = "以上を取得...";
 $LANG["phrase_getting_started"] = "始まったばかり";
 $LANG["phrase_global_placeholders"] = "グローバルプレースホルダ";
 $LANG["phrase_group_name"] = "グループ名";
@@ -841,7 +840,6 @@ $LANG["text_form_view_permission_info_private"] = "注：ここでパブリッ�
 $LANG["text_ft_installed"] = "おめでとう、フォームツールが正常にインストールされています！";
 $LANG["text_global_placeholder_info"] = "これらのプレースホルダは、任意のフォームテンプレートで使用されることがあります。";
 $LANG["text_group_name_explanation"] = "フィールドは、フォームの追加プロセスを介して、この値は事前に何のフィールドの表示テキストを記入の値を使用しました。それを変更するより良い内容の特徴を希望する場合があります。";
-$LANG["text_install_already_upgraded"] = "場合は、既に<b>/</b>次に<a href=\"../\" class=\"bold\">ここには</a> 、 <a href=\"../\" class=\"bold\">ログインをクリックして</a> <b>インストール</b>フォルダを削除し、インストールスクリプトを実行している。";
 $LANG["text_install_create_config_file"] = "ファイル内のサーバーおよびデータベースの設定<b>のconfig.php</b>と呼ばれるフォームツール店、あなたの/世界で発見/フォルダを開きます。 &quot;自動的にサーバー上のファイルを生成するファイルの作成&quot;ボタンをクリックします。";
 $LANG["text_install_create_database_tables"] = "今は、フォームツールのデータベーステーブルを作成するつもりだ。この手順は、既に作成されているため、データベース自体が必要です。場合、これを行う方法がわからない、ご利用のホストプロバイダにお問い合わせください。";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;不明なMySQLサーバのホスト&quot;</span>通常は、提供されたホスト名が正しくないことを意味します。おそらく、&quot;localhost&quot;を - これは&quot;ローカル&quot;のデータベースには、Webサーバー上で参照するための一般的な方法ですが、この設定をしてください。";
@@ -861,7 +859,6 @@ $LANG["text_list_views_with_filters"] = "（1つまたは複数のフィルタ�
 $LANG["text_log_in_to_ft"] = "でフォームツールにログインする";
 $LANG["text_login"] = "どうぞ下記の（\$ program_nameの）の管理者パネルへのアクセスにログインします。もしあなたのパスワードは、 <a href=\"{\$forgot_password_link}\">ここをクリックし</a>忘れている。";
 $LANG["text_login_info"] = "要求どおりに、ここにあなたのログイン情報です。";
-$LANG["text_must_delete_install_folder"] = "<b>する</b>前に<b>削除する必要があります</b>ログイン<b>/インストール/フォルダをサーバー上の。</b>れるまで、削除されている場合には、ログインを許可されません。";
 $LANG["text_name_of_form"] = "フォームの名前です。";
 $LANG["text_no_clients"] = "現在、データベース内のクライアントがないです。下記のクライアントの追加]ボタンを新しいクライアントアカウントをクリックして追加します。";
 $LANG["text_no_clients_found"] = "いいえ、クライアントが発見された。あなたの検索条件を広げてみてください。";

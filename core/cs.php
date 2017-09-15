@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formuláře přiřazena na jin�
 $LANG["phrase_forms_page_default_message"] = "Formuláře stránku výchozí zprávu";
 $LANG["phrase_ft_installation"] = "Formulář Nástroje Instalační skript";
 $LANG["phrase_full_width"] = "V plné šíři";
-$LANG["phrase_get_more"] = "Získejte více ...";
 $LANG["phrase_getting_started"] = "Začínáme";
 $LANG["phrase_global_placeholders"] = "Global Symboly";
 $LANG["phrase_group_name"] = "Název skupiny";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Poznámka: Tato forma má v s
 $LANG["text_ft_installed"] = "Gratulujeme, nářadí formulář byl úspěšně nainstalován!";
 $LANG["text_global_placeholder_info"] = "Tyto symboly mohou být použity v jakékoli šablony a jakákoli forma.";
 $LANG["text_group_name_explanation"] = "Pro pole přidáno přes formulář Přidat procesu, tato hodnota je pre-naplněné na zobrazení textu bez ohledu na pole používá hodnotu. Možná budete chtít změnit, aby lépe charakterizovat obsah.";
-$LANG["text_install_already_upgraded"] = "Pokud jste již spustit instalační skript, smazat <b>/ instalační</b> složky pak <a href=\"../\" class=\"bold\">klikněte zde pro přihlášení.</a>";
 $LANG["text_install_create_config_file"] = "Formulář Nástroje jsou uloženy server a databáze nastavení v souboru s názvem <b>config.php,</b> nalézt v souboru / global / složky. Klikněte na tlačítko &quot;Vytvořit soubor&quot; tlačítko pro automatické vytváření souborů na serveru.";
 $LANG["text_install_create_database_tables"] = "Nyní budeme vytvářet formuláře Nástroje databázové tabulky. Tento krok vyžaduje, aby databáze sám již byly vytvořeny. Pokud si nejste jisti, jak to udělat, prosím, kontaktujte svého poskytovatele hostingu.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> obvykle znamená, že název hostitele je ale nesprávné. Možná zkuste toto nastavení na &quot;localhost&quot; - to je obyčejný způsob, jak se odkazovat na &quot;místní&quot; databáze na webovém serveru.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(pouze seznam Náhledy s jedním nebo v
 $LANG["text_log_in_to_ft"] = "Přihlaste se do formuláře Nástroje";
 $LANG["text_login"] = "Prosím přihlašte se níže pro přístup k administračnímu panelu aplikace  {\$program_name}. <br>Pokud jste zapomněli své heslo, <a href=\"{\$forgot_password_link}\">klikněte zde.</a>";
 $LANG["text_login_info"] = "Jak bylo požadováno, tady jsou vaše přihlašovací údaje.";
-$LANG["text_must_delete_install_folder"] = "Než se přihlásíte, <b>musíte odstranit, instalaci a složky na serveru.</b> Nebudete moci přihlásit, dokud nebude odstraněna.";
 $LANG["text_name_of_form"] = "Název formuláře.";
 $LANG["text_no_clients"] = "Momentálně zde nejsou žádné klienty v databázi. Chcete-li přidat nový klientský účet, klepněte na tlačítko Přidat Klient níže.";
 $LANG["text_no_clients_found"] = "Nebyly nalezeny žádné klienty. Zkuste rozšířit kritéria vyhledávání.";

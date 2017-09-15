@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forms assigned to any account";
 $LANG["phrase_forms_page_default_message"] = "Forms page default message";
 $LANG["phrase_ft_installation"] = "Form Tools Installation Script";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Get more...";
 $LANG["phrase_getting_started"] = "getting started";
 $LANG["phrase_global_placeholders"] = "Global Placeholders";
 $LANG["phrase_group_name"] = "Group Name";
@@ -768,7 +767,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "Your form is passwo
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "In another tab / window of this browser, log into your form then click the Refresh Page button below to try to re-find the fields.";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "If none of the above solutions work, you may also want to try <a href=\"#\" onclick=\"{\$ONCLICK}\">manually uploading your forms for processing</a>.";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "There were multiple fields that couldn't be found in the form pages you specified. This is mostly likely caused by one of these:";
-$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading out <a href=\"http://docs.formtools.org/userdoc2_1?page=add_form\" target=\"_blank\">user documentation</a>.";
+$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading our <a href=\"http://docs.formtools.org/userdoc2_1?page=add_form\" target=\"_blank\">user documentation</a>.";
 $LANG["text_add_form_step_1_text_1"] = "The following pages lead you through the steps to configure Form Tools to store your form submissions. Before continuing, please check that:";
 $LANG["text_add_form_step_1_text_2"] = "your form has already been created and it's accessible via a URL (localhost is fine)";
 $LANG["text_add_form_step_1_text_3"] = "are able to edit your form";
@@ -841,7 +840,6 @@ $LANG["text_form_view_permission_info_private"] = "Note: this form currently has
 $LANG["text_ft_installed"] = "Congratulations, Form Tools has been successfully installed!";
 $LANG["text_global_placeholder_info"] = "These placeholders may be used in any template and any form.";
 $LANG["text_group_name_explanation"] = "For fields added through the Add Form process, this value is pre-filled to the display text of whatever field uses the value. You may wish to change it to better characterize the contents.";
-$LANG["text_install_already_upgraded"] = "If you have already run the installation script, delete the <b>/install</b> folder then <a href=\"../\" class=\"bold\">click here to log in</a>.";
 $LANG["text_install_create_config_file"] = "Form Tools stores your server and database settings in a file called <b>config.php</b>, found in your /global/ folder. Click the \"Create File\" button to automatically generate the file on your server.";
 $LANG["text_install_create_database_tables"] = "Now we're going to create the Form Tools database tables. This step requires the database itself to have already been created. If you're not sure how to do this, please contact your hosting provider.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">\"Unknown MySQL Server Host\"</span> usually means that the hostname you provided is incorrect. Perhaps try setting this to \"localhost\" - this is a common way to refer to the \"local\" database on a web server.";
@@ -861,7 +859,6 @@ $LANG["text_list_views_with_filters"] = "(only lists Views with one or more filt
 $LANG["text_log_in_to_ft"] = "Log in to Form Tools";
 $LANG["text_login"] = "Please log in below to access the {\$program_name} Administration Panel. If you have forgotten your password, <a href=\"{\$forgot_password_link}\">click here</a>.";
 $LANG["text_login_info"] = "As requested, here is your login information.";
-$LANG["text_must_delete_install_folder"] = "Before you log in <b>you must delete the /install/ folder on your server.</b> You will not be allowed to log in until it has been removed.";
 $LANG["text_name_of_form"] = "The name of the form.";
 $LANG["text_no_clients"] = "There are currently no clients in the database. To add a new client account, click the Add Client button below.";
 $LANG["text_no_clients_found"] = "No clients were found. Try broadening your search criteria.";

@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formų priskiriamos bet kokios 
 $LANG["phrase_forms_page_default_message"] = "Formas puslapis numatytąjį žinutės";
 $LANG["phrase_ft_installation"] = "Forma Įrankiai installation script";
 $LANG["phrase_full_width"] = "Visas plotis";
-$LANG["phrase_get_more"] = "Sužinokite daugiau ...";
 $LANG["phrase_getting_started"] = "pradžia";
 $LANG["phrase_global_placeholders"] = "Global pamainymai";
 $LANG["phrase_group_name"] = "Grupės pavadinimas";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Pastaba: ši forma šiuo metu
 $LANG["text_ft_installed"] = "Sveikinu, forma Priemonės buvo sėkmingai įdiegta!";
 $LANG["text_global_placeholder_info"] = "Šios vietos rezervavimo ženklai gali būti naudojami bet šabloną ir bet kokia forma.";
 $LANG["text_group_name_explanation"] = "Laukų pridėtinės per Pridėti forma procesą, ši vertė yra užpildyta iki kalbomis tekstą bet lauke naudojama vertė. Jeigu norite, galite pakeisti jį geriau apibūdinti turinį.";
-$LANG["text_install_already_upgraded"] = "Jei jau paleisti diegimo scenarijų, ištrinti <b>/ install</b> katalogą tuomet <a href=\"../\" class=\"bold\">spauskite čia prisijungti.</a>";
 $LANG["text_install_create_config_file"] = "Forma Įrankiai saugo jūsų serveryje ir duomenų bazės parametrus failą <b>config.php,</b> rasti savo / Global / kataloge. Paspauskite &quot;Sukurti failą&quot; mygtuką, automatiškai generuoti savo serveryje failą.";
 $LANG["text_install_create_database_tables"] = "Dabar mes ketiname sukurti forma Įrankiai duomenų bazės lenteles. Šis etapas reikalauja duomenų bazė pati jau buvo sukurta. Jei nesate tikras, kaip tai padaryti, kreipkitės į savo paslaugų teikėju.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> paprastai reiškia, kad jūs hostname yra neteisinga. Patikrinkite pabandyti nustatyti, kad tai &quot;localhost&quot; - tai įprastas būdas kreiptis į &quot;vietos&quot; duomenų bazės serverio.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(tik sąrašuose nuomonėmis su viena a
 $LANG["text_log_in_to_ft"] = "Prisijunkite prie formos Įrankiai";
 $LANG["text_login"] = "Prašome prisijungti, jei norite gauti (\$) programos_pavadinimas administravimo skydelį. Jei pamiršote savo slaptažodį, <a href=\"{\$forgot_password_link}\">spauskite čia.</a>";
 $LANG["text_login_info"] = "Kaip paprašė, čia yra jūsų prisijungimo informaciją.";
-$LANG["text_must_delete_install_folder"] = "Prieš prisijungiant <b>jūs privalote ištrinti / install / katalogą jūsų serveryje.</b> Jums nebus leista prisijungti, kol jis buvo pašalintas.";
 $LANG["text_name_of_form"] = "Rūšies pavadinimas.";
 $LANG["text_no_clients"] = "Šiuo metu nėra duomenų bazėje klientams. Norėdami pridėti naują kliento sąskaita, spustelėkite Pridėti kliento žemiau esantį mygtuką.";
 $LANG["text_no_clients_found"] = "Nr klientams nerasta. Gauta išplėsti jūsų paieškos kriterijus.";

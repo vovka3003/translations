@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Lomakkeet määritetty millekä
 $LANG["phrase_forms_page_default_message"] = "Lomakkeet sivu oletusviestiä";
 $LANG["phrase_ft_installation"] = "Muoto Tools asennus Script";
 $LANG["phrase_full_width"] = "Täysi leveys";
-$LANG["phrase_get_more"] = "Hanki lisää ...";
 $LANG["phrase_getting_started"] = "Aloittaminen";
 $LANG["phrase_global_placeholders"] = "Global paikkamerkit";
 $LANG["phrase_group_name"] = "Ryhmän nimi";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Huomaa: Tässä lomakkeessa o
 $LANG["text_ft_installed"] = "Onnittelut, muoto työkalut on asennettu!";
 $LANG["text_global_placeholder_info"] = "Nämä paikkamerkeillä voidaan käyttää minkä tahansa mallin ja kaikenlaista.";
 $LANG["text_group_name_explanation"] = "Pelloille lisättiin Lisää muoto prosessi, tämä arvo on esitäytetty ja näytön tekstin riippumatta kenttä käyttää arvoa. Voit halutessasi vaihtaa sen paremmin kuvaamaan sisältöä.";
-$LANG["text_install_already_upgraded"] = "Jos olet jo suorittanut asennuksen script, poistaa <b>/ asentaa</b> kansion sitten <a href=\"../\" class=\"bold\">klikkaa tästä sisään.</a>";
 $LANG["text_install_create_config_file"] = "Muoto Työkalut tallentaa palvelimen ja tietokannan asetukset tiedoston nimeltä <b>config.php,</b> löytyy your / global / kansio. Klikkaa &quot;Luo tiedosto&quot;-painiketta automaattisesti tiedosto palvelimelle.";
 $LANG["text_install_create_database_tables"] = "Nyt aiomme luoda lomakkeen Työkalut tietokannan taulukot. Tämä vaihe edellyttää tietokannan itse on jo luotu. Jos et ole varma, miten tämä tehdään, ota yhteyttä palveluntarjoajaasi.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Tuntematon MySQL-palvelimen&quot;</span> yleensä tarkoittaa, että palvelimen nimi annoit on virheellinen. Ehkä kokeile tätä &quot;localhost&quot; - tämä on yleinen tapa viitata &quot;paikallinen&quot; tietokannan web-palvelin.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(vain luetellaan Katsojat yhden tai use
 $LANG["text_log_in_to_ft"] = "Kirjaudu Form Työkalut";
 $LANG["text_login"] = "Kirjaudu sisään alla pääsy (\$ ohjelman_nimi) hallinto paneeli. Jos olet unohtanut salasanasi, <a href=\"{\$forgot_password_link}\">klikkaa tästä.</a>";
 $LANG["text_login_info"] = "Pyynnöstä, tässä kirjautumistiedot.";
-$LANG["text_must_delete_install_folder"] = "Ennen kuin kirjaudut sisään, <b>sinun tulee poistaa / install / kansioon palvelimella. Sinua</b> ei saa kirjautua ennen kuin se on poistettu.";
 $LANG["text_name_of_form"] = "Nimi muodossa.";
 $LANG["text_no_clients"] = "Tällä hetkellä ei ole asiakkaita tietokantaan. Haluat lisätä uuden asiakkaan tilin, valitse Lisää Client-painiketta.";
 $LANG["text_no_clients_found"] = "Ole asiakkaita ei löytynyt. Yritä laajentaa hakuehtojasi.";

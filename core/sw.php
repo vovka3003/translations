@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forms assigned to any account";
 $LANG["phrase_forms_page_default_message"] = "Forms page default message";
 $LANG["phrase_ft_installation"] = "Fomu Tools Installation Script";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Kupata zaidi ...";
 $LANG["phrase_getting_started"] = "getting started";
 $LANG["phrase_global_placeholders"] = "Global Placeholders";
 $LANG["phrase_group_name"] = "Kikundi Jina";
@@ -768,7 +767,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "Your form is passwo
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "In another tab / window of this browser, log into your form then click the Refresh Page button below to try to re-find the fields.";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "If none of the above solutions work, you may also want to try <a href=\"#\" onclick=\"{\$ONCLICK}\">manually uploading your forms for processing</a>.";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "There were multiple fields that couldn't be found in the form pages you specified. This is mostly likely caused by one of these:";
-$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading out <a href=\"http://docs.formtools.org/userdoc2_1?page=add_form\" target=\"_blank\">user documentation</a>.";
+$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading our <a href=\"http://docs.formtools.org/userdoc2_1?page=add_form\" target=\"_blank\">user documentation</a>.";
 $LANG["text_add_form_step_1_text_1"] = "Kurasa zifuatazo itakuongoza kupitia hatua configure Fomu Tools kuhifadhi fomu yako redovisningar. Kabla ya kuendelea, tafadhali hakikisha kwamba:";
 $LANG["text_add_form_step_1_text_2"] = "fomu yako tayari imekuwa umba na ni kupatikana kupitia URL (localhost ni laini)";
 $LANG["text_add_form_step_1_text_3"] = "wanaweza hariri fomu yako";
@@ -841,7 +840,6 @@ $LANG["text_form_view_permission_info_private"] = "Note: this form currently has
 $LANG["text_ft_installed"] = "Congratulations, Form Tools imekuwa mafanikio installed!";
 $LANG["text_global_placeholder_info"] = "Placeholders hizi inaweza kutumika katika template yoyote na aina yoyote.";
 $LANG["text_group_name_explanation"] = "Mashamba aliongeza kwa kupitia mchakato wa kidato Ongeza, hii ni kabla ya thamani ya kujazwa kwa Nakala ya chochote display shamba anatumia thamani. Unaweza ukataka kwa kubadili tabia bora yaliyomo.";
-$LANG["text_install_already_upgraded"] = "Ikiwa tayari kuendesha ufungaji script, delete ya <b>/ kufunga</b> folder kisha <a href=\"../\" class=\"bold\">click here to log in.</a>";
 $LANG["text_install_create_config_file"] = "Fomu Tools maduka na database server yako katika mazingira faili inayoitwa <b>config.php,</b> hupatikana katika yako / global / folder. Click the &quot;Create Picha&quot; button kwa kuzalisha automatiskt faili yako server.";
 $LANG["text_install_create_database_tables"] = "Now we&#39;re going kujenga database Tools Fomu meza. Hatua hii inahitaji database yenyewe kuwa tayari waumba. Kama huna uhakika jinsi ya kufanya hili, tafadhali wasiliana na mtoa mwenyeji wako.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> kawaida inamaanisha kwamba wewe hostname zinazotolewa ni sahihi. Labda jaribu kuweka hili &quot;localhost&quot; - hii ni njia ya kawaida rejea kwa &quot;mtaa&quot; database kwenye web server.";
@@ -856,12 +854,11 @@ $LANG["text_internal_form_desc"] = "Internal forms exist only within Form Tools 
 $LANG["text_internal_form_intro"] = "Use the form below to create a new Internal form. All settings, including the number and content of the form fields can be be changed and configured later.";
 $LANG["text_js_required"] = "Ili login na kutumia Fomu Tools, lazima uwe na javascript enabled in your browser. Tafadhali kuwawezesha sasa, na bonyeza kunawirisha katika browser yako.";
 $LANG["text_last_modified_date_explanation_c"] = "Wakati huu wa mwisho kuwasilisha mara iliyopita. Kwa mwezi redovisningar, hii ni sawa kama:";
-$LANG["text_limit_email_content_desc"] = "This option only works for HTML and text content generated with Smarty Loops.";
+$LANG["text_limit_email_content_desc"] = "This option only works for HTML and text content generated with Smarty loops.";
 $LANG["text_list_views_with_filters"] = "(tu orodha Views na moja au zaidi filters defined)";
 $LANG["text_log_in_to_ft"] = "Log in to Form Tools";
 $LANG["text_login"] = "Please log in chini kupata (\$ program_name) Administration Jopo. Kama una wamesahau password yako, <a href=\"{\$forgot_password_link}\">bonyeza hapa.</a>";
 $LANG["text_login_info"] = "Kama requested, hapa ni login yako habari.";
-$LANG["text_must_delete_install_folder"] = "Kabla log in <b>lazima delete ya / kufunga / folder on your server.</b> Wewe hataruhusiwa kwa logi katika mpaka imekuwa kuondolewa.";
 $LANG["text_name_of_form"] = "Jina la fomu.";
 $LANG["text_no_clients"] = "Sasa kuna hakuna wateja katika database. Kuongeza akaunti ya mteja mpya, bonyeza Add Mteja button chini.";
 $LANG["text_no_clients_found"] = "Hakuna wateja walikuwa found. Kujaribu kupanua vigezo utafutaji wako.";

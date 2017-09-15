@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Foirmeacha a shanntar aon chunt
 $LANG["phrase_forms_page_default_message"] = "Foirmeacha teachtaireacht réamhshocraithe leathanach";
 $LANG["phrase_ft_installation"] = "Foirm Uirlisí Suiteáil Script";
 $LANG["phrase_full_width"] = "Iomlán Leithead";
-$LANG["phrase_get_more"] = "Faigh tuilleadh ...";
 $LANG["phrase_getting_started"] = "ag tosú";
 $LANG["phrase_global_placeholders"] = "Ionadchoinneálaithe Domhanda";
 $LANG["phrase_group_name"] = "Ainm an Ghrúpa";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nóta: Tá an fhoirm seo faoi
 $LANG["text_ft_installed"] = "Comhghairdeas, tá Foirm Uirlisí curtha isteach go rathúil!";
 $LANG["text_global_placeholder_info"] = "Féadfaidh na ionadchoinneálaithe a úsáid in aon teimpléad agus bhfoirm ar bith.";
 $LANG["text_group_name_explanation"] = "I gcás réimsí leanas tríd an bpróiseas Cuir Foirm, tá an luach réamh-líonadh chun an téacs a thaispeáint ar cibé réimse úsáidí an luach. B&#39;fhéidir gur mhaith leat a athrú ar bhealach níos fearr characterize an ábhar.";
-$LANG["text_install_already_upgraded"] = "Má tá tú ar siúl cheana féin ar an script a shuiteáil, a scriosadh <b>/ shuiteáil</b> fillteán ansin <a href=\"../\" class=\"bold\">cliceáil anseo chun logáil isteach.</a>";
 $LANG["text_install_create_config_file"] = "Foirm siopaí Uirlisí do fhreastalaí agus suímh bunachar sonraí i comhad a dtugtar <b>config.php,</b> aimsíodh i do / domhanda / fillteán. Cliceáil ar an &quot;Cruthaigh Comhad&quot; cnaipe a ghiniúint go huathoibríoch an comhad ar do fhreastalaí.";
 $LANG["text_install_create_database_tables"] = "Anois táimid ag dul a chruthú sna táblaí a léiríonn Foirm mbunachar sonraí Uirlisí. Éilíonn an chéim ar an mbunachar sonraí é féin a bheith cruthaithe cheana. Mura bhfuil tú cinnte conas é sin a dhéanamh, déan teagmháil le do sholáthraí a óstáil.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Anaithnid MySQL Server Óstach ciallaíonn&quot;</span> de ghnáth go bhfuil an óstainm fáil tú mícheart. B&#39;fhéidir iarracht socrú seo chun &quot;localhost&quot; - é seo ar bhealach is coiteann do tharchur chuig an &quot;áitiúil&quot; bunachar sonraí ar fhreastalaí gréasáin.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(liostaí ach Radhairc le ceann amháin
 $LANG["text_log_in_to_ft"] = "Logáil isteach chun Foirm Uirlisí";
 $LANG["text_login"] = "Logáil isteach i thíos chun rochtain a fháil ar \$ program_name) (Riarachán Painéal. Má tá tú dearmad ar do phasfhocal, <a href=\"{\$forgot_password_link}\">cliceáil anseo.</a>";
 $LANG["text_login_info"] = "De réir mar a iarrtar é, anseo do chuid faisnéise logáil isteach.";
-$LANG["text_must_delete_install_folder"] = "Sula logáil tú i <b>caithfidh tú a scriosadh / shuiteáil / fillteáin ar do fhreastalaí.</b> Ní bheidh ort a bheith ceadaithe chun logáil isteach go dtí go mbeidh sé bhaint astu.";
 $LANG["text_name_of_form"] = "An t-ainm ar an bhfoirm.";
 $LANG["text_no_clients"] = "Faoi láthair tá aon chliaint sa bhunachar sonraí. Chun cur le cuntas nua a cliant, cliceáil an cnaipe Cuir Cliant thíos.";
 $LANG["text_no_clients_found"] = "Níor aimsíodh aon cliaint. Bain triail as a leathnú do chritéir chuardaigh.";

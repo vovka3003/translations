@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulaires affecté à un comp
 $LANG["phrase_forms_page_default_message"] = "Message de formulaires par défaut la page";
 $LANG["phrase_ft_installation"] = "Constituent des outils de script d&#39;installation";
 $LANG["phrase_full_width"] = "Pleine largeur";
-$LANG["phrase_get_more"] = "Get more ...";
 $LANG["phrase_getting_started"] = "Mise en route";
 $LANG["phrase_global_placeholders"] = "VARIABLES GLOBALES";
 $LANG["phrase_group_name"] = "Nom du groupe";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Remarque: ce formulaire est a
 $LANG["text_ft_installed"] = "Félicitations, Outils de formulaire a été installé avec succès!";
 $LANG["text_global_placeholder_info"] = "Ces variables peuvent être utilisées dans n'importe quel modèle et n'importe quel formulaire.";
 $LANG["text_group_name_explanation"] = "Pour les champs ajoutés par l&#39;intermédiaire du processus d&#39;ajout de formulaire, cette valeur est pré-rempli à l&#39;affichage du texte de tout ce champ utilise la valeur. Vous mai tiens à en changer pour mieux caractériser le contenu.";
-$LANG["text_install_already_upgraded"] = "Si vous avez déjà exécuté le script d&#39;installation, supprimez le <b>/</b> dossier <b>d&#39;installation</b> puis <a href=\"../\" class=\"bold\">cliquez ici pour vous connecter.</a>";
 $LANG["text_install_create_config_file"] = "Constituent des outils stocke les paramètres de votre serveur et base de données dans un fichier nommé <b>config.php,</b> trouvé dans votre / global / dossier. Cliquez sur le bouton &quot;Créer fichier pour générer automatiquement le fichier sur votre serveur.";
 $LANG["text_install_create_database_tables"] = "Maintenant, nous allons créer les tables de bases de données Outils Form. Cette étape nécessite la base elle-même d&#39;avoir déjà été créé. Si vous n&#39;êtes pas sûr de savoir comment faire cela, s&#39;il vous plaît contacter votre fournisseur d&#39;hébergement.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> signifie généralement que le nom d&#39;hôte que vous avez fournie est incorrecte. Peut-être essayer de définir ce paramètre à &quot;localhost&quot; - c&#39;est une manière commune de se référer au &quot;local&quot; base de données sur un serveur web.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(listes seulement des vues avec un ou p
 $LANG["text_log_in_to_ft"] = "Connectez-vous à Form Tools";
 $LANG["text_login"] = "S&#39;il vous plaît connectez-vous ci-dessous pour accéder à la \$ () program_name Panneau d&#39;administration. Si vous avez oublié votre mot de passe, <a href=\"{\$forgot_password_link}\">cliquez ici.</a>";
 $LANG["text_login_info"] = "Conformément à votre demande, voici vos informations de connexion.";
-$LANG["text_must_delete_install_folder"] = "Avant de vous connecter <b>vous devez supprimer le / install / dossier sur votre serveur.</b> Vous ne serez pas autorisé à se connecter jusqu&#39;à ce qu&#39;il ait été enlevé.";
 $LANG["text_name_of_form"] = "Le nom du formulaire.";
 $LANG["text_no_clients"] = "Il n'y a actuellement aucun gestionnaire dans la base de données. Pour ajouter un nouveau compte gestionnaire, cliquez sur le bouton Ajouter Gestionnaire ci-dessous.";
 $LANG["text_no_clients_found"] = "Aucun client n&#39;a été trouvé. Essayez d&#39;élargir vos critères de recherche.";

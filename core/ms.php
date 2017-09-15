@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Borang yang diberikan kepada ma
 $LANG["phrase_forms_page_default_message"] = "Borang halaman lalai mesej";
 $LANG["phrase_ft_installation"] = "Borang Alatan Instalasi Script";
 $LANG["phrase_full_width"] = "Lebar Penuh";
-$LANG["phrase_get_more"] = "Dapatkan lebih banyak ...";
 $LANG["phrase_getting_started"] = "memulakan";
 $LANG["phrase_global_placeholders"] = "Global placeholder";
 $LANG["phrase_group_name"] = "Nama Kumpulan";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: borang ini pada masa in
 $LANG["text_ft_installed"] = "Selamat, Borang Alatan telah berjaya dipasang!";
 $LANG["text_global_placeholder_info"] = "Placeholder ini boleh digunakan dalam template manapun dan bentuk apapun.";
 $LANG["text_group_name_explanation"] = "Untuk bidang ditambah melalui muat Borang Tambah, nilai ini diisi dengan paparan teks apa pun Bidang tersebut menggunakan nilai. Anda mungkin ingin mengubahnya menjadi lebih mencirikan isinya.";
-$LANG["text_install_already_upgraded"] = "Jika anda telah menjalankan instalasi skrip, hapus <b>/ menginstal</b> folder kemudian <a href=\"../\" class=\"bold\">klik di sini untuk login.</a>";
 $LANG["text_install_create_config_file"] = "Borang Alatan kedai dan database server anda tatacara dalam fail bernama <b>config.php,</b> ditemui di / global / folder. Klik &quot;Buat Fail&quot; butang untuk secara automatik menghasilkan fail di pelayan anda.";
 $LANG["text_install_create_database_tables"] = "Sekarang kita akan menciptakan tabel database Borang Tools. Langkah ini memerlukan database itu sendiri untuk telah dibuat. Jika anda tidak yakin bagaimana melakukan ini, sila hubungi pembekal hosting anda.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> biasanya bermaksud bahawa nama host yang anda berikan tidak benar. Mungkin cubalah menetapkannya ke &quot;localhost&quot; - ini adalah cara yang umum untuk menyebut &quot;tempatan&quot; database pada web server.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(hanya pendaftaran Display dengan satu 
 $LANG["text_log_in_to_ft"] = "Log in ke Borang Tools";
 $LANG["text_login"] = "Sila log in di bawah ini untuk mengakses (\$ program_name) Pentadbiran Panel. Jika anda lupa kata laluan, <a href=\"{\$forgot_password_link}\">klik di sini.</a>";
 $LANG["text_login_info"] = "Seperti yang diminta, di sini adalah maklumat log masuk anda.";
-$LANG["text_must_delete_install_folder"] = "Sebelum anda log in, <b>anda perlu memadam / install / folder pada pelayan anda.</b> Anda tidak akan dibenarkan untuk login sampai telah dihapuskan.";
 $LANG["text_name_of_form"] = "Nama borang.";
 $LANG["text_no_clients"] = "Saat ini tidak ada pelanggan dalam database. Untuk menambah akaun pelanggan baru, klik butang Tambah Pelanggan di bawah ini.";
 $LANG["text_no_clients_found"] = "Tidak ada pelanggan yang ditemui. Cuba memperluaskan kriteria carian anda.";

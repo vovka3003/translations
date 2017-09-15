@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulär som kopplats till nå
 $LANG["phrase_forms_page_default_message"] = "Formulärsidans standardmeddelande";
 $LANG["phrase_ft_installation"] = "Form Tools installationsscript";
 $LANG["phrase_full_width"] = "Full bredd";
-$LANG["phrase_get_more"] = "Hämta mer...";
 $LANG["phrase_getting_started"] = "komma igång";
 $LANG["phrase_global_placeholders"] = "Globala platshållare";
 $LANG["phrase_group_name"] = "Gruppnamn";
@@ -842,7 +841,6 @@ $LANG["text_form_view_permission_info_private"] = "Obs: detta formulär har för
 $LANG["text_ft_installed"] = "Gratulerar! Form Tools har nu installerats.";
 $LANG["text_global_placeholder_info"] = "Dessa placeringshållare kan användas i valfri mall och valfritt formulär.";
 $LANG["text_group_name_explanation"] = "För fält som lagts till genom processen \"Lägg till formulär\" har detta värde fyllts i i förväg med text från det fält som använder värdet. Du kanske vill ändra det för att bättre motsvara innehållet.";
-$LANG["text_install_already_upgraded"] = "Om du redan har kört installationsmanuset ska du ta bort katalogen <strong>/install</strong> från servern och sedan <a href=\"../\" class=\"bold\">klicka här för att logga in</a>.";
 $LANG["text_install_create_config_file"] = "Form Tools lagrar dina server- och databasinställningar i en fil kallad <strong>config.php</strong> som du hittar i katalogen /global/. Klicka på knappen \"Skapa fil\" för att automatiskt skapa denna fil på din server.";
 $LANG["text_install_create_database_tables"] = "Nu ska vi skapa Form Tools databastabeller. Detta steg kräver att databasen i sig redan är skapad. Om du inte är säker på hur du ska göra detta, kontakta din webbplatsleverantör.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">\"Unknown MYSQL Server Host\"</span> betyder vanligtvis att värdnamnet du angett är felaktigt. Försök kanske att ange detta till \"localhost\" istället. Det är ett vanligt sätt att referera till den \"lokala\" databasen på servern där du har din webbplats.";
@@ -862,7 +860,6 @@ $LANG["text_list_views_with_filters"] = "(lista bara vyer med ett eller flera fi
 $LANG["text_log_in_to_ft"] = "Logga in till Form Tools";
 $LANG["text_login"] = "Logga in nedan för att komma åt {\$program_name} Administrationspanel. Om du har glömt ditt lösenord, <a href=\"{\$forgot_password_link}\">klicka här</a>.";
 $LANG["text_login_info"] = "Här är inloggningsinformationen du begärde.";
-$LANG["text_must_delete_install_folder"] = "Innan du loggar in <strong>måste du ta bort katalogen /install/ från din server!</strong> Du kommer inte att kunna logga in förrän du har tagit bort den.";
 $LANG["text_name_of_form"] = "Namnet på formuläret.";
 $LANG["text_no_clients"] = "Det finns just nu inga klienter i databasen. För att lägga till ett nytt klientkonto så klickar du på knappen Lägg till klient här nedan.";
 $LANG["text_no_clients_found"] = "Inga klienter kunde hittas. Försök att vidga din sökning något.";

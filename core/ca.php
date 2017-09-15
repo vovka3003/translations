@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formes d&#39;assignar a qualsev
 $LANG["phrase_forms_page_default_message"] = "Formes pàgina per defecte d&#39;un missatge";
 $LANG["phrase_ft_installation"] = "Formulari d&#39;Eines de Instalación de seqüències d&#39;ordres";
 $LANG["phrase_full_width"] = "Ample complet";
-$LANG["phrase_get_more"] = "Més informació ...";
 $LANG["phrase_getting_started"] = "Primers passos";
 $LANG["phrase_global_placeholders"] = "Marcadors de posició global";
 $LANG["phrase_group_name"] = "Nom del grup";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: aquest formulari té ac
 $LANG["text_ft_installed"] = "Felicitats, Formulari d&#39;eines ha estat instal lat amb èxit!";
 $LANG["text_global_placeholder_info"] = "Aquests marcadors es poden utilitzar en qualsevol plantilla i qualsevol altra forma.";
 $LANG["text_group_name_explanation"] = "Per als camps d&#39;afegir a través del procés Afegir Forma, aquest valor és pre-carregada a la pantalla de text de qualsevol camp utilitza el valor. És possible que vulgueu canviar per caracteritzar millor els continguts.";
-$LANG["text_install_already_upgraded"] = "Si ja heu executat l&#39;script d&#39;instal lació, esborrar el fitxer <b>/</b> carpeta <b>d&#39;instal lació</b> a continuació, <a href=\"../\" class=\"bold\">feu clic aquí per accedir-hi.</a>";
 $LANG["text_install_create_config_file"] = "Formulari de botigues d&#39;eines i la configuració del seu servidor de base de dades en un fitxer anomenat <b>config.php,</b> que es troba al / global / carpeta. Feu clic a &quot;Crea arxiu&quot; per generar automàticament el fitxer en el seu servidor.";
 $LANG["text_install_create_database_tables"] = "Ara anem a crear les taules de base de dades Formulari d&#39;Eines. Aquest pas requereix la mateixa base de dades ja s&#39;han creat. Si no estàs segur de com fer-ho, poseu-vos en contacte amb el seu proveïdor de serveis.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> generalment vol dir que el nom que va proporcionar és incorrecta. Potser intenteu establir això a &quot;localhost&quot; - aquesta és una manera comuna per a referir-se a la base de dades &quot;local&quot; a un servidor web.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(només les llistes de Vista amb un o m
 $LANG["text_log_in_to_ft"] = "Entra al Formulari Eines";
 $LANG["text_login"] = "Inicia sessió a continuació per accedir als \$ () nombreDePrograma Panell d&#39;Administració. Si no recordes la contrasenya, <a href=\"{\$forgot_password_link}\">feu clic aquí.</a>";
 $LANG["text_login_info"] = "Acord amb el demanat, aquí està vostres dades d&#39;entrada.";
-$LANG["text_must_delete_install_folder"] = "Abans d&#39;iniciar la sessió en <b>què ha d&#39;eliminar el / install / carpeta al servidor.</b> No se li permetrà iniciar sessió fins que s&#39;ha eliminat.";
 $LANG["text_name_of_form"] = "El nom de la forma.";
 $LANG["text_no_clients"] = "Actualment no hi ha clients a la base de dades. Per afegir un nou compte de client, feu clic al botó Afegeix client a continuació.";
 $LANG["text_no_clients_found"] = "No s&#39;han trobat clients. Intenteu ampliar els seus criteris de recerca.";

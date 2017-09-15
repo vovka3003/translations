@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Nyomtatványok rendelt minden s
 $LANG["phrase_forms_page_default_message"] = "Forms oldal alapértelmezett üzenet";
 $LANG["phrase_ft_installation"] = "Form Script eszközök telepítése";
 $LANG["phrase_full_width"] = "Teljes szélesség";
-$LANG["phrase_get_more"] = "Még több ...";
 $LANG["phrase_getting_started"] = "első lépések";
 $LANG["phrase_global_placeholders"] = "Globális helyőrzők";
 $LANG["phrase_group_name"] = "Csoport neve";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Megjegyzés: ebben a formába
 $LANG["text_ft_installed"] = "Gratulálunk, Form Eszközök sikeresen telepítve!";
 $LANG["text_global_placeholder_info"] = "Ezek helyőrzők lehet használni bármely sablonok és semmilyen formában.";
 $LANG["text_group_name_explanation"] = "A mező hozzáadása révén Add forma folyamat, ez az érték előretöltött a szöveg megjelenítése bármilyen területen használja az értéket. Ha szeretné megváltoztatni, hogy jobban jellemzik a tartalmát.";
-$LANG["text_install_already_upgraded"] = "Ha már fut a telepítő szkriptet, törölje a <b>/ install</b> mappát, majd <a href=\"../\" class=\"bold\">kattintson ide a bejelentkezéshez</a> .";
 $LANG["text_install_create_config_file"] = "Eszközök formában tárolja a szerver és az adatbázis-beállítások nevű fájlt <b>config.php</b> talált a / világ / mappába. Kattintson a &quot;Create File&quot; gombra, hogy automatikusan generálja a fájl a szerveren.";
 $LANG["text_install_create_database_tables"] = "Most fogunk létrehozni a Form Tools adatbázis táblák. Ez a lépés maga az adatbázis, hogy már létrejött. Ha nem biztos abban, hogyan kell ezt csinálni, vegye fel a kapcsolatot a tárhely szolgáltató.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Ismeretlen MySQL Server Host&quot;</span> általában azt jelenti, hogy a megadott gépnév helytelen. Talán próbáljuk meg a &quot;localhost&quot; - ez egy gyakori módja annak, hogy olvassa el a &quot;helyi&quot; adatbázis egy webszerveren.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(Csak a listák Megtekintések egy vagy
 $LANG["text_log_in_to_ft"] = "Jelentkezzen be a Forma Eszközök";
 $LANG["text_login"] = "Kérjük, jelentkezzen be alább való a (\$ programnév) Adminisztráció panel. Ha elfelejtette jelszavát, <a href=\"{\$forgot_password_link}\">kattintson ide</a> .";
 $LANG["text_login_info"] = "Ahogy kérte, itt van a bejelentkezési adatokat.";
-$LANG["text_must_delete_install_folder"] = "Mielőtt Jelentkezz be, <b>le kell törölni a / install / mappát a kiszolgálón.</b> Önnek nem szabad megengedni, hogy jelentkezzen be, amíg el nem távolították.";
 $LANG["text_name_of_form"] = "A neve az űrlapot.";
 $LANG["text_no_clients"] = "Jelenleg nincs ügyfelek az adatbázisban. Egy új ügyfél, kattintson a Hozzáadás Ügyfél gombra.";
 $LANG["text_no_clients_found"] = "Nem ügyfelei találtak. Próbálja ki kiterjesztése a keresési feltételeknek.";

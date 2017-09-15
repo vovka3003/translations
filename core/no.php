@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Skjemaer tildelt noen konto";
 $LANG["phrase_forms_page_default_message"] = "Skjemaer side default melding";
 $LANG["phrase_ft_installation"] = "Form Tools Installation Script";
 $LANG["phrase_full_width"] = "Full Bredde";
-$LANG["phrase_get_more"] = "Få mer ...";
 $LANG["phrase_getting_started"] = "komme i gang";
 $LANG["phrase_global_placeholders"] = "Global Plassholdere";
 $LANG["phrase_group_name"] = "Group Name";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Merk: Dette skjemaet har i da
 $LANG["text_ft_installed"] = "Gratulerer, har Form Verktøy blitt installert!";
 $LANG["text_global_placeholder_info"] = "Disse plassholdere kan brukes i en mal, og enhver form.";
 $LANG["text_group_name_explanation"] = "For felt lagt gjennom Add Form prosessen, er denne verdien pre-fylt til vise tekst uansett feltet bruker verdien. Du ønsker kanskje å endre den til bedre karakterisere innholdet.";
-$LANG["text_install_already_upgraded"] = "Hvis du allerede har kjørt installasjonen skriptet, slette <b>/ installere</b> mappen og <a href=\"../\" class=\"bold\">klikk her for å logge inn.</a>";
 $LANG["text_install_create_config_file"] = "Form Verktøy lagrer din server og database innstillingene i en fil som heter <b>config.php,</b> funnet i / global / mappe. Klikk på &quot;Create File&quot; for å automatisk generere filen på serveren.";
 $LANG["text_install_create_database_tables"] = "Nå skal vi opprette Form Verktøy databasetabeller. Dette trinnet krever selve databasen har allerede opprettet. Hvis du er usikker på hvordan du gjør dette, kan du kontakte din leverandør.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> betyr vanligvis at vertsnavnet du oppga er feil. Kanskje prøve å sette denne til &quot;localhost&quot; - dette er en vanlig måte å referere til den &quot;lokale&quot; database på en webserver.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(viser bare Visninger med ett eller fle
 $LANG["text_log_in_to_ft"] = "Logg på skjema Verktøy";
 $LANG["text_login"] = "Vennligst logg inn nedenfor for å få tilgang til (\$ programnavn) Administration Panel. Hvis du har glemt passordet ditt, <a href=\"{\$forgot_password_link}\">klikk her.</a>";
 $LANG["text_login_info"] = "Som forespurt, her påloggingsinformasjonen.";
-$LANG["text_must_delete_install_folder"] = "Før du logger deg på <b>må du slette / installere / mappe på serveren din.</b> Du vil ikke få lov til å logge på før den har blitt fjernet.";
 $LANG["text_name_of_form"] = "Navnet på skjemaet.";
 $LANG["text_no_clients"] = "Det er ingen kunder i databasen. Hvis du vil legge til en ny kundekonto, klikker du Add Client knappen nedenfor.";
 $LANG["text_no_clients_found"] = "Ingen klienter ble funnet. Prøv å utvide dine søkekriterier.";

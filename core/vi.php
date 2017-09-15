@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Các hình thức được giao
 $LANG["phrase_forms_page_default_message"] = "Các hình thức trang mặc định tin nhắn";
 $LANG["phrase_ft_installation"] = "Cài đặt hình thức cụ Script";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Nhận được nhiều hơn ...";
 $LANG["phrase_getting_started"] = "bắt đầu";
 $LANG["phrase_global_placeholders"] = "Toàn cầu placeholders";
 $LANG["phrase_group_name"] = "Group Name";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Lưu ý: Hình thức này hi
 $LANG["text_ft_installed"] = "Xin chúc mừng, mẫu cụ đã được cài đặt thành công!";
 $LANG["text_global_placeholder_info"] = "Những placeholders có thể được sử dụng trong bất kỳ mẫu và các hình thức.";
 $LANG["text_group_name_explanation"] = "Đối với lĩnh vực được gửi thông qua quá trình Thêm Mẫu, giá trị này là đã điền sẵn để hiển thị văn bản của các lĩnh vực sử dụng bất kỳ giá trị. Bạn có thể muốn thay đổi nó tốt hơn các nội dung riêng biệt.";
-$LANG["text_install_already_upgraded"] = "Nếu bạn đã chạy kịch bản cài đặt, xóa <b>/ cài đặt</b> thư mục sau đó <a href=\"../\" class=\"bold\">bấm vào đây để đăng nhập.</a>";
 $LANG["text_install_create_config_file"] = "Mẫu cụ cửa hàng máy chủ của bạn và thiết lập cơ sở dữ liệu trong tập tin có tên là <b>config.php,</b> tìm thấy trong / toàn cầu của bạn / thư mục. Nhấp vào &quot;Tạo File&quot; nút để tự động tạo ra các tập tin trên máy chủ của bạn.";
 $LANG["text_install_create_database_tables"] = "Bây giờ chúng ta sẽ tạo ra các mẫu bảng cơ sở dữ liệu Công cụ. Bước này đòi hỏi các cơ sở dữ liệu tự nó đã được tạo ra. Nếu bạn không chắc chắn làm thế nào để làm điều này, xin vui lòng liên hệ với nhà cung cấp hosting.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> thường có nghĩa là tên máy bạn cung cấp là không chính xác. Có lẽ cố gắng thiết lập này để &quot;localhost&quot; - đây là một cách phổ biến để chỉ các cơ sở dữ liệu &quot;&quot; cục bộ trên một máy chủ web.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(chỉ liệt kê xem với một hoặ
 $LANG["text_log_in_to_ft"] = "Đăng nhập vào Form Tools";
 $LANG["text_login"] = "Vui lòng đăng nhập dưới đây để truy cập program_name \$ () Administration Panel. Nếu bạn quên mật khẩu, <a href=\"{\$forgot_password_link}\">nhấn vào đây.</a>";
 $LANG["text_login_info"] = "Theo yêu cầu, đây là thông tin đăng nhập của bạn.";
-$LANG["text_must_delete_install_folder"] = "Trước khi bạn đăng nhập, <b>bạn phải xoá / cài đặt / thư mục trên máy chủ của bạn.</b> Bạn sẽ không được phép để đăng nhập cho đến khi nó đã được gỡ bỏ.";
 $LANG["text_name_of_form"] = "Tên của biểu mẫu.";
 $LANG["text_no_clients"] = "Hiện tại không có khách hàng trong cơ sở dữ liệu. Để thêm một tài khoản khách hàng mới, bấm vào nút Add Khách hàng dưới đây.";
 $LANG["text_no_clients_found"] = "Không có khách hàng đã được tìm thấy. Hãy thử mở rộng các tiêu chí tìm kiếm của bạn.";

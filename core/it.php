@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forme assegnato a qualsiasi acc
 $LANG["phrase_forms_page_default_message"] = "Forme pagina messaggio predefinito";
 $LANG["phrase_ft_installation"] = "Script di installazione di Form Tools";
 $LANG["phrase_full_width"] = "Larghezza totale";
-$LANG["phrase_get_more"] = "Altro...";
 $LANG["phrase_getting_started"] = "iniziare";
 $LANG["phrase_global_placeholders"] = "SEGNAPOSTO GLOBALI";
 $LANG["phrase_group_name"] = "Nome del gruppo";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: il presente modulo disp
 $LANG["text_ft_installed"] = "Congratulazioni, Forma Tools è stato installato con successo!";
 $LANG["text_global_placeholder_info"] = "Questi segnaposto possono essere usati in qualunque template e in qualunque modulo.";
 $LANG["text_group_name_explanation"] = "Per i campi aggiunto attraverso il processo Aggiungi Modulo, questo valore è pre-riempita di visualizzare il testo di qualsiasi campo utilizza il valore. Si potrebbe desiderare di cambiare per meglio caratterizzare il contenuto.";
-$LANG["text_install_already_upgraded"] = "Se avete già eseguito lo script di installazione, eliminare la <b>/</b> cartella di <b>installazione,</b> quindi <a href=\"../\" class=\"bold\">fare clic qui per accedere.</a>";
 $LANG["text_install_create_config_file"] = "Strumenti modulo memorizza il server di database e le impostazioni in un file chiamato <b>config.php,</b> che si trova in / global / cartella. Fare clic su &quot;Crea File&quot; per generare automaticamente il file sul vostro server.";
 $LANG["text_install_create_database_tables"] = "Ora stiamo andando a creare le tabelle del database Modulo Strumenti. Questo passaggio richiede il database stesso di avere già stato creato. Se non siete sicuri di come effettuare questa operazione, si prega di contattare il fornitore di hosting.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;,</span> di solito significa che il nome dell&#39;host che hai fornito non è corretto. Forse provare a impostare questo valore a &quot;localhost&quot; - questo è un modo comune per riferirsi al &quot;locale&quot; di database su un server web.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(elenca solo Viste con uno o più filtr
 $LANG["text_log_in_to_ft"] = "Accedi al modulo Tools";
 $LANG["text_login"] = "Accedi qui sotto per accedere al \$ () nome_programma Pannello di Amministrazione. Se hai dimenticato la tua password, <a href=\"{\$forgot_password_link}\">clicca qui.</a>";
 $LANG["text_login_info"] = "Come da vostra richiesta, ecco le informazioni per la connessione.";
-$LANG["text_must_delete_install_folder"] = "Prima di accedere <b>è necessario eliminare il / install / cartella sul server.</b> Lei non sarà consentito di accedere fino a quando non è stato rimosso.";
 $LANG["text_name_of_form"] = "Il nome del modulo.";
 $LANG["text_no_clients"] = "Attualmente non vi sono clienti nel database. Per registrare un nuovo cliente, cliccate sul pulsante Aggiugi Cliente qui in basso.";
 $LANG["text_no_clients_found"] = "N. clienti sono stati trovati. Provare ampliando i criteri di ricerca.";

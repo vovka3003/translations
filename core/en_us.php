@@ -41,6 +41,7 @@ $LANG["word_bottom"] = "Bottom";
 $LANG["word_cancel"] = "Cancel";
 $LANG["word_cc_c"] = "Cc:";
 $LANG["word_center"] = "Center";
+$LANG["word_characters"] = "Characters";
 $LANG["word_checkboxes"] = "Checkboxes";
 $LANG["word_checklist"] = "Checklist";
 $LANG["word_client"] = "Client";
@@ -170,6 +171,7 @@ $LANG["word_password"] = "Password";
 $LANG["word_password_c"] = "Password:";
 $LANG["word_pending"] = "Pending";
 $LANG["word_permissions"] = "Permissions";
+$LANG["word_port"] = "Port";
 $LANG["word_previous_leftarrow"] = "&laquo; previous";
 $LANG["word_print"] = "Print";
 $LANG["word_private"] = "Private";
@@ -475,7 +477,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forms assigned to any account";
 $LANG["phrase_forms_page_default_message"] = "Forms page default message";
 $LANG["phrase_ft_installation"] = "Form Tools Installation Script";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Get more...";
 $LANG["phrase_getting_started"] = "getting started";
 $LANG["phrase_global_placeholders"] = "Global Placeholders";
 $LANG["phrase_group_name"] = "Group Name";
@@ -521,8 +522,8 @@ $LANG["phrase_manage_client_omit_list"] = "Manage Client Omit List";
 $LANG["phrase_max_file_size"] = "Max File Size";
 $LANG["phrase_max_length"] = "Max Length";
 $LANG["phrase_max_length_words_chars"] = "- Max length (words/chars)";
-$LANG["phrase_may_add_submissions"] = "May add Submissions";
-$LANG["phrase_may_delete_submissions"] = "May delete Submissions";
+$LANG["phrase_may_add_submissions"] = "Can add Submissions";
+$LANG["phrase_may_delete_submissions"] = "Can delete submissions";
 $LANG["phrase_medium_150px"] = "Medium (150px)";
 $LANG["phrase_medium_200px"] = "Medium (200px)";
 $LANG["phrase_menu_name"] = "Menu Name";
@@ -771,7 +772,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "Your form is passwo
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "In another tab / window of this browser, log into your form then click the Refresh Page button below to try to re-find the fields.";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "If none of the above solutions work, you may also want to try <a href=\"#\" onclick=\"{\$ONCLICK}\">manually uploading your forms for processing</a>.";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "There were multiple fields that couldn't be found in the form pages you specified. This is mostly likely caused by one of these:";
-$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading out <a href=\"https://docs.formtools.org/userdoc/form_management/adding_external_forms/\" target=\"_blank\">user documentation</a>.";
+$LANG["text_add_form_help_link"] = "If you run into any trouble during these steps, try reading our <a href=\"https://docs.formtools.org/userdoc/form_management/adding_external_forms/\" target=\"_blank\">user documentation</a>.";
 $LANG["text_add_form_step_1_text_1"] = "The following pages lead you through the steps to configure Form Tools to store your form submissions. Before continuing, please check that:";
 $LANG["text_add_form_step_1_text_2"] = "your form has already been created and it's accessible via a URL (localhost is fine)";
 $LANG["text_add_form_step_1_text_3"] = "are able to edit your form";
@@ -844,8 +845,7 @@ $LANG["text_form_view_permission_info_private"] = "Note: this form currently has
 $LANG["text_ft_installed"] = "Congratulations, Form Tools has been successfully installed!";
 $LANG["text_global_placeholder_info"] = "These placeholders may be used in any template and any form.";
 $LANG["text_group_name_explanation"] = "For fields added through the Add Form process, this value is pre-filled to the display text of whatever field uses the value. You may wish to change it to better characterize the contents.";
-$LANG["text_install_already_upgraded"] = "If you have already run the installation script, delete the <b>/install</b> folder then <a href=\"../\" class=\"bold\">click here to log in</a>.";
-$LANG["text_install_create_config_file"] = "Form Tools stores your server and database settings in a file called <b>config.php</b>, found in your /global/ folder. Click the \"Create File\" button to automatically generate the file on your server.";
+$LANG["text_install_create_config_file"] = "Form Tools stores your server and database settings in a file called <b>config.php</b> in your /global/ folder. Click the \"Create File\" button to automatically generate the file on your server.";
 $LANG["text_install_create_database_tables"] = "Now we're going to create the Form Tools database tables. This step requires the database itself to have already been created. If you're not sure how to do this, please contact your hosting provider.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">\"Unknown MySQL Server Host\"</span> usually means that the hostname you provided is incorrect. Perhaps try setting this to \"localhost\" - this is a common way to refer to the \"local\" database on a web server.";
 $LANG["text_install_db_tables_error_tip_2"] = "<span class=\"green\">\"Can't connect to local MySQL server through socket\"</span> means the database hostname field is again incorrect.";
@@ -860,11 +860,11 @@ $LANG["text_internal_form_intro"] = "Use the form below to create a new Internal
 $LANG["text_js_required"] = "In order to login and use Form Tools, you must have javascript enabled in your browser. Please enable it now, and click refresh in your browser.";
 $LANG["text_last_modified_date_explanation_c"] = "The last time this submission was modified. For new submissions, this is the same as:";
 $LANG["text_limit_email_content_desc"] = "This option only works for HTML and text content generated with Smarty Loops.";
+$LANG["text_limit_fields_info"] = "You have used <span id=\"curr_field_count\" class=\"medium_grey italic bold\"></span> of <span id=\"max_field_count\" class=\"medium_grey italic bold\"></span> permitted fields.";
 $LANG["text_list_views_with_filters"] = "(only lists Views with one or more filters defined)";
 $LANG["text_log_in_to_ft"] = "Log in to Form Tools";
 $LANG["text_login"] = "Please log in below to access the {\$program_name} Administration Panel. If you have forgotten your password, <a href=\"{\$forgot_password_link}\">click here</a>.";
 $LANG["text_login_info"] = "As requested, here is your login information.";
-$LANG["text_must_delete_install_folder"] = "Before you log in <b>you must delete the /install/ folder on your server.</b> You will not be allowed to log in until it has been removed.";
 $LANG["text_name_of_form"] = "The name of the form.";
 $LANG["text_no_clients"] = "There are currently no clients in the database. To add a new client account, click the Add Client button below.";
 $LANG["text_no_clients_found"] = "No clients were found. Try broadening your search criteria.";
@@ -1140,7 +1140,6 @@ $LANG["notify_form_tabs_updated"] = "The tabs have been updated.";
 $LANG["notify_form_updated"] = "The form has been successfully updated.";
 $LANG["notify_form_views_updated"] = "The form Views have been updated.";
 $LANG["notify_install_invalid_db_info"] = "Sorry, we were unable to connect to the database using the information you supplied. The error message the database returned is: <i>{\$db_connection_error}</i>";
-$LANG["notify_install_no_db_connection"] = "Please check your database name and login information. Although we were able to connect to the database host, we could not connect to the database. The error message the database returned is: <i>{\$db_select_error}</i>";
 $LANG["notify_internal_form_created"] = "Your form has been created! You can configure your form through these tabs.";
 $LANG["notify_invalid_account_information_in_sessions"] = "The account information stored in sessions is invalid. Please log in again below.";
 $LANG["notify_invalid_field_upload_folder"] = "This field's upload folder is either invalid or is not writable.";
@@ -1151,6 +1150,7 @@ $LANG["notify_invalid_session_values_re_login"] = "An error occurred: there are 
 $LANG["notify_invalid_upload_folder"] = "The upload folder is either invalid or is not writable.";
 $LANG["notify_lang_list_updated"] = "The available UI language list has been updated.";
 $LANG["notify_login_info_emailed"] = "Your login information has been emailed to you.";
+$LANG["notify_max_forms_reached"] = "Sorry, you've reached the maximum number of forms you are permitted to store with this account (<b>{\$max_forms}</b>). In order to store other forms, you will need to delete one of the existing ones.";
 $LANG["notify_module_already_installed"] = "Oops, this module is already installed!";
 $LANG["notify_module_installed"] = "The module has been installed. <a href=\"{\$link}\">Click here to select the module</a>.";
 $LANG["notify_module_list_updated"] = "The module list has been updated.";
@@ -1270,4 +1270,4 @@ $LANG["processing_no_form_url_for_recaptcha"] = "Form Tools is unable to determi
 $LANG["processing_no_post_vars"] = "process.php is not receiving any data. Note: this script cannot be loaded directly in your browser.<br />Make sure your form is sending via POST.";
 $LANG["processing_no_redirect_url"] = "The submission was processed correctly, but you haven't specified a redirect URL for this form! Edit your form in the Form Tools UI and add the redirect URL.";
 
-?>
+

@@ -477,7 +477,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulir ditugaskan ke account 
 $LANG["phrase_forms_page_default_message"] = "Bentuk halaman default pesan";
 $LANG["phrase_ft_installation"] = "Formulir Peralatan Instalasi Script";
 $LANG["phrase_full_width"] = "Kendali Lebar";
-$LANG["phrase_get_more"] = "Dapatkan lebih banyak ...";
 $LANG["phrase_getting_started"] = "memulai";
 $LANG["phrase_global_placeholders"] = "Global placeholder";
 $LANG["phrase_group_name"] = "Nama Grup";
@@ -844,7 +843,6 @@ $LANG["text_form_view_permission_info_private"] = "Catatan: formulir ini saat in
 $LANG["text_ft_installed"] = "Selamat, Formulir Peralatan telah berhasil diinstal!";
 $LANG["text_global_placeholder_info"] = "Placeholder ini dapat digunakan dalam template manapun dan bentuk apapun.";
 $LANG["text_group_name_explanation"] = "Untuk bidang ditambahkan melalui proses Formulir Tambah, nilai ini diisi dengan tampilan teks apa pun Bidang tersebut menggunakan nilai. Anda mungkin ingin mengubahnya menjadi lebih mencirikan isinya.";
-$LANG["text_install_already_upgraded"] = "Jika Anda telah menjalankan instalasi skrip, hapus <b>/ menginstal</b> folder kemudian <a href=\"../\" class=\"bold\">klik di sini untuk login.</a>";
 $LANG["text_install_create_config_file"] = "Formulir Peralatan toko dan database server Anda pengaturan dalam file bernama <b>config.php,</b> ditemukan di / global / folder. Klik &quot;Buat File&quot; tombol untuk secara otomatis menghasilkan file di server Anda.";
 $LANG["text_install_create_database_tables"] = "Sekarang kita akan menciptakan tabel database Formulir Tools. Langkah ini memerlukan database itu sendiri untuk telah dibuat. Jika Anda tidak yakin bagaimana melakukan ini, silakan hubungi penyedia hosting Anda.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> biasanya berarti bahwa nama host yang Anda berikan tidak benar. Mungkin cobalah mengaturnya ke &quot;localhost&quot; - ini adalah cara yang umum untuk menyebut &quot;lokal&quot; database pada web server.";
@@ -864,7 +862,6 @@ $LANG["text_list_views_with_filters"] = "(hanya daftar Tampilan dengan satu atau
 $LANG["text_log_in_to_ft"] = "Log in ke Formulir Tools";
 $LANG["text_login"] = "Silakan log in di bawah ini untuk mengakses (\$ program_name) Administrasi Panel. Jika Anda lupa sandi, <a href=\"{\$forgot_password_link}\">klik di sini.</a>";
 $LANG["text_login_info"] = "Seperti yang diminta, di sini adalah informasi login Anda.";
-$LANG["text_must_delete_install_folder"] = "Sebelum Anda log in, <b>Anda harus menghapus / install / folder pada server Anda.</b> Anda tidak akan diizinkan untuk login sampai telah dihapus.";
 $LANG["text_name_of_form"] = "Nama formulir.";
 $LANG["text_no_clients"] = "Saat ini tidak ada klien dalam database. Untuk menambahkan account klien baru, klik tombol Tambah Klien di bawah ini.";
 $LANG["text_no_clients_found"] = "Tidak ada klien yang ditemukan. Coba memperluas kriteria pencarian Anda.";

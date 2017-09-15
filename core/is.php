@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Eyðublöð úthlutað hvaða r
 $LANG["phrase_forms_page_default_message"] = "Eyðublöð síðu sjálfgefið skilaboð";
 $LANG["phrase_ft_installation"] = "Form Tools Installation Script";
 $LANG["phrase_full_width"] = "Full Breidd";
-$LANG["phrase_get_more"] = "Fá meira ...";
 $LANG["phrase_getting_started"] = "að byrja";
 $LANG["phrase_global_placeholders"] = "Global Placeholders";
 $LANG["phrase_group_name"] = "Hópur Nafn";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Ath: þetta form hefur nú <b
 $LANG["text_ft_installed"] = "Til hamingju, Form Verkfæri hefur verið sett upp!";
 $LANG["text_global_placeholder_info"] = "Þessi placeholders má nota í hvaða sniðmát og hvaða mynd.";
 $LANG["text_group_name_explanation"] = "Fyrir reiti bætt í gegnum Bæta Form ferli, þetta gildi er áfyllt að birta texta á hvaða sviði notar gildið. Þú gætir viljað breyta því til betri einkenna efni.";
-$LANG["text_install_already_upgraded"] = "Ef þú ert að keyra þegar uppsetningu handriti, eyða <b>/ setja</b> möppuna þá <a href=\"../\" class=\"bold\">smelltu hér til að skrá þig inn.</a>";
 $LANG["text_install_create_config_file"] = "Form Tools birgðir miðlara og gagnasafn stillingar í skrá sem kallast <b>config.php,</b> fundust í / á heimsvísu þinn / mappa. Smelltu á &quot;Create File&quot; hnappinn til að búa til skrána á vefþjóninum þínum.";
 $LANG["text_install_create_database_tables"] = "Nú við erum að fara að búa til form Verkfæri gagnasafn matskeið. Þetta skref þarf gagnagrunninum sjálft að hafa verið búin til. Ef þú ert ekki viss um hvernig á að gera þetta, skaltu hafa samband við hýsingaraðilann þinn.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> yfirleitt þýðir að hostname sem þú gafst upp er ekki rétt. Kannski reyna að stilla þetta á &quot;localhost&quot; - þetta er algeng leið til að vísa til &quot;heimamaður&quot; gagnagrunnur á vefþjóni.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(aðeins lista Views með einu eða fle
 $LANG["text_log_in_to_ft"] = "Skráðu þig inn til að mynda Tools";
 $LANG["text_login"] = "Skráðu þig inn hér fyrir neðan til að opna (\$ program_name) Administration Panel. Ef þú hefur gleymt lykilorðinu þínu, <a href=\"{\$forgot_password_link}\">smelltu hér.</a>";
 $LANG["text_login_info"] = "Þegar beiðni, hér er notandanafn þitt.";
-$LANG["text_must_delete_install_folder"] = "Áður en þú skráir þig inn <b>verður þú að eyða / install / möppu á vefþjóninum þínum.</b> Þú verður ekki leyft að skrá þig inn í þar til það hefur verið eytt.";
 $LANG["text_name_of_form"] = "Heiti á mynd.";
 $LANG["text_no_clients"] = "Það eru engar viðskiptavini í gagnagrunninum. Til að bæta við nýjum viðskiptavinur reikning skaltu smella á Bæta við viðskiptavinar hnappinn hér fyrir neðan.";
 $LANG["text_no_clients_found"] = "Engir viðskiptavinir fundust. Prófaðu að breikka leit þína.";

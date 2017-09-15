@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formularze przypisany do konta"
 $LANG["phrase_forms_page_default_message"] = "Formy strony domyślnej wiadomości";
 $LANG["phrase_ft_installation"] = "Rodzaj narzędzia do instalacji skryptu";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Więcej ...";
 $LANG["phrase_getting_started"] = "Pierwsze kroki";
 $LANG["phrase_global_placeholders"] = "GLOBALNE PLACEHOLDERS";
 $LANG["phrase_group_name"] = "Nazwa grupy";
@@ -846,7 +845,6 @@ $LANG["text_form_view_permission_info_private"] = "Uwaga: ten formularz obecnie 
 $LANG["text_ft_installed"] = "Gratulacje Rodzaj Narzędzia został pomyślnie zainstalowany!";
 $LANG["text_global_placeholder_info"] = "Te zmienne mogą zostać użyte w dowolnym szablonie czy formularzu.";
 $LANG["text_group_name_explanation"] = "Na polach dodane przez Dodaj procesu Forma ta wartość jest wstępnie napełniony do wyświetlania tekstu w każdej dziedzinie używa wartości. Możesz spróbować zmienić to, aby lepiej scharakteryzować treść.";
-$LANG["text_install_already_upgraded"] = "Jeśli masz już uruchomić skrypt instalacyjny, usunąć plik <b>/</b> folder <b>instalacji</b> następnie <a href=\"../\" class=\"bold\">kliknij tutaj, aby się zalogować.</a>";
 $LANG["text_install_create_config_file"] = "Formularz sklepów Narzędzia i ustawienia serwera bazy danych w pliku o nazwie <b>config.php,</b> znalezionych w / global / folder. Kliknij przycisk &quot;Utwórz plik&quot;, aby automatycznie wygenerować plik na serwer.";
 $LANG["text_install_create_database_tables"] = "Teraz będziemy tworzyć tabele Rodzaj Narzędzia bazy danych. Ten krok wymaga samej bazy danych zostały już utworzone. Jeśli nie wiesz, jak to zrobić, skontaktuj się z dostawcą usług hostingowych.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> zwykle oznacza, że nazwa hosta, który podałeś jest niepoprawny. Być może spróbuj ustawić to &quot;localhost&quot; - jest to powszechny sposób odnoszą się do &quot;lokalnego&quot; bazy danych na serwerze internetowym.";
@@ -866,7 +864,6 @@ $LANG["text_list_views_with_filters"] = "(tylko wymienia poglądy z jednego lub 
 $LANG["text_log_in_to_ft"] = "Zaloguj się w formularzu Narzędzia";
 $LANG["text_login"] = "Zaloguj się poniżej, aby przejść do (\$ nazwa_programu) Panel administracyjny. Jeśli nie pamiętasz hasła, <a href=\"{\$forgot_password_link}\">kliknij tutaj.</a>";
 $LANG["text_login_info"] = "Wedle prośby - oto dane logowania.";
-$LANG["text_must_delete_install_folder"] = "Przed zalogowaniem <b>należy usunąć z / install / folderu na serwerze.</b> Nie będą mogli zalogować się, dopóki nie zostanie usunięty.";
 $LANG["text_name_of_form"] = "Nazwa formularza.";
 $LANG["text_no_clients"] = "Aktualnie brak klientów w bazie danych. By dodać nowe konto klienta kliknij poniżej przycisk Dodaj Klienta.";
 $LANG["text_no_clients_found"] = "Klienci nie stwierdzono. Spróbuj poszerzenie kryteria wyszukiwania.";

@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "모든 계정에 할당된 양�
 $LANG["phrase_forms_page_default_message"] = "양식 페이지 기본 메시지";
 $LANG["phrase_ft_installation"] = "양식 도구를 설치 스크립트";
 $LANG["phrase_full_width"] = "전폭";
-$LANG["phrase_get_more"] = "좀 더 ...";
 $LANG["phrase_getting_started"] = "시작";
 $LANG["phrase_global_placeholders"] = "글로벌 나타내지 않음";
 $LANG["phrase_group_name"] = "그룹 이름";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "참고 : 여기에 공적 영
 $LANG["text_ft_installed"] = "축하합니다, 양식 도구를 성공적으로 설치되었습니다!";
 $LANG["text_global_placeholder_info"] = "이러한 자리 표시자 어떠한 및 모든 양식 서식 파일에서 사용할 수있습니다.";
 $LANG["text_group_name_explanation"] = "필드 추가 폼 과정을 통해,이 값을 미리 원하는 필드를 표시 텍스트로 가득 차 값을 사용했다. 당신은 그것을 변경하는 내용의 특성을 잘하실 수있습니다.";
-$LANG["text_install_already_upgraded"] = "만약 이미 <b>/</b> 그럼 <a href=\"../\" class=\"bold\">여기에 로그인할 때 다음</a> <b>설치</b> 폴더를 삭제 설치 스크립트를 실행할 수있다.";
 $LANG["text_install_create_config_file"] = "파일 서버 및 데이터베이스 설정은 <b>config.php라는</b> 양식 도구 상점, 여러분의 / 세계에서 발견 / 폴더에있습니다. &quot;자동으로 귀하의 서버에 파일을 생성하는 파일 만들기&quot;버튼을 클릭합니다.";
 $LANG["text_install_create_database_tables"] = "이제 우리는 양식 도구를 데이터베이스 테이블을 만들거야. 이 단계는 이미 만들어진 데이터베이스 자체가 필요합니다. 만약 당신이 어떻게 이렇게 확실하지 않은시기 바랍니다 호스팅 제공 업체에 문의하시기 바랍니다.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;알 수없는 MySQL 서버 호스트&quot;일반적으로</span> 귀하가 제공한 호스트 이름이 잘못된 것을 의미합니다. 아마에 &quot;localhost&quot;-이 &quot;로컬&quot;데이터베이스에 웹 서버를 참조하는 일반적인 방법입니다이 설정을 시도해보십시오.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(단 하나 이상의 필터를 정의�
 $LANG["text_log_in_to_ft"] = "양식의 도구에 로그인합니다";
 $LANG["text_login"] = "제발 아래의 () \$ Program_name의 관리 제어판에 액세스하려면 로그 인해주세요. 만약 귀하의 비밀 번호를, <a href=\"{\$forgot_password_link}\">여기를 클릭</a> 잊어버린.";
 $LANG["text_login_info"] = "요청하신대로, 여기에 귀하의 로그인 정보입니다.";
-$LANG["text_must_delete_install_folder"] = "전에 <b>당신을 삭제해야합니다</b> 로그 <b>/ 설치 / 폴더 서버에.</b> 때까지 제거되었으므로 로그인 허용되지 않습니다.";
 $LANG["text_name_of_form"] = "양식의 이름입니다.";
 $LANG["text_no_clients"] = "현재 데이터베이스에서 클라이언트가있습니다. 아래에 클라이언트 추가 버튼을 새 고객 계정을 추가하려면 클릭하십시오.";
 $LANG["text_no_clients_found"] = "아니 고객을 발견했다. 귀하의 검색 기준을 넓혀보십시오.";

@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formas de asignar a cualquier c
 $LANG["phrase_forms_page_default_message"] = "Formas página predeterminada de un mensaje";
 $LANG["phrase_ft_installation"] = "Rutina de instalación de Form Tools";
 $LANG["phrase_full_width"] = "Ancho completo";
-$LANG["phrase_get_more"] = "Buscar más...";
 $LANG["phrase_getting_started"] = "Primeros pasos";
 $LANG["phrase_global_placeholders"] = "Posicionadores Globales";
 $LANG["phrase_group_name"] = "Nombre de Grupo";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: este formulario tiene a
 $LANG["text_ft_installed"] = "Felicidades, Formulario de Herramientas ha sido instalado con éxito!";
 $LANG["text_global_placeholder_info"] = "Estas variables pueden ser utilizadas en cualquier plantilla de este formulario.";
 $LANG["text_group_name_explanation"] = "Para los campos de agregar a través del proceso Añadir Forma, este valor es pre-cargada a la pantalla de texto de cualquier campo utiliza el valor. Es posible que desee cambiar para caracterizar mejor los contenidos.";
-$LANG["text_install_already_upgraded"] = "Si ya ha ejecutado el script de instalación, borrar el archivo <b>/</b> carpeta de <b>instalación</b> a continuación, <a href=\"../\" class=\"bold\">haga clic aquí para acceder.</a>";
 $LANG["text_install_create_config_file"] = "Formulario de tiendas de herramientas y la configuración de su servidor de base de datos en un archivo llamado <b>config.php,</b> que se encuentra en su / global / carpeta. Haga clic en &quot;Crear archivo&quot; para generar automáticamente el archivo en su servidor.";
 $LANG["text_install_create_database_tables"] = "Ahora vamos a crear las tablas de base de datos Formulario de Herramientas. Este paso requiere la misma base de datos ya se han creado. Si no estás seguro de cómo hacerlo, por favor, póngase en contacto con su proveedor de hosting.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> generalmente significa que el nombre que proporcionó es incorrecta. Tal vez intente establecer esto a &quot;localhost&quot; - esta es una forma común para referirse a la base de datos &quot;local&quot; en un servidor web.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(sólo las listas de Vista con uno o m�
 $LANG["text_log_in_to_ft"] = "Entra en el Formulario Herramientas";
 $LANG["text_login"] = "Inicia sesión a continuación para acceder al Panel de Administración de <b>{\$program_name}</b>. Si has olvidado tu contraseña, <a href=\"{\$forgot_password_link}\">haz clic aquí.</a>";
 $LANG["text_login_info"] = "Como fue pedido, aquí está tu información de inicio de sesión.";
-$LANG["text_must_delete_install_folder"] = "Antes de iniciar la sesión en <b>que debe eliminar el / install / carpeta en el servidor.</b> No se le permitirá iniciar sesión hasta que se ha eliminado.";
 $LANG["text_name_of_form"] = "El nombre del formulario.";
 $LANG["text_no_clients"] = "Actualmente no hay clientes en la base de datos. Para añadir un cliente nuevo, da clic en el botón Añadir Cliente.";
 $LANG["text_no_clients_found"] = "No se han encontrado clientes. Intente ampliar sus criterios de búsqueda.";

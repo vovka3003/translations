@@ -476,7 +476,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Obrasci dodijeljen bilo koji ra
 $LANG["phrase_forms_page_default_message"] = "Obrasci stranicu Default poruku";
 $LANG["phrase_ft_installation"] = "Obrazac Alati Instalacija skripte";
 $LANG["phrase_full_width"] = "Puna širina";
-$LANG["phrase_get_more"] = "Saznajte više ...";
 $LANG["phrase_getting_started"] = "početak";
 $LANG["phrase_global_placeholders"] = "Global Rezervirana mjesta";
 $LANG["phrase_group_name"] = "Naziv grupe";
@@ -843,7 +842,6 @@ $LANG["text_form_view_permission_info_private"] = "Napomena: ovaj obrazac trenut
 $LANG["text_ft_installed"] = "Čestitamo, Obrazac Alati uspješno je instaliran!";
 $LANG["text_global_placeholder_info"] = "Ove rezerviranih mjesta svibanj se koristiti u bilo koji predložak i bilo kojem obliku.";
 $LANG["text_group_name_explanation"] = "Za polja dodano kroz Dodaj Obrazac procesa, ova vrijednost je unaprijed popunjena za prikaz teksta bilo koje polje koristi vrijednost. Vi svibanj želite ga promijeniti kako bi se bolje opisali sadržaja.";
-$LANG["text_install_already_upgraded"] = "Ako već imate skriptu pokrenuti instalaciju, izbrisati <b>/ uvesti koga u službu</b> savijač potom <a href=\"../\" class=\"bold\">kliknite ovdje prijaviti.</a>";
 $LANG["text_install_create_config_file"] = "Obrazac Alati pohranjuje vaš server i bazu podataka postavke u datoteci <b>config.php</b> zove, našao u svom / globalne / folder. Kliknite na &quot;Izradi File&quot; gumb da se automatski generirati datoteku na vašem poslužitelju.";
 $LANG["text_install_create_database_tables"] = "Sada smo si idući u izraditi obrazac Alati baze podataka tablica. Ovaj korak zahtijeva baze podataka sama da je već stvoren. Ako niste sigurni kako to učiniti, molimo kontaktirajte davatelja usluge hostinga.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL server host&quot;</span> obično znači da hostname ste unijeli nije ispravan. Možda pokušati postavljanje to &quot;localhost&quot; - ovo je uobičajen način da se odnose na &quot;lokalni&quot; bazu podataka na web server.";
@@ -863,7 +861,6 @@ $LANG["text_list_views_with_filters"] = "(samo listama Pregleda s jednim ili vi�
 $LANG["text_log_in_to_ft"] = "Prijavite se u obrazac Alati";
 $LANG["text_login"] = "Molimo prijavite se ispod kako biste pristupili (\$ program_name) Administration Panel. Ako ste zaboravili vašu lozinku, <a href=\"{\$forgot_password_link}\">kliknite ovdje.</a>";
 $LANG["text_login_info"] = "Kao što je zatraženo, ovdje je svoje podatke za prijavu.";
-$LANG["text_must_delete_install_folder"] = "Prije nego što se prijavite u <b>morate izbrisati / install / folder na vašem poslužitelju.</b> Nećete biti dozvoljeno da se prijavite u sve dok ne bude uklonjen.";
 $LANG["text_name_of_form"] = "Naziv obrasca.";
 $LANG["text_no_clients"] = "Trenutno nema klijentima u bazu podataka. Da biste dodali novi račun klijenta, kliknite Dodaj Client gumb ispod.";
 $LANG["text_no_clients_found"] = "Nema klijentima were found. Pokušajte širenje kriterije pretraživanja.";

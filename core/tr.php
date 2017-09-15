@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Herhangi bir hesap için atanan
 $LANG["phrase_forms_page_default_message"] = "Formlar sayfa varsayılan mesaj";
 $LANG["phrase_ft_installation"] = "Form Araçlar Kurulum Script";
 $LANG["phrase_full_width"] = "Tam Genişlik";
-$LANG["phrase_get_more"] = "Daha fazlasını alın ...";
 $LANG["phrase_getting_started"] = "başlarken";
 $LANG["phrase_global_placeholders"] = "GENEL ALAN TANIMLAMALARI";
 $LANG["phrase_group_name"] = "Grup Adı";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Not: Bu formu şu anda, burad
 $LANG["text_ft_installed"] = "Tebrikler, Form Araçları başarıyla yüklendi!";
 $LANG["text_global_placeholder_info"] = "Bu herhangi bir yer tutucuları ve herhangi bir şablon kullanılabilir.";
 $LANG["text_group_name_explanation"] = "Alanları için Formu süreci Ekle aracılığıyla, bu değer önceden ne alanın ekran metni doldurulur değeri kullanır ekledi. Bunu değiştirmek için iyi içeriği karakterize isteyebilirsiniz.";
-$LANG["text_install_already_upgraded"] = "Zaten, <b>/</b> sonra <a href=\"../\" class=\"bold\">buraya giriş için tıklayınız</a> klasörü <b>yüklemek</b> silmek kurulum betiği çalıştırmak.";
 $LANG["text_install_create_config_file"] = "Dosyadaki sunucu ve veritabanı ayarları <b>config.php</b> adlı Formu Araçlar mağazalar, sizin / küresel bulunan / klasör. &quot;Otomatik olarak sunucu üzerinde dosya oluşturmak için Dosya Create&quot; tuşuna tıklayın.";
 $LANG["text_install_create_database_tables"] = "Şimdi Formu Araçlar veritabanı tablolarını oluşturmak için gidiyoruz. Bu adım, zaten oluşturulmuş olduğu veritabanının kendisi gerektirir. Bunu nasıl yapacağınızdan emin değilseniz, lütfen barındırma sağlayıcınıza başvurun.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Bilinmeyen MySQL Server Host&quot;</span> genellikle, sağlanan hostname yanlış olduğu anlamına gelir. Belki de &quot;localhost&quot; - bu &quot;yerel&quot; veritabanına bir web sunucusuna başvurmak için ortak bir yoludur bu ayarı deneyin.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(sadece bir veya daha fazla filtre tan�
 $LANG["text_log_in_to_ft"] = "Formu Araçları giriş";
 $LANG["text_login"] = "Lütfen aşağıdaki (\$ program_adı) Yönetim Paneli erişmek için oturum açın. Eğer şifrenizi, <a href=\"{\$forgot_password_link}\">buraya tıklayın</a> unuttuysanız.";
 $LANG["text_login_info"] = "Olarak istenen, burada giriş bilgilerdir.";
-$LANG["text_must_delete_install_folder"] = "Önce <b>size silmeli</b> giriş <b>/ install / klasörü sunucunuzda.</b> Kadar kaldırıldı de giriş için izin verilmez.";
 $LANG["text_name_of_form"] = "Formun adı";
 $LANG["text_no_clients"] = "Şu anda veritabanında bir istemci olsun. Aşağıdaki Müşteri Ekle düğmesini yeni bir müşteri hesabı eklemek için tıklayın.";
 $LANG["text_no_clients_found"] = "Hiçbir istemci bulunamadı. Arama kriterlerinizi genişletmeyi deneyin.";

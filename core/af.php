@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Vorms wat aan enige rekening";
 $LANG["phrase_forms_page_default_message"] = "Vorms bladsy standaard boodskap";
 $LANG["phrase_ft_installation"] = "Vorm Tools Installasie Script";
 $LANG["phrase_full_width"] = "Volle wydte";
-$LANG["phrase_get_more"] = "Kry meer ...";
 $LANG["phrase_getting_started"] = "Aan die begin";
 $LANG["phrase_global_placeholders"] = "Global indikators";
 $LANG["phrase_group_name"] = "Groep Naam";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Let wel: hierdie vorm tans he
 $LANG["text_ft_installed"] = "Veels geluk, het Vorm Tools suksesvol geïnstalleer!";
 $LANG["text_global_placeholder_info"] = "Hierdie indikators kan in enige sjabloon en enige vorm gebruik kan word.";
 $LANG["text_group_name_explanation"] = "Vir velde toegevoeg deur die Voeg Vorm proses, is hierdie waarde pre-is gevul met die vertoning teks van watter veld gebruik maak van die waarde. Jy mag dit verander, wil beter die inhoud karakteriseer.";
-$LANG["text_install_already_upgraded"] = "As jy reeds die installasie-script, verwyder die <b>installeer /</b> gids dan <a href=\"../\" class=\"bold\">kliek hier aan te meld.</a>";
 $LANG["text_install_create_config_file"] = "Vorm Tools winkels jou server en databasis-instellings in &#39;n lêer genaamd <b>config.php,</b> gevind het in jou / wêreld /-gids. Klik op die knoppie lêer skep om outomaties die lêer op jou bediener te genereer.";
 $LANG["text_install_create_database_tables"] = "Nou gaan ons na die skep van die Vorm Tools databasis tabelle. Hierdie stap vereis dat die databasis self tot daar reeds gemaak is. As jy nie seker hoe om dit te doen, kontak asseblief jou diensverskaffer.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL server host&quot;</span> beteken gewoonlik dat die host naam wat u verskaf het korrek is nie. Miskien probeer om dit te &quot;localhost&quot; - hierdie is &#39;n algemene manier om te verwys na die &quot;plaaslike&quot; databasis op&#39; n webbediener.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(slegs lyste Views met een of meer filt
 $LANG["text_log_in_to_ft"] = "Teken in om Vorm Tools";
 $LANG["text_login"] = "Log in hieronder om toegang tot die (\$ Program Naam) Administrasie paneel. As jy jou wagwoord vergeet het, <a href=\"{\$forgot_password_link}\">kliek hier</a> vergeet het.";
 $LANG["text_login_info"] = "Soos gevra, hier is jou inskrywing inligting.";
-$LANG["text_must_delete_install_folder"] = "Voor jy inteken <b>moet jy verwyder die installeer / / folder op jou server.</b> Jy sal nie toegelaat word om aan te meld totdat dit verwyder is.";
 $LANG["text_name_of_form"] = "Die naam van die vorm.";
 $LANG["text_no_clients"] = "Daar is tans geen kliënte in die databasis. Om &#39;n nuwe kliënt rekening voeg, kliek op die Kliënt-knoppie hieronder by.";
 $LANG["text_no_clients_found"] = "Geen kliënte was gevind. Probeer verbreding van jou soektog kriteria.";

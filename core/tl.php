@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forms na itinalaga sa anumang a
 $LANG["phrase_forms_page_default_message"] = "Forms pahina ng default mensahe";
 $LANG["phrase_ft_installation"] = "Form Kasangkapan sa Pag-install Script";
 $LANG["phrase_full_width"] = "Full Lapad";
-$LANG["phrase_get_more"] = "Kumuha ng karagdagang ...";
 $LANG["phrase_getting_started"] = "pagsisimula";
 $LANG["phrase_global_placeholders"] = "Global Placeholders";
 $LANG["phrase_group_name"] = "Pangalan ng Grupo";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Tandaan: ang form na ito ay k
 $LANG["text_ft_installed"] = "Maligayang bati, na Form Kasangkapan ay matagumpay na na-install!";
 $LANG["text_global_placeholder_info"] = "Ang mga ito placeholders na maaaring gamitin sa anumang mga template at anumang form.";
 $LANG["text_group_name_explanation"] = "Para sa dagdag na mga patlang sa pamamagitan ng mga Magdagdag ng Form na proseso, ang halagang ito ay pre-filled na ang display text ng kahit anong patlang na gumagamit ng halaga. Maaari mong hilingin na baguhin ito sa mas mahusay na makilala ang mga nilalaman.";
-$LANG["text_install_already_upgraded"] = "Kung kayo ay tumakbo ang pag-install ng script, tanggalin ang <b>/ install</b> folder at pagkatapos ay <a href=\"../\" class=\"bold\">i-click dito upang mag-log in.</a>";
 $LANG["text_install_create_config_file"] = "Form Tools mga tindahan ng iyong server at database ng mga setting sa isang file na tinatawag na <b>config.php,</b> natagpuan sa iyong / global / folder. I-click ang &quot;Lumikha ng File&quot; na pindutan upang awtomatikong mabuo ang file sa iyong server.";
 $LANG["text_install_create_database_tables"] = "Ngayon kami ay pagpunta sa gumawa ng Form Tools mga talahanayan ng database. Ang hakbang na ito ay nangangailangan ng database ng kanyang sarili upang magkaroon na nalikha. Kung hindi ka sigurado kung paano gawin ito, mangyaring makipag-ugnayan sa iyong hosting provider.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Hindi kilalang MySQL Server Host&quot;</span> ay karaniwang nangangahulugan na ang mga hostname na iyong ibinigay ay hindi tama. Siguro subukan ang setting na ito sa &quot;localhost&quot; - ito ay isang karaniwang paraan upang sumangguni sa &quot;lokal&quot; database sa isang web server.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(tanging mga listahan ng Views sa isa o
 $LANG["text_log_in_to_ft"] = "Mag-log in sa Form Kasangkapan";
 $LANG["text_login"] = "Mangyaring mag-log in sa ibaba upang ma-access ang (\$) program_name Administration Panel. Kung nakalimutan mo ang iyong password, <a href=\"{\$forgot_password_link}\">i-click dito.</a>";
 $LANG["text_login_info"] = "Tulad ng hiniling, dito ay ang inyong login impormasyon.";
-$LANG["text_must_delete_install_folder"] = "Bago mag-log ka sa <b>dapat mong tanggalin ang / install / folder sa iyong server.</b> Ikaw ay hindi pinapayagang mag log-in hanggang sa ito ay tinanggal na.";
 $LANG["text_name_of_form"] = "Ang pangalan ng form.";
 $LANG["text_no_clients"] = "Sa kasalukuyan ay may walang mga kliyente sa database. Upang magdagdag ng bagong account ng kliyente, i-click ang Magdagdag ng Client button sa ibaba.";
 $LANG["text_no_clients_found"] = "Walang kliyente ang natagpuan. Subukan broadening sa iyong mga pamantayan sa paghahanap.";

@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "分配给任何帐户的表格"
 $LANG["phrase_forms_page_default_message"] = "窗体页的默认消息";
 $LANG["phrase_ft_installation"] = "表格工具安装脚本";
 $LANG["phrase_full_width"] = "全宽";
-$LANG["phrase_get_more"] = "获取更多...";
 $LANG["phrase_getting_started"] = "入门";
 $LANG["phrase_global_placeholders"] = "表格占位符";
 $LANG["phrase_group_name"] = "集团名称";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "注：这种形式目前拥�
 $LANG["text_ft_installed"] = "恭喜，表格工具已成功安装！";
 $LANG["text_global_placeholder_info"] = "这些占位符可用于任何模板和表格。";
 $LANG["text_group_name_explanation"] = "添加的字段通过添加表格的过程中，此值是预先充满对任何领域的显示文本使用的价值。您可能希望改变它，以更好地特征的内容。";
-$LANG["text_install_already_upgraded"] = "如果您已经运行安装脚本，删除<b>/安装</b>文件夹，然后<a href=\"../\" class=\"bold\">点击这里登录</a> 。";
 $LANG["text_install_create_config_file"] = "表格工具的服务器和存储在数据库设置一个文件名为<b>config.php中</b> ，在你的/全球发现/文件夹中。点击“创建文件”按钮，自动生成您的服务器上的文件。";
 $LANG["text_install_create_database_tables"] = "现在，我们要创建的表格工具数据库表。这一步需要数据库本身已创建。如果您不知道如何做到这一点，请联系您的托管服务提供商。";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">“未知的MySQL服务器主机”，</span>通常意味着您所提供的主机名是不正确的。这也许尝试设置为“本地主机” - 这是一种常见的方式是指在Web服务器上的“本地”数据库。";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "（只列出与一个或多个定义的
 $LANG["text_log_in_to_ft"] = "登录到表格工具";
 $LANG["text_login"] = "请在下面登录访问）（\$程序program_name管理小组。如果您忘记了密码， <a href=\"{\$forgot_password_link}\">请点击这里</a> 。";
 $LANG["text_login_info"] = "按照要求，这是您的登录资料。";
-$LANG["text_must_delete_install_folder"] = "在<b>你</b>之前，你<b>必须删除</b>日志<b>/安装/文件夹在您的服务器。</b>您将不能登录，直到它已被删除。";
 $LANG["text_name_of_form"] = "表格名称。";
 $LANG["text_no_clients"] = "您目前尚未添加任何客户。请按以下按钮继续。";
 $LANG["text_no_clients_found"] = "没有找到客户。扩大您的搜索条件。";

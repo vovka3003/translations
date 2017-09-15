@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formas asignado a calquera cont
 $LANG["phrase_forms_page_default_message"] = "Formas mensaxe de páxina por defecto";
 $LANG["phrase_ft_installation"] = "Forma Ferramentas de Instalación de Script";
 $LANG["phrase_full_width"] = "Ancho total";
-$LANG["phrase_get_more"] = "Obteña máis ...";
 $LANG["phrase_getting_started"] = "comezando";
 $LANG["phrase_global_placeholders"] = "Espacios reservados Global";
 $LANG["phrase_group_name"] = "Nome do Grupo";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: este formulario actualm
 $LANG["text_ft_installed"] = "Parabéns, Formulario de ferramentas foi instalado con éxito!";
 $LANG["text_global_placeholder_info"] = "Estes espazos poden ser utilizados en calquera modelo e calquera outra condición.";
 $LANG["text_group_name_explanation"] = "Para campos engadidos a través do Add proceso formulario, este valor é pre-chea para o texto de presentación de calquera campo utilízase o valor. Pode querer cambiar a mellor caracteriza o contido.";
-$LANG["text_install_already_upgraded"] = "Se xa ten executado o script de instalación, borrar o arquivo <b>/</b> carpeta de <b>instalación,</b> a continuación, <a href=\"../\" class=\"bold\">fai clic aquí para iniciar sesión.</a>";
 $LANG["text_install_create_config_file"] = "Forma tendas ferramentas e configuración do servidor de base de datos a un ficheiro chamado <b>config.php,</b> atopou no seu ficheiro / global / cartafol. Prema no botón &quot;Crear&quot; Arquivo para xerar automaticamente o ficheiro no seu servidor.";
 $LANG["text_install_create_database_tables"] = "Agora imos crear o Formulario de táboas de banco de ferramentas. Esta etapa esixe que o propio banco de datos que xa foran creados. Se non está seguro de como facelo, contacta teu proveedor de hospedaxe.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> xeralmente significa que o nome da máquina que lle forneceu está incorrecta. Quizais intente definir esta opción para &quot;localhost&quot; - esta é unha forma común de referirse ao &quot;lugar da base de datos en un servidor web.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(só listas de Visitas con un ou máis 
 $LANG["text_log_in_to_ft"] = "Entrar no Formulario de ferramentas";
 $LANG["text_login"] = "Por favor login embaixo para acceder ó \$) (program_name Panel de Administración. Se ten esquecido o teu contrasinal, <a href=\"{\$forgot_password_link}\">preme aquí.</a>";
 $LANG["text_login_info"] = "Segundo proceda, está aquí a información de login.";
-$LANG["text_must_delete_install_folder"] = "Antes de entrar <b>ten que eliminar o install / carpeta no servidor.</b> Non se permite a sesión antes de ser eliminado.";
 $LANG["text_name_of_form"] = "O nome do formulario.";
 $LANG["text_no_clients"] = "De momento non hai clientes na base de datos. Para engadir unha nova conta de cliente, preme no botón Engadir Client embaixo.";
 $LANG["text_no_clients_found"] = "Ningún cliente se atopou. Probe a ampliar os seus criterios de búsqueda.";

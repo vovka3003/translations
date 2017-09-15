@@ -478,7 +478,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formularer henføres til nogen 
 $LANG["phrase_forms_page_default_message"] = "Forms side standard besked";
 $LANG["phrase_ft_installation"] = "Form Tools installationsscript";
 $LANG["phrase_full_width"] = "Fuld bredde";
-$LANG["phrase_get_more"] = "Få mere ...";
 $LANG["phrase_getting_started"] = "Kom godt i gang";
 $LANG["phrase_global_placeholders"] = "GLOBALE PRE-DEFINITIONER";
 $LANG["phrase_group_name"] = "Gruppe Navn";
@@ -845,7 +844,6 @@ $LANG["text_form_view_permission_info_private"] = "Bemærk: denne form i øjebli
 $LANG["text_ft_installed"] = "Tillykke, har Form Tools blevet installeret!";
 $LANG["text_global_placeholder_info"] = "Disse pre-definitioner kan bruges i enhver skabelon og formular.";
 $LANG["text_group_name_explanation"] = "For områder, som tilføjes via Tilføj Form proces, denne værdi er fyldt til displayet teksten uanset felt bruger værdien. Du kan ønske at ændre den til bedre at karakterisere indholdet.";
-$LANG["text_install_already_upgraded"] = "Hvis du allerede har kørt installationen script, skal du slette <b>/ install</b> mappen så <a href=\"../\" class=\"bold\">klik her for at logge ind.</a>";
 $LANG["text_install_create_config_file"] = "Form Værktøjer gemmer din server og database indstillinger i en fil kaldet <b>config.php,</b> der findes i din / global / mappe. Klik på &quot;Opret File&quot;-knappen for automatisk at generere filen på din server.";
 $LANG["text_install_create_database_tables"] = "Nu skal vi til at skabe den formular Tools database tabeller. Dette trin kræver selve databasen allerede er blevet skabt. Hvis du ikke er sikker på, hvordan du gør dette, bedes du kontakte din udbyder.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> betyder normalt, at det værtsnavn du angav, er forkert. Måske prøve at sætte denne til &quot;localhost&quot; - dette er en almindelig måde at henvise til den &quot;lokale&quot;-database på en web-server.";
@@ -865,7 +863,6 @@ $LANG["text_list_views_with_filters"] = "(kun lister meninger med en eller flere
 $LANG["text_log_in_to_ft"] = "Log ind på formular Tools";
 $LANG["text_login"] = "Du skal logge ind nedenfor for at få adgang til (\$ program_navn) Administration Panel. Hvis du har glemt din adgangskode, <a href=\"{\$forgot_password_link}\">klik her.</a>";
 $LANG["text_login_info"] = "Som ønskes, her er din login information.";
-$LANG["text_must_delete_install_folder"] = "Før du logger ind, <b>skal du slette / installere / mappe på din server.</b> Du vil ikke få lov til at logge ind, indtil det er blevet fjernet.";
 $LANG["text_name_of_form"] = "Navnet på formularen";
 $LANG["text_no_clients"] = "Der er i øjeblikket ingen klienter i databasen. Klik på Tilføj Klient knappen nedenfor for at tilføje en ny Klient konto.";
 $LANG["text_no_clients_found"] = "Ingen kunder blev fundet. Prøv at udvide dine søgekriterier.";

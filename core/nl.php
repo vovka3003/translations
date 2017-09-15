@@ -479,7 +479,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulieren toegewezen aan een 
 $LANG["phrase_forms_page_default_message"] = "Formulieren pagina standaard bericht";
 $LANG["phrase_ft_installation"] = "Form Tools Installatie Script";
 $LANG["phrase_full_width"] = "Volle breedte";
-$LANG["phrase_get_more"] = "Meer&hellip;";
 $LANG["phrase_getting_started"] = "Aan de slag";
 $LANG["phrase_global_placeholders"] = "GLOBALE PLACEHOLDERS";
 $LANG["phrase_group_name"] = "Groepsnaam";
@@ -847,7 +846,6 @@ $LANG["text_form_view_permission_info_private"] = "Let op: dit formulier heeft m
 $LANG["text_ft_installed"] = "Gefeliciteerd, heeft Vorm Tools succesvol geïnstalleerd!";
 $LANG["text_global_placeholder_info"] = "Deze tekstlabels kunnen in elk willekeurig formulier en sjabloon gebruikt worden.";
 $LANG["text_group_name_explanation"] = "Voor velden toegevoegd door het toevoegen Vorm proces, deze waarde vooraf is gevuld tot de weergave van tekst veld gebruikt, ongeacht de waarde. U kunt om het te veranderen om beter karakteriseren de inhoud.";
-$LANG["text_install_already_upgraded"] = "Als u al lopen de installatie script, verwijdert u de <b>/ install</b> map vervolgens <a href=\"../\" class=\"bold\">klik hier om in te loggen.</a>";
 $LANG["text_install_create_config_file"] = "Vorm Tools slaat uw server en database-instellingen in een bestand genaamd <b>config.php,</b> gevonden in uw / global / map. Klik op de &quot;Create File&quot; knop om automatisch het bestand op uw server.";
 $LANG["text_install_create_database_tables"] = "Nu gaan we om het formulier Tools database tabellen. Deze stap moet de database zelf reeds zijn gemaakt. Als u niet zeker weet hoe u dit moet doen, neem dan contact op met uw provider.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host &#39;betekent</span> meestal dat de hostnaam die u heeft opgegeven is onjuist. Misschien proberen deze instelling op &quot;localhost&quot; - dit is een veel voorkomende manier om te verwijzen naar de &quot;lokale&quot; database op een webserver.";
@@ -867,7 +865,6 @@ $LANG["text_list_views_with_filters"] = "(alleen lijsten bekeken met een gedefin
 $LANG["text_log_in_to_ft"] = "Log in om Form Tools";
 $LANG["text_login"] = "Gelieve hieronder inloggen voor toegang tot de programmanaam) (\$ Administration Panel. Als u uw wachtwoord vergeten, <a href=\"{\$forgot_password_link}\">klik hier.</a>";
 $LANG["text_login_info"] = "Op uw verzoek, hier is uw login-informatie.";
-$LANG["text_must_delete_install_folder"] = "Voordat u zich aanmeldt, <b>moet u verwijderen / install / map op uw server.</b> U zal niet worden toegestaan om in te loggen totdat deze is verwijderd.";
 $LANG["text_name_of_form"] = "De naam van het formulier.";
 $LANG["text_no_clients"] = "Er zijn momenteel geen clienten in het bestand. Om een nieuwe client aan te maken, klik hieronder op de \"Client toevoegen\" knop. ";
 $LANG["text_no_clients_found"] = "Geen klanten gevonden. Probeer verbreding uw zoekcriteria.";

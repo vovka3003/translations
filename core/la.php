@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Veidlapas piešķirts uz jebkur
 $LANG["phrase_forms_page_default_message"] = "Veidlapas lapa noklusējuma ziņojumu";
 $LANG["phrase_ft_installation"] = "Form Tools Installation Script";
 $LANG["phrase_full_width"] = "Pilns platums";
-$LANG["phrase_get_more"] = "Iegūstiet vairāk ...";
 $LANG["phrase_getting_started"] = "iesākumam";
 $LANG["phrase_global_placeholders"] = "Global vietturi";
 $LANG["phrase_group_name"] = "Grupas nosaukums";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Piezīme: šo veidlapu šobr�
 $LANG["text_ft_installed"] = "Sveicieni, veidlapa Tools ir veiksmīgi ieinstalēts!";
 $LANG["text_global_placeholder_info"] = "Šie vietturi var izmantot jebkurā veidni un jebkurā formā.";
 $LANG["text_group_name_explanation"] = "Laukiem pievieno caur Add Form process, šī vērtība ir pilnšļirces, lai attēlotu tekstu neatkarīgi no lauka izmantošanas vērtību. Jūs varat to mainīt, lai labāk raksturotu saturu.";
-$LANG["text_install_already_upgraded"] = "Ja esat jau palaist instalācijas skriptu, izdzēst <b>/ install</b> mapi, tad <a href=\"../\" class=\"bold\">klikšķiniet šeit, lai pieteiktos.</a>";
 $LANG["text_install_create_config_file"] = "Form Tools veikali Jūsu servera un datu bāzes iestatījumus failu ar nosaukumu <b>config.php</b> atrodamas jūsu / pasaules / mapi. Noklikšķiniet uz &quot;Izveidot File&quot; pogu, lai automātiski ģenerētu failu servera.";
 $LANG["text_install_create_database_tables"] = "Tagad mēs spēsim radīt Form Tools datu bāzes tabulām. Šis solis nepieciešams datubāzē sevi jau ir izveidoti. Ja neesat pārliecināts, kā to izdarīt, lūdzu, sazinieties ar jūsu hostinga sniedzēju.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> parasti nozīmē to, ka resursdatora jums ir neprecīza. Varbūt mēģiniet nosakot to par &quot;localhost&quot; - tas ir kopēju ceļu, lai atsauktos uz &quot;vietējā&quot; datu bāzes par web serveri.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(tikai saraksta Views ar vienu vai vair
 $LANG["text_log_in_to_ft"] = "Log in to Form Tools";
 $LANG["text_login"] = "Please log in zemāk, lai piekļūtu (\$ Programmas_nosaukums) administrācijas panelis. Ja esat aizmirsis savu paroli, <a href=\"{\$forgot_password_link}\">klikšķiniet šeit.</a>";
 $LANG["text_login_info"] = "Kā prasīts, šeit ir jūsu pieteikšanās informāciju.";
-$LANG["text_must_delete_install_folder"] = "Pirms piesakāties <b>ir jāizdzēš / install / mape uz servera.</b> Jums nav atļauts pieteikties, līdz tā ir izslēgta.";
 $LANG["text_name_of_form"] = "Nosaukums formu.";
 $LANG["text_no_clients"] = "Pašlaik neviena datubāzē klientiem. Pievienot jauna klienta kontam, noklikšķiniet uz Pievienot Klientu pogu zemāk.";
 $LANG["text_no_clients_found"] = "Neviens klients netika atrasts. Mēģiniet paplašināt meklēšanas kritērijiem.";

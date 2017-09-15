@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulare alocate pentru orice 
 $LANG["phrase_forms_page_default_message"] = "Formulare pagina implicit mesaj";
 $LANG["phrase_ft_installation"] = "Forma Installation Tools Script-ul de";
 $LANG["phrase_full_width"] = "Full Lăţime";
-$LANG["phrase_get_more"] = "Obţineţi mai mult de ...";
 $LANG["phrase_getting_started"] = "Noţiuni de bază";
 $LANG["phrase_global_placeholders"] = "Placeholdere globala";
 $LANG["phrase_group_name"] = "Numele grupului";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: acest formular are în 
 $LANG["text_ft_installed"] = "Felicitări, Forma Tools a fost instalat cu succes!";
 $LANG["text_global_placeholder_info"] = "Aceste substituenţi pot fi utilizate în orice şablon, precum şi orice formă.";
 $LANG["text_group_name_explanation"] = "Pentru câmpuri adăugată prin intermediul Adauga in procesul de formular, această valoare este pre-umplută a textului de afişare a oricare ar fi domeniul utilizează valoarea. Aţi putea să îl modificaţi către o mai bună caracteriza conţinutul.";
-$LANG["text_install_already_upgraded"] = "Dacă aţi rulat deja script-ul de instalare, a şterge <b>/ install</b> folder, apoi <a href=\"../\" class=\"bold\">faceţi clic aici pentru a vă conecta.</a>";
 $LANG["text_install_create_config_file"] = "Formular de magazine Instrumente server-ul dvs. şi setările în baza de date într-un fişier numit <b>config.php,</b> găsite în Global dvs. / / folder. Faceţi clic pe &quot;Creaţi fişiere&quot; buton pentru a genera automat fisierul de pe server.";
 $LANG["text_install_create_database_tables"] = "Acum vom crea Formular de tabele Instrumente bază de date. Acest pas necesită o baza de date în sine pentru a au fost deja create. Dacă nu sunteţi sigur cum să faceţi acest lucru, vă rugăm să contactaţi furnizorul dvs. de găzduire.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL server gazdă&quot;,</span> de obicei, înseamnă că numele de host-aţi furnizat este incorect. Poate că acest lucru să încercaţi să setaţi &quot;localhost&quot; - aceasta este o cale comună pentru a se referi la &quot;locale&quot; în baza de date pe un server web.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(numai listele de opinii cu unul sau ma
 $LANG["text_log_in_to_ft"] = "Conectaţi-vă la Formular de Instrumente";
 $LANG["text_login"] = "Vă rugăm să intraţi în jos pentru a accesa \$ (Nume_program) Administrare Panel. Dacă aţi uitat parola, <a href=\"{\$forgot_password_link}\">click aici.</a>";
 $LANG["text_login_info"] = "Aşa cum a solicitat, aici este informaţiile dvs. de conectare.";
-$LANG["text_must_delete_install_folder"] = "Înainte de a vă conectaţi <b>trebuie să ştergeţi / install / folder de pe server.</b> Nu li se va permite să vă conectaţi până când aceasta a fost eliminată.";
 $LANG["text_name_of_form"] = "Numele de forma.";
 $LANG["text_no_clients"] = "Momentan nu sunt clienti in baza de date. Pentru a adăuga un cont de client nou, faceţi clic pe butonul Add Client de mai jos.";
 $LANG["text_no_clients_found"] = "Nici un client nu s-au găsit. Incearca a extinde criteriile de căutare.";

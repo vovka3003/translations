@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Forms ühelegi konto";
 $LANG["phrase_forms_page_default_message"] = "Forms lehele default sõnum";
 $LANG["phrase_ft_installation"] = "Vorm Vahendid paigaldamine Script";
 $LANG["phrase_full_width"] = "Full Width";
-$LANG["phrase_get_more"] = "Rohkem ...";
 $LANG["phrase_getting_started"] = "alustanud";
 $LANG["phrase_global_placeholders"] = "Globaalne Kohanäitajad";
 $LANG["phrase_group_name"] = "Grupi nimi";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Märkus: käesolev vorm on pr
 $LANG["text_ft_installed"] = "Palju õnne, vorm Vahendid on edukalt installeeritud!";
 $LANG["text_global_placeholder_info"] = "Need kohanäitajad võib kasutada mistahes mall ja tahes kujul.";
 $LANG["text_group_name_explanation"] = "For väljad lisatakse kaudu Lisa Form protsess, see väärtus on eeltäidetud ekraanile tekst mis tahes valdkonnas kasutab väärtust. Võite seda muuta, et paremini iseloomustada sisu.";
-$LANG["text_install_already_upgraded"] = "Kui teil on juba läbi paigaldamise skript, kustutada <b>/ install</b> kausta, siis <a href=\"../\" class=\"bold\">kliki siia sisse.</a>";
 $LANG["text_install_create_config_file"] = "Vorm Vahendid salvestab teie serveri ja andmebaasi seaded faili nimega <b>config.php,</b> leida oma / maailma / kausta. Klõpsa &quot;Loo fail&quot; nupp automaatselt genereerida faili oma serverisse.";
 $LANG["text_install_create_database_tables"] = "Nüüd lähed luua vorm Vahendid andmebaasi tabelites. See samm eeldab andmebaas ise on juba loodud. Kui te ei tea, kuidas seda teha, võtke ühendust isännöintipalveluntarjoajaasi.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server&quot;</span> Tavaliselt tähendab, et hostname teil on ebaõige. Võibolla proovida millega see &quot;localhost&quot; - see on üldine viis viidata &quot;kohalike&quot; andmebaasi serverist.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(ainult nimekirjade Vaatamisi üks või
 $LANG["text_log_in_to_ft"] = "Logi vorm Tööriistad";
 $LANG["text_login"] = "Logi sisse allpool juurdepääsu (\$ programmi_nimi) Administration Panel. Kui oled unustanud parooli, <a href=\"{\$forgot_password_link}\">kliki siia.</a>";
 $LANG["text_login_info"] = "Kuna taotletud on siin logini.";
-$LANG["text_must_delete_install_folder"] = "Enne sisselogimist <b>pead kustutama / install / kausta oma serveris.</b> Te ei tohi samamoodi, kuni see on eemaldatud.";
 $LANG["text_name_of_form"] = "Nimi kujul.";
 $LANG["text_no_clients"] = "Praegu ei ole klientide andmebaasi. Et lisada uue kliendi kontole, klõpsa Lisa Klient nupp.";
 $LANG["text_no_clients_found"] = "Nr kliendid ei leitud. Proovige laiendada otsingu kriteeriumid.";

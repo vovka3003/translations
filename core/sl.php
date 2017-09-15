@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Obrazci dodeljena na kateri kol
 $LANG["phrase_forms_page_default_message"] = "Obrazci stran privzeto sporočilo";
 $LANG["phrase_ft_installation"] = "Form Tools namestitvena skripta";
 $LANG["phrase_full_width"] = "Polna širina";
-$LANG["phrase_get_more"] = "Dobi več ...";
 $LANG["phrase_getting_started"] = "kako začeti";
 $LANG["phrase_global_placeholders"] = "Global ograd";
 $LANG["phrase_group_name"] = "Ime skupine";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Opomba: ta obrazec ima trenut
 $LANG["text_ft_installed"] = "Čestitamo, aplikacija Form Tools je bila uspešno nameščena!";
 $LANG["text_global_placeholder_info"] = "Te Ograde lahko uporabijo v katerem koli predlogo in kakršni koli obliki.";
 $LANG["text_group_name_explanation"] = "Za področjih se skozi Dodaj Form proces, ta vrednost je napolnjena do prikaza besedila, ne glede na področje uporabe vrednost. Morda boste želeli spremeniti, da bi bolje opredeljuje vsebino.";
-$LANG["text_install_already_upgraded"] = "Če ste že zagnali namestitev skript, izbrisati <b>/ install</b> mapo nato <a href=\"../\" class=\"bold\">kliknite tukaj in se prijavite.</a>";
 $LANG["text_install_create_config_file"] = "Obrazec Orodja shrani vaše nastavitve strežnika in baze podatkov v datoteko z imenom <b>config.php,</b> ki se nahajajo v vašem / svetovni / mapo. Kliknite &quot;Ustvari File&quot; gumb, da samodejno ustvari datoteko na strežniku.";
 $LANG["text_install_create_database_tables"] = "Sedaj bomo ustvarili obrazec baze Orodja tabele. Ta korak zahteva baze podatkov samo, da so že bile ustvarjene. Če niste prepričani, kako to storiti, se obrnite na ponudnika gostovanja.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> ponavadi pomeni, da hostname ki ste ga navedli, je napačna. Morda poskusite nastavitev, da je to &quot;localhost&quot; - to je skupna pot za sklicevanje na &quot;lokalno&quot; bazo podatkov na spletni strežnik.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(samo sezname Pogled z opredeljenimi en
 $LANG["text_log_in_to_ft"] = "Vpiše se v Form Tools";
 $LANG["text_login"] = "Prosimo, prijavite se spodaj za dostop do (\$ ime_programa) Administration Panel. Če ste pozabili geslo, <a href=\"{\$forgot_password_link}\">kliknite tukaj.</a>";
 $LANG["text_login_info"] = "Kakor je bilo zahtevano, tukaj je vaš podatke za prijavo.";
-$LANG["text_must_delete_install_folder"] = "Preden se prijavite, <b>morate izbrisati / install / mapo na vašem strežniku.</b> Vam ne bo dovoljeno, da se prijavite, dokler je bil odstranjen to.";
 $LANG["text_name_of_form"] = "Ime obrazca.";
 $LANG["text_no_clients"] = "Trenutno ni stranke v bazo podatkov. Če želite dodati nov račun stranke, kliknite Dodaj Client spodnji gumb.";
 $LANG["text_no_clients_found"] = "No stranke so bile ugotovljene. Preizkusite razširitev vaše kriterije iskanja.";

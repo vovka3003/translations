@@ -474,7 +474,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "形式分配給任何帳戶";
 $LANG["phrase_forms_page_default_message"] = "窗體頁的默認消息";
 $LANG["phrase_ft_installation"] = "表格工具安裝腳本";
 $LANG["phrase_full_width"] = "全寬";
-$LANG["phrase_get_more"] = "獲取更多...";
 $LANG["phrase_getting_started"] = "入門";
 $LANG["phrase_global_placeholders"] = "全球佔位符";
 $LANG["phrase_group_name"] = "集團名稱";
@@ -841,7 +840,6 @@ $LANG["text_form_view_permission_info_private"] = "注：此表目前有<b>私�
 $LANG["text_ft_installed"] = "恭喜，表格工具已成功安裝！";
 $LANG["text_global_placeholder_info"] = "這些佔位符，可用於任何模板，任何形式。";
 $LANG["text_group_name_explanation"] = "添加的字段通過添加表格的過程中，此值是預先充滿的顯示文本的任何領域使用的價值。您可能希望改變它，以更好地特徵的內容。";
-$LANG["text_install_already_upgraded"] = "如果您已經運行安裝腳本，刪除<b>/安裝</b>文件夾，然後<a href=\"../\" class=\"bold\">點擊這裡登錄</a> 。";
 $LANG["text_install_create_config_file"] = "表格工具存儲您的服務器和數據庫設置一個名為<b>config.php中</b>發現，在你的/全球/文件夾中。點擊“創建文件”按鈕，自動生成該文件在您的服務器。";
 $LANG["text_install_create_database_tables"] = "現在，我們要創建的表格工具數據庫表。這一步需要數據庫本身已創建。如果您不知道如何做到這一點，請聯繫您的託管服務提供商。";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">“未知的MySQL服務器主機”，</span>通常意味著您所提供的主機名是不正確的。這也許嘗試設置為“本地主機” - 這是一種常見的方式提及“本地”數據庫，Web服務器上。";
@@ -861,7 +859,6 @@ $LANG["text_list_views_with_filters"] = "（只列出次數與一個或多個過
 $LANG["text_log_in_to_ft"] = "登錄到表格工具";
 $LANG["text_login"] = "請在下面登錄訪問）（\$程序program_name管理小組。如果您忘記了密碼， <a href=\"{\$forgot_password_link}\">請點擊這裡</a> 。";
 $LANG["text_login_info"] = "按照要求，這是你的登錄信息。";
-$LANG["text_must_delete_install_folder"] = "在您登錄前<b>必須刪除/安裝/文件夾在您的服務器。</b>您將不能登錄，直到它已被刪除。";
 $LANG["text_name_of_form"] = "這個名字的形式。";
 $LANG["text_no_clients"] = "目前有沒有客戶在數據庫中。要添加新的客戶帳戶，單擊添加客戶端按鈕。";
 $LANG["text_no_clients_found"] = "沒有找到客戶。擴大您的搜索條件。";

@@ -477,7 +477,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formuláre priradená na iný �
 $LANG["phrase_forms_page_default_message"] = "Formuláre stránku východiskovú správu";
 $LANG["phrase_ft_installation"] = "Formulár Nástroje Inštalačný skript";
 $LANG["phrase_full_width"] = "V plnej šírke";
-$LANG["phrase_get_more"] = "Získajte viac ...";
 $LANG["phrase_getting_started"] = "Začíname";
 $LANG["phrase_global_placeholders"] = "Global Symboly";
 $LANG["phrase_group_name"] = "Názov skupiny";
@@ -844,7 +843,6 @@ $LANG["text_form_view_permission_info_private"] = "Poznámka: Táto forma má v 
 $LANG["text_ft_installed"] = "Gratulujeme, náradie formulár bol úspešne nainštalovaný!";
 $LANG["text_global_placeholder_info"] = "Tieto symboly môžu byť použité v akejkoľvek šablóny a akákoľvek forma.";
 $LANG["text_group_name_explanation"] = "Pre poľa pridané cez formulár Pridať procesu, táto hodnota je pre-naplnené na zobrazenie textu bez ohľadu na pole používa hodnotu. Možno budete chcieť zmeniť, aby lepšie charakterizovať obsah.";
-$LANG["text_install_already_upgraded"] = "Ak ste už spustiť inštalačný skript, zmazať <b>/ inštalačný</b> zložky potom <a href=\"../\" class=\"bold\">kliknite tu pre prihlásenie.</a>";
 $LANG["text_install_create_config_file"] = "Formulár Nástroje sú uložené server a databázy nastavenia v súbore s názvom <b>config.php,</b> nájsť v súbore / global / zložky. Kliknite na tlačidlo &quot;Vytvoriť súbor&quot; tlačidlo pre automatické vytváranie súborov na serveri.";
 $LANG["text_install_create_database_tables"] = "Teraz budeme vytvárať formuláre Nástroje databázové tabuľky. Tento krok si vyžaduje, aby databázy sám už boli vytvorené. Ak si nie ste istí, ako to urobiť, prosím, kontaktujte svojho poskytovateľa hostingu.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> zvyčajne znamená, že názov hostiteľa je ale nesprávne. Možno skúste toto nastavenie na &quot;localhost&quot; - to je obyčajný spôsob, ako sa odkazovať na &quot;miestnej&quot; databázy na webovom serveri.";
@@ -864,7 +862,6 @@ $LANG["text_list_views_with_filters"] = "(len zoznam Obrázok s jedným alebo vi
 $LANG["text_log_in_to_ft"] = "Prihláste sa do formulára Nástroje";
 $LANG["text_login"] = "Prosím prihláste sa nižšie k prístupu názov_programu \$ () Správa panely. Ak ste zabudli svoje heslo, <a href=\"{\$forgot_password_link}\">kliknite tu.</a>";
 $LANG["text_login_info"] = "Ako bolo požadované, tady je vaše prihlasovacie údaje.";
-$LANG["text_must_delete_install_folder"] = "Skôr ako sa prihlásite, <b>musíte odstrániť, inštaláciu a zložky na serveri.</b> Nebudete môcť prihlásiť, kým nebude odstránená.";
 $LANG["text_name_of_form"] = "Názov formulára.";
 $LANG["text_no_clients"] = "Momentálne tu nie sú žiadne klientov v databáze. Ak chcete pridať nový klientský účet, kliknite na tlačidlo Pridať Klient nižšie.";
 $LANG["text_no_clients_found"] = "Neboli nájdené žiadne klientov. Skúste rozšíriť kritériá vyhľadávania.";

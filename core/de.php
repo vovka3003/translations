@@ -481,7 +481,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formulare zugeordnet auf jedes 
 $LANG["phrase_forms_page_default_message"] = "Forms-Seite Standardmeldung";
 $LANG["phrase_ft_installation"] = "Werkzeuge Installations-Skript";
 $LANG["phrase_full_width"] = "Volle Breite";
-$LANG["phrase_get_more"] = "Erfahren Sie mehr ...";
 $LANG["phrase_getting_started"] = "Erste Schritte";
 $LANG["phrase_global_placeholders"] = "GLOBALE PLATZHALTER";
 $LANG["phrase_group_name"] = "Group Name";
@@ -848,7 +847,6 @@ $LANG["text_form_view_permission_info_private"] = "Hinweis: Diese Form hat derze
 $LANG["text_ft_installed"] = "Herzlichen Glückwunsch, wurde Form Tools erfolgreich installiert!";
 $LANG["text_global_placeholder_info"] = "Diese Platzhalter können in einer Vorlage und jede Form verwendet werden.";
 $LANG["text_group_name_explanation"] = "Für Felder hat durch den Prozess Formular hinzufügen, wird dieser Wert bereits gefüllt, um das Display den Text gleich welcher Bereich verwendet den Wert. Es kann sinnvoll sein, sie zu ändern, um die Inhalte besser zu charakterisieren.";
-$LANG["text_install_already_upgraded"] = "Wenn Sie bereits ausgeführt haben das Installations-Skript, löschen Sie die <b>/ install-Ordner</b> dann <a href=\"../\" class=\"bold\">klicken Sie hier, um sich einzuloggen.</a>";
 $LANG["text_install_create_config_file"] = "Werkzeuge speichert Ihre Server und Datenbank-Einstellungen in einer Datei namens <b>config.php,</b> fand in Ihrer / global / Ordner. Klicken Sie auf die &quot;Create File&quot;-Taste, um automatisch die Datei auf Ihrem Server zu erzeugen.";
 $LANG["text_install_create_database_tables"] = "Jetzt werden wir in die Form-Tools Datenbank-Tabellen zu erstellen. Dieser Schritt erfordert die Datenbank selbst bereits geschaffen worden. Wenn Sie nicht sicher sind, wie dies zu tun, kontaktieren Sie bitte Ihren Hosting-Anbieter.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Unknown MySQL Server Host&quot;</span> bedeutet normalerweise, dass die von Ihnen angegebene Hostname nicht korrekt ist. Vielleicht versuchen Sie, diese Einstellung auf &quot;localhost&quot; - dies ist ein gemeinsamer Weg, auf die &quot;local&quot;-Datenbank auf einem Web-Server.";
@@ -868,7 +866,6 @@ $LANG["text_list_views_with_filters"] = "(Views werden nur mit einem oder mehrer
 $LANG["text_log_in_to_ft"] = "Melden Sie sich in Form Tools";
 $LANG["text_login"] = "Bitte loggen Sie sich unten auf der Programmname) (\$ Administration Panel zugreifen. Wenn Sie Ihr Passwort vergessen haben, <a href=\"{\$forgot_password_link}\">klicken Sie bitte hier</a> vergessen.";
 $LANG["text_login_info"] = "Hiermit erhalten Sie Ihre angefragte Anmeldeinformation.";
-$LANG["text_must_delete_install_folder"] = "Bevor Sie sich <b>zu löschen, müssen Sie den</b> log <b>/ install / Ordner auf Ihrem Server.</b> Sie werden nicht zugelassen werden, um sich einzuloggen, bis es entfernt wurde.";
 $LANG["text_name_of_form"] = "Der Name des Formulars.";
 $LANG["text_no_clients"] = "Es wurden keine Kunden in der Datenbank gefunden. Klicken Sie \"Kunde hinzufügen\", um ein Kundenkonto einzurichten.";
 $LANG["text_no_clients_found"] = "Keine Kunden gefunden. Erweitern Sie die Suche Kriterien.";

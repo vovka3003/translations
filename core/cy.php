@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Ffurflenni a neilltuwyd i unrhy
 $LANG["phrase_forms_page_default_message"] = "Ffurflenni neges diofyn dudalen";
 $LANG["phrase_ft_installation"] = "Ffurflen Offer Gosod Sgript";
 $LANG["phrase_full_width"] = "Lled Llawn";
-$LANG["phrase_get_more"] = "Cael mwy ...";
 $LANG["phrase_getting_started"] = "dechrau arni";
 $LANG["phrase_global_placeholders"] = "Placeholders Global";
 $LANG["phrase_group_name"] = "Enw Grŵp";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Noder: y ffurflen hon ar hyn 
 $LANG["text_ft_installed"] = "Llongyfarchiadau, Ffurflen Offer wedi cael ei defnyddio&#39;n llwyddiannus!";
 $LANG["text_global_placeholder_info"] = "Gall y rhain placeholders yn cael eu defnyddio mewn unrhyw templed ac unrhyw ffurf.";
 $LANG["text_group_name_explanation"] = "Ar gyfer meysydd ychwanegol trwy&#39;r broses Ffurflen Ychwanegu, y gwerth hwn yn llawn cyn i arddangos testun o bob maes yn defnyddio&#39;r gwerth. Efallai yr hoffech ei newid i well characterize cynnwys.";
-$LANG["text_install_already_upgraded"] = "Os oes gennych chi eisoes yn rhedeg y sgript gosod, dileu&#39;r <b>/ osod</b> folder yna <a href=\"../\" class=\"bold\">cliciwch yma i fewngofnodi.</a>";
 $LANG["text_install_create_config_file"] = "Ffurflen siopau Offer eich gweinydd a lleoliadau cronfa ddata mewn ffeil o&#39;r enw <b>config.php,</b> dod o hyd yn eich / byd-eang / folder. Cliciwch ar &quot;Creu Ffeil botwm&quot; yn awtomatig greu&#39;r ffeil ar eich gweinyddwr.";
 $LANG["text_install_create_database_tables"] = "Nawr rydym yn mynd i greu y gronfa ddata Ffurflen tablau Offer. Y cam hwn yn gofyn am y gronfa ddata ei hun i eisoes wedi cael eu creu. Os nad ydych yn siwr sut i wneud hyn, cysylltwch â&#39;ch darparwr cynnal.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Anhysbys MySQL Gweinyddwr Cynnal&quot;</span> fel arfer yn golygu bod eich enw gwesteiwr a ddarperir yn anghywir. Efallai ceisio gosod hyn i &quot;localhost&quot; - mae hwn yn ffordd gyffredin i gyfeirio at y &quot;lleol&quot; cronfa ddata ar weinydd y we.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(yn unig rhestrau Barn gydag un neu fwy
 $LANG["text_log_in_to_ft"] = "Mewngofnodi er mwyn Ffurflen Offer";
 $LANG["text_login"] = "Os gwelwch yn dda logio i mewn isod i gael mynediad i&#39;r \$ (program_name) Gweinyddiaeth Panel. Os ydych wedi anghofio eich cyfrinair, <a href=\"{\$forgot_password_link}\">cliciwch yma.</a>";
 $LANG["text_login_info"] = "Yn unol â chais, dyma eich gwybodaeth mewngofnodi.";
-$LANG["text_must_delete_install_folder"] = "Cyn i chi fewngofnodi <b>mae&#39;n rhaid i chi ddileu / install / ffolder ar eich gweinyddwr.</b> Ni chewch i logio i mewn hyd nes ei fod wedi&#39;i ddileu.";
 $LANG["text_name_of_form"] = "Mae&#39;r enw ar y ffurflen.";
 $LANG["text_no_clients"] = "Mae bryd nid oes unrhyw gleientiaid yn y gronfa ddata. I ychwanegu cyfrif cleient newydd, cliciwch y botwm Ychwanegu Cleient isod.";
 $LANG["text_no_clients_found"] = "Nifer y cleientiaid sy&#39;n cyfateb. Ceisiwch ehangu eich meini prawf chwilio.";

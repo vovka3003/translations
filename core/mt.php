@@ -473,7 +473,6 @@ $LANG["phrase_forms_assigned_to_any_account"] = "Formoli assenjat lil xi kont";
 $LANG["phrase_forms_page_default_message"] = "Paġna Formoli nuqqas messaġġ";
 $LANG["phrase_ft_installation"] = "Form Installazzjoni Tools Script";
 $LANG["phrase_full_width"] = "Wisa &#39;Sħiħa";
-$LANG["phrase_get_more"] = "Get aktar ...";
 $LANG["phrase_getting_started"] = "ser tibda";
 $LANG["phrase_global_placeholders"] = "Placeholders Globali";
 $LANG["phrase_group_name"] = "Isem Grupp";
@@ -840,7 +839,6 @@ $LANG["text_form_view_permission_info_private"] = "Nota: din il-formola bħaliss
 $LANG["text_ft_installed"] = "Congratulations, Formola Tools ġie b&#39;suċċess installata!";
 $LANG["text_global_placeholder_info"] = "Dawn placeholders jistgħu jintużaw fi kwalunkwe template u kwalunkwe forma.";
 $LANG["text_group_name_explanation"] = "Għall-oqsma miżjuda permezz tal-proċess Żid Formola, dan il-valur huwa mimlija għat-test ta &#39;wiri irrispettivament mill-qasam tuża l-valur. Inti tista jixtiequ jibdlu l-aħjar li jikkaratterizza l-kontenut.";
-$LANG["text_install_already_upgraded"] = "Jekk inti diġà run-iskript installazzjoni, ħassar il <b>/ jinstallaw</b> folder imbagħad <a href=\"../\" class=\"bold\">ikklikkja hawn biex log in.</a>";
 $LANG["text_install_create_config_file"] = "Form stores Għodod server tiegħek u settings database f&#39;fajl imsejjaħ <b>config.php,</b> misjuba fl / globali tiegħek / folder. Ikklikkja fuq il-&quot;Oħloq File&quot; buttuna biex jiġġeneraw awtomatikament il-fajl fuq is-server tiegħek.";
 $LANG["text_install_create_database_tables"] = "Issa we&#39;re se toħloq il-tabelli database Formola Tools. Dan il-pass jirrikjedi-database ruħha li diġà ġew maħluqa. Jekk int ċert kif tagħmel dan, jekk jogħġbok ikkuntattja hosting provider tiegħek.";
 $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;Mhux magħruf MySQL Server Ospitanti&quot;</span> normalment ifisser li l-hostname inti provduta ma tkunx korretta. Forsi tipprova tistabbilixxi li dan &quot;localhost&quot; - dan huwa mod komuni li tirreferi għall-&quot;lokali&quot; database fuq web server.";
@@ -860,7 +858,6 @@ $LANG["text_list_views_with_filters"] = "(biss listi Views ma &#39;wieħed jew a
 $LANG["text_log_in_to_ft"] = "Log in fil-Formola Tools";
 $LANG["text_login"] = "Jekk jogħġbok login hawn taħt għall-aċċess għall \$ (program_name) Amministrazzjoni Panel. Jekk insejt il-password tiegħek, <a href=\"{\$forgot_password_link}\">ikklikkja hawn.</a>";
 $LANG["text_login_info"] = "Kif mitlub, hawnhekk hija informazzjoni login tiegħek.";
-$LANG["text_must_delete_install_folder"] = "Qabel tilloggja <b>inti trid tħassar il / install / folder fuq server tiegħek.</b> Inti mhux se jitħallew log fil sakemm tkun ġiet imneħħija.";
 $LANG["text_name_of_form"] = "L-isem tal-formola.";
 $LANG["text_no_clients"] = "Bħalissa ma hemm ebda klijenti fid-database. Biex iżżid kont klijent ġdid, ikklikkja l-buttuna Żid Klijent hawn taħt.";
 $LANG["text_no_clients_found"] = "Nru klijenti nstabu. Ipprova twessigħ kriterji ta &#39;tiftix tiegħek.";
